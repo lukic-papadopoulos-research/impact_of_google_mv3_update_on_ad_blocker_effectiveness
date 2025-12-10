@@ -1,0 +1,134 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Fair Adblocker Mv3 Beta Mv3",
+  "description": "__MSG_appDesc__",
+  "version": "2.1.10",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "19": "icons/19.png",
+      "38": "icons/38.png"
+    },
+    "default_popup": "index.html",
+    "default_title": "Fair AdBlocker"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "minimum_chrome_version": "108",
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "alarms",
+    "notifications",
+    "tabs",
+    "webRequest",
+    "webNavigation",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "icons": {
+    "16": "icons/19.png",
+    "48": "icons/38.png",
+    "128": "icons/128.png"
+  },
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [
+        "content/core.js",
+        "common/common.js",
+        "common/stndz.js",
+        "content/platform.js",
+        "content/messaging.js",
+        "content/doc-start.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "all_frames": false,
+      "js": [
+        "content/fb.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "https://*.facebook.com/*"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "content/yt.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "https://*.youtube.com/*"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "content/ph.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "https://*.pornhub.com/*"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "content/doc-end.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_2",
+        "enabled": true,
+        "path": "declarativeNetRequests/ruleset_2.json"
+      },
+      {
+        "id": "ruleset_easylist",
+        "enabled": true,
+        "path": "declarativeNetRequests/ruleset_easylist.json"
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "content/fromStore.js",
+        "content/basePageJS.js",
+        "content/popup-blocking.js",
+        "content/youtubePageScript.js",
+        "content/pornhubPageScript.js",
+        "views/web_accessible/*"
+      ]
+    }
+  ],
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjXh8w/deRqtIbSDGGj1Do6uc62bw570DxhWoE11OEecjRmjTdWV/MdqJZ3rAjvfbWcKAsAa5XhjJNMQhY513O/rhoz8NTosZWhGqxblf3+IpQwP02Nt+ikR5fvjRUHQc1Ilro9g/vcbFyfe1psFplCplod3hhNi6Fe4/s5xCo+QaD7suqqrozSwRMgWUt20OfpOhhEtQBVewn49vq480nwXoHNR0RF1SGPB6o4zqfIcujbz4cOe40Bo2sa4GZcUlHu3PRvu536XNnyB0rGiyAomJkzPZwtPTVAQNFFMZDhgW3d6a61+WtTbBe+byh5gINe2p4DNvGBez1Z5DkkjcPwIDAQAB"
+}

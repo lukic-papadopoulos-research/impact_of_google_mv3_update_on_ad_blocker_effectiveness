@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Adăugați site-ul"
+   },
+   "added_sites": {
+      "message": "Site-uri adăugate"
+   },
+   "advanced": {
+      "message": "Avansat"
+   },
+   "advertisement": {
+      "message": "Reclamă"
+   },
+   "advertising": {
+      "message": "Publicitate"
+   },
+   "adware": {
+      "message": "Software publicitar"
+   },
+   "adware_text": {
+      "message": "Blocați programele malware care injectează reclame în browserul dvs., preiau clicurile sau pagina de pornire și urmăresc activitatea dvs."
+   },
+   "allow_fair_ads": {
+      "message": "Permiteți reclame echitabile"
+   },
+   "allow_fair_ads_description": {
+      "message": "Permiterea unui număr mic de reclame ajută la susținerea site-urilor participante care se bazează pe venituri din publicitate și susține o web liberă și corectă."
+   },
+   "allowed_sites": {
+      "message": "Site-uri permise"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Blocați reclamele enervante, popup-urile, malware-ul și urmărirea (inclusiv pe Facebook și Youtube), navigați mai rapid și vă protejați intimitatea."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Disponibil pe"
+   },
+   "back_to_home": {
+      "message": "Înapoi la pagina principală"
+   },
+   "bagels": {
+      "message": "Este ca două covrigi"
+   },
+   "basic": {
+      "message": "De bază"
+   },
+   "block_element": {
+      "message": "Blocare"
+   },
+   "block_elements_on_this_page": {
+      "message": "Blocați elementele de pe această pagină"
+   },
+   "block_popups": {
+      "message": "Blocați popup-urile pe acest site"
+   },
+   "blocking_resumed": {
+      "message": "Blocarea a fost reluată pe $host$",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Setări de blocare"
+   },
+   "blocking_statistic": {
+      "message": "Statistică de blocare"
+   },
+   "blocking_statistics_text": {
+      "message": "Aici aveți date istorice despre câte reclame au fost blocate într-un anumit interval de timp."
+   },
+   "blocks_on_this_page": {
+      "message": "Blocuri pe această pagină"
+   },
+   "blocks_today": {
+      "message": "Blocuri astăzi"
+   },
+   "board_text_1": {
+      "message": "Echipa Stands vă mulțumește pentru instalarea extensiei. Pentru a face experiența dvs. cu produsul cât mai confortabilă posibil, vă rugăm să verificați"
+   },
+   "board_text_2": {
+      "message": "și să le ajustați, dacă este necesar."
+   },
+   "bouquet": {
+      "message": "Este ca un buchet și o cutie de ciocolată"
+   },
+   "burger": {
+      "message": "Este ca un burger"
+   },
+   "burger_menu": {
+      "message": "Este ca meniul unui burger"
+   },
+   "bypass": {
+      "message": "Ignora"
+   },
+   "close": {
+      "message": "Închide"
+   },
+   "continue": {
+      "message": "Continuă"
+   },
+   "cup_of_coffee": {
+      "message": "Este ca o ceașcă de cafea"
+   },
+   "custom_amount": {
+      "message": "Sumă personalizată"
+   },
+   "custom_amount_text": {
+      "message": "Depinde de tine să alegi prețul"
+   },
+   "describe_the_issue": {
+      "message": "Descrie problema"
+   },
+   "disable_other": {
+      "message": "Dezactivează alt blocant de reclame"
+   },
+   "dismiss": {
+      "message": "Ignoră"
+   },
+   "donate": {
+      "message": "Donează"
+   },
+   "donation_screen_text": {
+      "message": "Pentru a menține accesul gratuit pentru toți utilizatorii Stands Fair, în timp ce îmbunătățim constant produsul, îți solicităm sprijinul. Toți banii vor fi utilizați pentru îmbunătățirea produsului."
+   },
+   "donation_settings_text": {
+      "message": "Stands este și va rămâne un produs gratuit. Donațiile sunt doar în scopuri caritabile și nu au niciun efect asupra funcționalității sau performanței dispozitivelor individuale. Dacă doriți să susțineți echipa noastră și să vă asigurați că extensia se poate îmbunătăți și apărea pe noi platforme, alegeți suma pe care doriți să o donați."
+   },
+   "donation_settings_title": {
+      "message": "Donează pentru Stands Fair AdBlocker"
+   },   
+   "element": {
+      "message": "element"
+   },
+   "elements": {
+      "message": "elemente"
+   },
+   "elements_blocked": {
+      "message": "$count$ elemente blocate",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_cant_be_empty": {
+      "message": "Câmpul e-mail nu poate fi gol"
+   },
+   "facebook_ads": {
+      "message": "Reclame Facebook"
+   },
+   "facebook_ads_text": {
+      "message": "Reclame care apar în fluxul tău de știri și lângă acesta. Nu sunt blocate în mod implicit deoarece așa finanțează Facebook serviciul gratuit pe care îl oferă"
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock de la STANDS"
+   },
+   "fairness_settings": {
+      "message": "Setări de echitate"
+   },
+   "fairness_settings_text": {
+      "message": "Maximul de reclame permise pe o pagină"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "feedback_screen_text": {
+      "message": "Ne-ar plăcea să auzim opiniile, sugestiile, îngrijorările sau problemele tale cu orice pentru a putea îmbunătăți!"
+   },
+   "guided_setup": {
+      "message": "Începeți cu o configurare ghidată:"
+   },
+   "guided_setup_go": {
+      "message": "HAI SĂ ÎNCEPEM"
+   },
+   "guided_setup_later": {
+      "message": "MAI TÂRZIU"
+   },
+   "has_closed_popups": {
+      "message": "Fair AdBlocker a închis $count$ popup-uri", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "în total"
+   },
+   "include_current_url": {
+      "message": "Includere URL curent în raport" 
+   },
+   "is_mandatory": {
+      "message": "$name$ este obligatoriu",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Elemente blocate"
+   },
+   "keep_off": {
+      "message": "Păstrează dezactivat."
+   },
+   "minutes_saved": {
+      "message": "Minute economisite"
+   },
+   "monthly": {
+      "message": "Lunar"
+   },
+   "monthly_donation": {
+      "message": "Donatie lunara"
+   },
+   "more_info_on_statistics": {
+      "message": "Mai multe informatii pe ecranul 'Statistici'"
+   },
+   "no_blocked_on_this_page": {
+      "message": "Nu au fost elemente blocate pe aceasta pagina"
+   },
+   "on_this_page": {
+      "message": "pe aceasta pagina"
+   },
+   "other_blocks": {
+      "message": "Celalalt tau blocant de reclame inca blocheaza reclame"
+   },
+   "other_disabled": {
+      "message": "Perfect, celelalte blocante de reclame au fost dezactivate cu succes!"
+   },
+   "other_prevents": {
+      "message": "Celalalt tau blocant de reclame impiedica evitarea"
+   },
+   "off": {
+      "message": "oprit"
+   },
+   "pay_with": {
+      "message": "Plateste cu"
+   },
+   "pay_with_credit_card": {
+      "message": "Plateste cu cardul de credit"
+   },
+   "pizza": {
+      "message": "Este ca o pizza"
+   },
+   "popups": {
+      "message": "Ferestre pop-up"
+   },
+   "popup_allowed_add_sites": {
+      "message": "Adauga site-uri cu ferestre pop-up permise folosind formularul de mai jos."
+   },
+   "popup_allowed_sites": {
+      "message": "Site-uri permise de ferestre pop-up"
+   },
+   "popups_text": {
+      "message": "In mod implicit, ferestrele pop-up sunt blocate pe toate site-urile, puteti permite ferestre pop-up pe anumite site-uri"
+   },
+   "privacy_policy": {
+      "message": "Politica de confidentialitate"
+   },
+   "rate_fairadblocker": {
+      "message": "Evaluați Fair Adblocker pentru a ne ajuta sa creștem și sa strângem mai multe fonduri"
+   },
+   "refresh": {
+      "message": "Reîncărcați"
+   },
+   "refresh_take_effect": {
+      "message": "Reîncărcați pagina pentru ca această modificare sa fie aplicata"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Raportați o problemă pe aceasta pagina"
+   },
+   "report_issue_text": {
+      "message": "Ne pare rau sa auzim ca ceva nu este in regula. Va rugam sa ne spuneti despre asta si vom remedia situatia."
+   },
+   "resume_blocking": {
+      "message": "Reluati blocarea pe acest site"
+   },
+   "seconds_saved": {
+      "message": "secunde economisite"
+   },
+   "search_ads": {
+      "message": "Reclame de cautare"
+   },
+   "search_ads_text": {
+      "message": "Reclame care apar langa rezultatele cautarii. Nu sunt blocate in mod implicit deoarece asa isi finanteaza Google, Microsoft si altii serviciul gratuit pe care il furnizeaza."
+   },
+   "send": {
+      "message": "Trimite"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "sponsored": {
+      "message": "Linkuri sponsorizate"
+   },
+   "sponsored_text": {
+      "message": "Multe site-uri afiseaza recomandari de articole relevante pentru cel pe care il cititi, unele dintre ele sunt sponsorizate si pot fi considerate reclame"
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "STANDS este activ"
+   },
+   "stands_is_paused": {
+      "message": "STANDS este oprit pe toate site-urile"
+   },
+   "stands_turned_off": {
+      "message": "STANDS este dezactivat"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "STANDS este dezactivat, doriti sa-l activati?"
+   },
+   "statistic": {
+      "message": "Statistica"
+   },
+   "stop_closing": {
+      "message": "Oprește închiderea pop-up-urilor"
+   },
+   "sushi": {
+      "message": "Este ca o cină de sushi pentru o persoană"
+   },
+   "terms_of_use": {
+      "message": "Termeni și condiții"
+   },
+   "the_site_was_whitelisted": {
+      "message": "Site-ul $host$ a fost adăugat în lista albă",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Acest site blochează sau afișează un mesaj utilizatorilor cu ad-blocker"
+   },
+   "total": {
+      "message": "Total"
+   },
+   "tracking": {
+      "message": "Urmărire"
+   },
+   "tracking_text": {
+      "message": "Protejează-ți intimitatea de mii de scripturi de urmărire web și terțe părți"
+   },
+   "turn_on": {
+      "message": "Activează"
+   },
+   "turn_on_blocking": {
+      "message": "Activează blocarea"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Activează blocarea publicității corecte"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Dezactivează blocarea pretutindeni"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Deblochează elementele de pe această pagină"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Anulează blocarea mea de elemente de pe această pagină"
+   },
+   "uninstall": {
+      "message": "Dezinstalează"
+   },
+   "version": {
+      "message": "Versiune"
+   },
+   "web_mail": {
+      "message": "Reclame webmail"
+   },
+   "web_mail_text": {
+      "message": "Reclame text care apar în partea de sus a listei de e-mailuri. Nu sunt blocate implicit, deoarece astfel Google, Yahoo și alții finanțează serviciul gratuit pe care îl oferă"
+   },
+   "whitelist": {
+      "message": "Listă albă"
+   },
+   "whitelist_this_site": {
+      "message": "Adaugă acest site în lista albă"
+   },
+   "whitelisted_sites": {
+      "message": "Site-uri din lista albă"
+   },
+   "whitelisted_text": {
+      "message": "Aici poți gestiona lista ta albă. Când un site este adăugat în lista albă, Stands este complet dezactivat pe acel site, fără blocare de niciun fel și fără plasarea de reclame care să susțină cauza ta."
+   },
+   "winebottle": {
+      "message": "Este ca o sticlă de vin bun"
+   },
+   "would_bypass": {
+      "message": "Dorești să treci peste asta sau să adaugi acest site în lista ta albă?"
+   },
+   "would_disable_other": {
+      "message": "Dorești să dezactivezi celălalt blocker de reclame?"
+   },
+   "would_rate": {
+      "message": "Dorești să ne evaluezi?"
+   },
+   "would_stop": {
+      "message": "Dorești să oprești sau să continui?"
+   },
+   "yearly": {
+      "message": "Anual"
+   },
+   "yearly_donation": {
+      "message": "Donatie anuală"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "Ai blocat $ads$ reclame, $popups$ pop-up-uri și ai economisit $saved$",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "Ai $count$ notificări necitite",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "Ai strâns $donations$ micro-donații pentru $cause$",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Ai deblocat $count$ $elems$ pe această pagină",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Teme"
+   },
+   "themes_title": {
+      "message": "Personalizați aspectul"
+   },
+   "themes_badge_settings": {
+      "message": "Setările insignei"
+   },
+   "themes_badge_disabled": {
+      "message": "Nu arăta insigna"
+   },
+   "themes_badge_page": {
+      "message": "Afișați numărul de elemente blocate pe pagina curentă"
+   },
+   "themes_badge_today": {
+      "message": "Afișați numărul de articole blocate de astăzi"
+   }
+}

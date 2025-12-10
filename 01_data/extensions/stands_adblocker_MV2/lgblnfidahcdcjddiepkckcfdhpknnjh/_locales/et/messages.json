@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Lisage sait"
+  },
+  "added_sites": {
+    "message": "Lisatud saidid"
+  },
+  "advanced": {
+    "message": "Täpsemalt"
+  },
+  "advertisement": {
+    "message": "Reklaam"
+  },
+  "advertising": {
+    "message": "Reklaamid"
+  },
+  "adware": {
+    "message": "Reklaamvara"
+  },
+  "adware_text": {
+    "message": "Takistage pahatahtlikke programme reklaamide sisestamisel teie brauserisse, klikkide või kodulehe hõivamisel ja teie tegevuse jälgimisel."
+  },
+  "allow_fair_ads": {
+    "message": "Luba ausaid reklaame"
+  },
+  "allow_fair_ads_description": {
+    "message": "Paari reklaami lubamine aitab toetada osalevaid veebisaite, mis sõltuvad tulust reklaamidest, ja toetab tasuta ja õiglast veebi."
+  },
+  "allowed_sites": {
+    "message": "Lubatud saidid"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Takistage tüütuid reklaame, hüpikaknaid, pahavara ja jälgimist (isegi Facebookis ja Youtube'is), sirvige kiiremini ja kaitsege oma privaatsust."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Tagasi avalehele"
+  },
+  "bagels": {
+    "message": "See on nagu kaks bagelit"
+  },
+  "basic": {
+    "message": "Põhiline"
+  },
+  "block_element": {
+    "message": "Blokkeerima"
+  },
+  "block_elements_on_this_page": {
+    "message": "Blokeeri elemendid sellel lehel"
+  },
+  "block_popups": {
+    "message": "Blokeeri hüpikaknad sellel saidil"
+  },
+  "blocking_resumed": {
+    "message": "Blokeerimine jätkus saidil $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Blokeerimise seaded"
+  },
+  "blocking_statistic": {
+    "message": "Blokeerimise statistika"
+  },
+  "blocking_statistics_text": {
+    "message": "Siin on ajalooline teave selle kohta, kui palju reklaame on teatud perioodi jooksul blokeeritud."
+  },
+  "blocks_on_this_page": {
+    "message": "Blokid sellel lehel"
+  },
+  "blocks_today": {
+    "message": "Plokkid täna"
+  },
+  "board_text_1": {
+    "message": "Stands tiim on teile tänulik, et paigaldasite laienduse. Et muuta toote kasutamine võimalikult mugavaks, palun vaadake"
+  },
+  "board_text_2": {
+    "message": "üle ja kohandage neid vajadusel."
+  },
+  "bouquet": {
+    "message": "See on nagu kimp lilli ja karbike šokolaadi"
+  },
+  "burger": {
+    "message": "See on nagu burger"
+  },
+  "burger_menu": {
+    "message": "See on nagu burgerimenüü"
+  },
+  "bypass": {
+    "message": "Möödu"
+  },
+  "close": {
+    "message": "Sulge"
+  },
+  "continue": {
+    "message": "Jätka"
+  },
+  "cup_of_coffee": {
+    "message": "See on nagu tass kohvi"
+  },
+  "custom_amount": {
+    "message": "Kohandatud summa"
+  },
+  "custom_amount_text": {
+    "message": "Hind jääb sinu valida"
+  },
+  "describe_the_issue": {
+    "message": "Kirjelda probleemi"
+  },
+  "disable_other": {
+    "message": "Keela teised reklaamiblokeerijad"
+  },
+  "dismiss": {
+    "message": "Eemalda"
+  },
+  "donate": {
+    "message": "Annetama"
+  },
+  "donation_screen_text": {
+    "message": "Selleks, et säilitada täiesti kõigile Stands Fair kasutajatele tasuta juurdepääs, samal ajal toote pidevalt parendades, palume teie toetust. Kogu raha suunatakse toote parendamiseks."
+  },
+  "donation_settings_text": {
+    "message": "Stands on ja jääb tasuta tooteks. Annetused on ainult heategevuslikel eesmärkidel ning need ei mõjuta seadmete funktsionaalsust ega jõudlust. Kui soovite meeskonda toetada ja tagada, et laiendus saaks ainult paremaks ja ilmuks uutele platvormidele, valige summa, mida soovite annetada."
+  },
+  "donation_settings_title": {
+    "message": "Annetage Stands AdBlocker'ile"
+  },
+  "element": {
+    "message": "element"
+  },
+  "elements": {
+    "message": "elemendid"
+  },
+  "elements_blocked": {
+    "message": "$count$ elementi blokeeritud",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "E-post"
+  },
+  "email_cant_be_empty": {
+    "message": "E-post ei saa olla tühi"
+  },
+  "facebook_ads": {
+    "message": "Facebooki reklaamid"
+  },
+  "facebook_ads_text": {
+    "message": "Reklaamid, mis ilmuvad sinu uudisvoos ja selle kõrval. Vaikimisi pole blokeeritud, sest see on Facebooki poolt pakutava tasuta teenuse rahastamise viis."
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker by STANDS"
+  },
+  "fairness_settings": {
+    "message": "Õigluseseaded"
+  },
+  "fairness_settings_text": {
+    "message": "Maksimaalne reklaamide arv lehel"
+  },
+  "feedback": {
+    "message": "Tagasiside"
+  },
+  "feedback_screen_text": {
+    "message": "Soovime kuulda teie mõtteid, ettepanekuid, muresid või probleeme mis tahes küsimusega seoses, et saaksime parendusi teha!"
+  },
+  "guided_setup": {
+    "message": "Alustage juhendatud seadistusega:"
+  },
+  "guided_setup_go": {
+    "message": "ALUSTAME"
+  },
+  "guided_setup_later": {
+    "message": "HILJEM"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker on sulgenud $count$ hüpikakent",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "kokku"
+  },
+  "include_current_url": {
+    "message": "Kaasa praegune URL aruandes"
+  },
+  "is_mandatory": {
+    "message": "$name$ on kohustuslik",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Blokeeritud üksused"
+  },
+  "keep_off": {
+    "message": "Hoidke see välja"
+  },
+  "minutes_saved": {
+    "message": "säästetud minutid"
+  },
+  "monthly": {
+    "message": "Igakuine"
+  },
+  "monthly_donation": {
+    "message": "Kuuannetus"
+  },
+  "more_info_on_statistics": {
+    "message": "Rohkem infot 'Statistika' ekraanil"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Sellel lehel ei olnud blokeeritud ühtegi elementi"
+  },
+  "on_this_page": {
+    "message": "sellel lehel"
+  },
+  "other_blocks": {
+    "message": "Teine reklaamiblokeerija blokeerib endiselt reklaame"
+  },
+  "other_disabled": {
+    "message": "Täiuslik, teine reklaamiblokeerija on edukalt keelatud!"
+  },
+  "other_prevents": {
+    "message": "Teine reklaamiblokeerija takistab möödumist"
+  },
+  "off": {
+    "message": "välja"
+  },
+  "pay_with": {
+    "message": "Maksa"
+  },
+  "pay_with_credit_card": {
+    "message": "Maksa krediitkaardiga"
+  },
+  "pizza": {
+    "message": "See on nagu pitsa"
+  },
+  "popups": {
+    "message": "Hüpikaknad"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Lisage lubatud hüpikaknadega saite allpool oleva vormi abil."
+  },
+  "popup_allowed_sites": {
+    "message": "Lubatud hüpikakende saitide loend"
+  },
+  "popups_text": {
+    "message": "Vaikimisi on hüpikaknad blokeeritud kõigil saitidel, kuid saate lubada hüpikaknad konkreetsetel saitidel."
+  },
+  "privacy_policy": {
+    "message": "Privaatsuspoliitika"
+  },
+  "rate_stands_adblocker": {
+    "message": "Hindamaks Stands AdBlockerit kasvamiseks ja raha kogumiseks, anna hinnang"
+  },
+  "refresh": {
+    "message": "Värskenda"
+  },
+  "refresh_take_effect": {
+    "message": "Värskendage lehte, et muudatus jõustuks."
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Teata probleem sellel lehel"
+  },
+  "report_issue_text": {
+    "message": "Vabandame, et midagi ei ole õige. Palun andke meile sellest teada ja me parandame selle ära."
+  },
+  "resume_blocking": {
+    "message": "Jätka blokeerimist sellel saidil"
+  },
+  "seconds_saved": {
+    "message": "säästetud sekundid"
+  },
+  "search_ads": {
+    "message": "Otsingu reklaamid"
+  },
+  "search_ads_text": {
+    "message": "Reklaamid, mis ilmuvad teie otsingutulemuste kõrval. Vaikimisi ei blokeerita neid, sest nii rahastavad Google, Microsoft ja teised oma tasuta teenust"
+  },
+  "send": {
+    "message": "Saada"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Seaded"
+  },
+  "sponsored": {
+    "message": "Sponsoritud lingid"
+  },
+  "sponsored_text": {
+    "message": "Paljud saidid näitavad artiklisoovitusi, mis on seotud artikliga, mida loete, mõned neist on sponsoreeritud ja võivad olla reklaamid"
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS on tagasi"
+  },
+  "stands_is_paused": {
+    "message": "STANDS on pausil kõigil saitidel"
+  },
+  "stands_turned_off": {
+    "message": "STANDS on välja lülitatud"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS on välja lülitatud, kas soovite selle sisse lülitada?"
+  },
+  "statistic": {
+    "message": "Statistika"
+  },
+  "stop_closing": {
+    "message": "Lõpeta hüpikakende sulgemine"
+  },
+  "sushi": {
+    "message": "See on nagu ühele inimesele sushi õhtusöök"
+  },
+  "terms_of_use": {
+    "message": "Kasutustingimused"
+  },
+  "the_site_was_whitelisted": {
+    "message": "Sait $host$ on lubatud",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "See sait blokeerib või näitab sõnumit reklaamiblokeerijate kasutajatele"
+  },
+  "total": {
+    "message": "Kokku"
+  },
+  "tracking": {
+    "message": "Jälitus"
+  },
+  "tracking_text": {
+    "message": "Kaitse oma privaatsust tuhandete veebilehe jälgimisskriptide ja kolmandate osapoolte eest"
+  },
+  "turn_on": {
+    "message": "Lülita sisse"
+  },
+  "turn_on_blocking": {
+    "message": "Lülita blokeerimine sisse"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Lülita õiglane reklaamiblokeering sisse"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Lülita blokeerimine igal pool välja"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Luba elemente sellel lehel"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Tühista minu blokeeritud elemendid sellel lehel"
+  },
+  "uninstall": {
+    "message": "Eemalda"
+  },
+  "version": {
+    "message": "Versioon"
+  },
+  "web_mail": {
+    "message": "Veebimeili reklaamid"
+  },
+  "web_mail_text": {
+    "message": "Tekstreklaamid, mis ilmuvad sinu meililoendi ülaosas. Vaikimisi ei ole blokeeritud, kuna see on Google'i, Yahoo ja teiste tasuta teenuse rahastamise viis."
+  },
+  "whitelist": {
+    "message": "Valge nimekiri"
+  },
+  "whitelist_this_site": {
+    "message": "Lisa see sait valge nimekirja"
+  },
+  "whitelisted_sites": {
+    "message": "Valgenimekirjas olevad saidid"
+  },
+  "whitelisted_text": {
+    "message": "Siin saad hallata oma valget nimekirja. Kui sait on valgenimekirjas, on Stands selles täielikult välja lülitatud, pole blokeerimist ega ka sinu eesmärki toetavaid reklaame."
+  },
+  "winebottle": {
+    "message": "See on nagu pudel hea veini"
+  },
+  "would_bypass": {
+    "message": "Kas soovid seda mööda minna või lisada selle saidi valgenimekirja?"
+  },
+  "would_disable_other": {
+    "message": "Kas soovid keelata oma teise reklaamiblokeerija?"
+  },
+  "would_rate": {
+    "message": "Kas soovid meid hinnata?"
+  },
+  "would_stop": {
+    "message": "Kas soovid, et see peatuks või jätkuks?"
+  },
+  "yearly": {
+    "message": "Aastane"
+  },
+  "yearly_donation": {
+    "message": "Aastane annetus"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Sa blokeerisid $ads$ reklaami, $popups$ hüpikakent ja säästsid $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Sa kogusid $donations$ mikroannetust $cause$ toetuseks",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Sa tühistasid $count$ $elems$ blokeeringu sellel lehel",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Teema"
+  },
+  "themes_title": {
+    "message": "Kohandage välimust"
+  },
+  "themes_badge_settings": {
+    "message": "Märgi Seaded"
+  },
+  "themes_badge_disabled": {
+    "message": "Ära näita märki"
+  },
+  "themes_badge_page": {
+    "message": "Näita blokeeritud üksuste arvu praegusel lehel"
+  },
+  "themes_badge_today": {
+    "message": "Näita tänase blokeeritud üksuste arvu"
+  },
+  "donation_card_text": {
+    "message": "Et hoida $stands$ tasuta ja parandada selle kvaliteeti, palume teie toetust.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Saadaval $android$ ja teiste brauserite jaoks",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Lae $stands_browser$ ja nautida ad-free web surfing $android$. Laienduse saate installida ka teistesse brauseritesse.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Kuidas meid toetada?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ on ja saab olema tasuta toode. Võite annetada mis tahes summa, et laiendus paraneks ja ilmuks rohkematel platvormidel.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Aidake meil hoida $stands$ tasuta ja parandada selle kvaliteeti",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

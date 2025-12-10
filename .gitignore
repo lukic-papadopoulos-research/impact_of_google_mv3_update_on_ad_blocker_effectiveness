@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# renv (library is recreated by renv::restore())
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Quarto
+/.quarto/
+*_cache/
+*_files/
+# Quarto/Jupyter generated output (can be regenerated)
+02_scripts/02_R/reproducible_analysis.html
+02_scripts/02_R/reproducible_analysis_files/
+
+# R output
+Rplots.pdf
+
+# Claude Code (local only)
+CLAUDE.md

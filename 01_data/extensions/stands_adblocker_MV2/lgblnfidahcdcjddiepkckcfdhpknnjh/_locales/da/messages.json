@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Tilføj websted"
+  },
+  "added_sites": {
+    "message": "Tilføjede websteder"
+  },
+  "advanced": {
+    "message": "Avanceret"
+  },
+  "advertisement": {
+    "message": "Reklame"
+  },
+  "advertising": {
+    "message": "Annoncering"
+  },
+  "adware": {
+    "message": "Adware"
+  },
+  "adware_text": {
+    "message": "Bloker skadelige programmer fra at injicere reklamer i din browser, kapre dine klik eller startside og spore din aktivitet."
+  },
+  "allow_fair_ads": {
+    "message": "Tillad fair reklamer"
+  },
+  "allow_fair_ads_description": {
+    "message": "Ved at tillade et par reklamer hjælper du med at støtte de deltagende websteder, der er afhængige af indtægter fra annoncering og støtter et frit og fair web."
+  },
+  "allowed_sites": {
+    "message": "Tilladte websteder"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Bloker irriterende reklamer, pop-ups, malware og sporing (selv på Facebook og Youtube), surf hurtigere og beskyt din privatliv."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Tilbage til startskærmen"
+  },
+  "bagels": {
+    "message": "Det er som to bagels"
+  },
+  "basic": {
+    "message": "Basis"
+  },
+  "block_element": {
+    "message": "Bloker"
+  },
+  "block_elements_on_this_page": {
+    "message": "Bloker elementer på denne side"
+  },
+  "block_popups": {
+    "message": "Bloker pop-ups på denne side"
+  },
+  "blocking_resumed": {
+    "message": "Blokeringsfunktion genoptaget på $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Blokeringsindstillinger"
+  },
+  "blocking_statistic": {
+    "message": "Blokeringsstatistik"
+  },
+  "blocking_statistics_text": {
+    "message": "Her kan du se historiske data om, hvor mange reklamer der blev blokeret over en vis periode."
+  },
+  "blocks_on_this_page": {
+    "message": "Blokerede på denne side"
+  },
+  "blocks_today": {
+    "message": "Blokerede i dag"
+  },
+  "board_text_1": {
+    "message": "Stands-holdet er taknemmelig for, at du har installeret udvidelsen. For at gøre din oplevelse med produktet så behagelig som muligt, bedes du gennemgå"
+  },
+  "board_text_2": {
+    "message": "og justere dem, hvis det er nødvendigt."
+  },
+  "bouquet": {
+    "message": "Det er som en buket og en æske chokolade"
+  },
+  "burger": {
+    "message": "Det er som en burger"
+  },
+  "burger_menu": {
+    "message": "Det er som en burgermenu"
+  },
+  "bypass": {
+    "message": "Omgå"
+  },
+  "close": {
+    "message": "Luk"
+  },
+  "continue": {
+    "message": "Fortsæt"
+  },
+  "cup_of_coffee": {
+    "message": "Det er som en kop kaffe"
+  },
+  "custom_amount": {
+    "message": "Tilpasset beløb"
+  },
+  "custom_amount_text": {
+    "message": "Det er op til dig at vælge prisen"
+  },
+  "describe_the_issue": {
+    "message": "Beskriv problemet"
+  },
+  "disable_other": {
+    "message": "Deaktiver anden annonceblokker"
+  },
+  "dismiss": {
+    "message": "Afvis"
+  },
+  "donate": {
+    "message": "Doner"
+  },
+  "donation_screen_text": {
+    "message": "For at opretholde gratis adgang for alle Stands Fair-brugere, samtidig med at produktet konstant forbedres, beder vi om din støtte. Alle penge vil gå til at forbedre produktet."
+  },
+  "donation_settings_text": {
+    "message": "Stands er og vil være et gratis produkt. Donationer er udelukkende til velgørende formål og har ingen indvirkning på funktionaliteten eller ydeevnen på individuelle enheder. Hvis du vil støtte vores team og sikre, at udvidelsen kun bliver bedre og vises på nye platforme, skal du vælge det beløb, du gerne vil donere."
+  },
+  "donation_settings_title": {
+    "message": "Doner til Stands AdBlocker"
+  },
+  "element": {
+    "message": "element"
+  },
+  "elements": {
+    "message": "elementer"
+  },
+  "elements_blocked": {
+    "message": "$count$ elementer blokeret",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "E-mail"
+  },
+  "email_cant_be_empty": {
+    "message": "E-mail kan ikke være tom"
+  },
+  "facebook_ads": {
+    "message": "Facebook-annoncer"
+  },
+  "facebook_ads_text": {
+    "message": "Annoncer, der vises i dit nyhedsfeed og ved siden af det. Ikke blokeret som standard, fordi det er sådan, Facebook finansierer den gratis service, den leverer."
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker af STANDS"
+  },
+  "fairness_settings": {
+    "message": "Fairness-indstillinger"
+  },
+  "fairness_settings_text": {
+    "message": "Maksimalt antal annoncer tilladt på en side"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedback_screen_text": {
+    "message": "Vi vil gerne høre dine tanker, forslag, bekymringer eller problemer med noget, så vi kan forbedre!"
+  },
+  "guided_setup": {
+    "message": "Start med en guidet opsætning:"
+  },
+  "guided_setup_go": {
+    "message": "LAD OS GÅ"
+  },
+  "guided_setup_later": {
+    "message": "SENERE"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker har lukket $count$ popups",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "i alt"
+  },
+  "include_current_url": {
+    "message": "Inkludér den nuværende URL i rapporten"
+  },
+  "is_mandatory": {
+    "message": "$name$ er obligatorisk",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Blokerede elementer"
+  },
+  "keep_off": {
+    "message": "Hold det slået fra"
+  },
+  "minutes_saved": {
+    "message": "minutter sparet"
+  },
+  "monthly": {
+    "message": "Månedlige"
+  },
+  "monthly_donation": {
+    "message": "Månedsvis donation"
+  },
+  "more_info_on_statistics": {
+    "message": "Mere info på 'Statistik' skærmen"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Der var ingen blokerede elementer på denne side"
+  },
+  "on_this_page": {
+    "message": "på denne side"
+  },
+  "other_blocks": {
+    "message": "Din anden annoncør blokerer stadig annoncer"
+  },
+  "other_disabled": {
+    "message": "Perfekt, andre annoncører blev deaktiveret med succes!"
+  },
+  "other_prevents": {
+    "message": "Din anden annoncør forhindrer omgåelsen"
+  },
+  "off": {
+    "message": "slukket"
+  },
+  "pay_with": {
+    "message": "Betal med"
+  },
+  "pay_with_credit_card": {
+    "message": "Betal med kreditkort"
+  },
+  "pizza": {
+    "message": "Det er som en pizza"
+  },
+  "popups": {
+    "message": "Pop-ups"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Tilføj websteder med tilladte popups ved hjælp af formularen nedenfor."
+  },
+  "popup_allowed_sites": {
+    "message": "Popup tilladte websteder"
+  },
+  "popups_text": {
+    "message": "Som standard blokeres popups på alle websteder, du kan tillade popups på specifikke websteder"
+  },
+  "privacy_policy": {
+    "message": "Fortrolighedspolitik"
+  },
+  "rate_stands_adblocker": {
+    "message": "Bedøm Stands AdBlocker for at hjælpe os med at vokse og rejse mere"
+  },
+  "refresh": {
+    "message": "Opdater"
+  },
+  "refresh_take_effect": {
+    "message": "Opdater siden for at denne ændring træder i kraft"
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Rapportér problem på denne side"
+  },
+  "report_issue_text": {
+    "message": "Vi beklager at høre, at noget ikke er i orden. Fortæl os om det, og vi vil rette det."
+  },
+  "resume_blocking": {
+    "message": "Genoptag blokering på dette websted"
+  },
+  "seconds_saved": {
+    "message": "sekunder sparet"
+  },
+  "search_ads": {
+    "message": "Søgeannoncer"
+  },
+  "search_ads_text": {
+    "message": "Annoncer, der vises ved siden af dine søgeresultater. Blokeres ikke som standard, fordi det er sådan, Google, Microsoft og andre finansierer den gratis service, de leverer"
+  },
+  "send": {
+    "message": "Send"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Indstillinger"
+  },
+  "sponsored": {
+    "message": "Sponsorede links"
+  },
+  "sponsored_text": {
+    "message": "Mange websteder viser artikelanbefalinger, der er relevante for den, du læser, nogle af dem er sponsoreret og kan betragtes som annoncer"
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS er tilbage på"
+  },
+  "stands_is_paused": {
+    "message": "STANDS er sat på pause på alle sider"
+  },
+  "stands_turned_off": {
+    "message": "STANDS er slukket"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS er slukket, vil du gerne tænde den?"
+  },
+  "statistic": {
+    "message": "Statistik"
+  },
+  "stop_closing": {
+    "message": "Stop med at lukke popups"
+  },
+  "sushi": {
+    "message": "Det er som en sushi-middag for én person"
+  },
+  "terms_of_use": {
+    "message": "Brugsbetingelser"
+  },
+  "the_site_was_whitelisted": {
+    "message": "Webstedet $host$ blev sat på hvidlisten",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "Dette websted blokerer eller viser en besked til ad-block-brugere"
+  },
+  "total": {
+    "message": "Total"
+  },
+  "tracking": {
+    "message": "Sporing"
+  },
+  "tracking_text": {
+    "message": "Beskyt dit privatliv mod tusindvis af web-tracking-scripts og tredjeparter"
+  },
+  "turn_on": {
+    "message": "Tænd for"
+  },
+  "turn_on_blocking": {
+    "message": "Tænd for blokering"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Tænd for fair ad-blokering"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Sluk blokering overalt"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Fjern blokering af elementer på denne side"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Fortryd mine blokerede elementer på denne side"
+  },
+  "uninstall": {
+    "message": "Afinstaller"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "web_mail": {
+    "message": "Webmail-annoncer"
+  },
+  "web_mail_text": {
+    "message": "Tekstannoncer, der vises øverst på din mail-liste. Ikke blokeret som standard, fordi det er sådan, Google, Yahoo og andre finansierer den gratis service, de leverer."
+  },
+  "whitelist": {
+    "message": "Hvidliste"
+  },
+  "whitelist_this_site": {
+    "message": "Føj denne side til whitelisten"
+  },
+  "whitelisted_sites": {
+    "message": "Whitelistede sider"
+  },
+  "whitelisted_text": {
+    "message": "Her kan du administrere din whitelist. Når en side er whitelisted, er Stands helt deaktiveret på den side, ingen blokering af nogen art og ingen visning af annoncer, der støtter din sag."
+  },
+  "winebottle": {
+    "message": "Det er som en flaske god vin"
+  },
+  "would_bypass": {
+    "message": "Vil du bypassere det eller tilføje dette websted til whitelisten?"
+  },
+  "would_disable_other": {
+    "message": "Vil du deaktivere din anden ad-blocker?"
+  },
+  "would_rate": {
+    "message": "Vil du bedømme os?"
+  },
+  "would_stop": {
+    "message": "Vil du have det til at stoppe eller fortsætte?"
+  },
+  "yearly": {
+    "message": "Årligt"
+  },
+  "yearly_donation": {
+    "message": "Årligt donation"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Du har blokeret $ads$ annoncer, $popups$ popups og sparet $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Du har rejst $donations$ mikro-donationer til $cause$",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Du har afblokeret $count$ $elems$ på denne side",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Tema"
+  },
+  "themes_title": {
+    "message": "Tilpas udseende"
+  },
+  "themes_badge_settings": {
+    "message": "Badge indstillinger"
+  },
+  "themes_badge_disabled": {
+    "message": "Vis ikke mærket"
+  },
+  "themes_badge_page": {
+    "message": "Vis antallet af blokerede elementer på den aktuelle side"
+  },
+  "themes_badge_today": {
+    "message": "Vis dagens antal blokerede elementer"
+  },
+  "donation_card_text": {
+    "message": "For at holde $stands$ gratis og forbedre dens kvalitet, beder vi om din støtte.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Tilgængelig for $android$ og andre brugere",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Hent $stands_browser$ og nyd annoncefri surfing på $android$. Du kan også installere udvidelsen på andre brugere.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Hvordan støtter vi os?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ er og vil være et gratis produkt. Du kan donere ethvert beløb for at sikre, at udvidelsen bliver bedre og vises på flere platforme.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Hjælp os med at holde $stands$ gratis og forbedre dens kvalitet",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

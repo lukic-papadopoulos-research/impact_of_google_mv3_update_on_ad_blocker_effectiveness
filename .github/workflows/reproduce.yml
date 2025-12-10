@@ -1,0 +1,22 @@
+name: Reproducibility Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Build Docker image
+      run: docker build -t mv3-artifact .
+
+    - name: Verify pre-generated outputs
+      run: docker run --rm mv3-artifact Rscript verify_outputs.R

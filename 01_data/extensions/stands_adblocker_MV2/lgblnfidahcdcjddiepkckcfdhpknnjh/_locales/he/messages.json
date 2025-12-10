@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "הוסף אתר"
+  },
+  "added_sites": {
+    "message": "אתרים שהוספו"
+  },
+  "advanced": {
+    "message": "מתקדם"
+  },
+  "advertisement": {
+    "message": "פרסומת"
+  },
+  "advertising": {
+    "message": "פרסום"
+  },
+  "adware": {
+    "message": "אדוור"
+  },
+  "adware_text": {
+    "message": "חסום תוכנות זדוניות שמכניסות פרסומות לדפדפן שלך, מגניבות את הלחיצות שלך או את עמוד הבית ומעקבות אחרי הפעילות שלך"
+  },
+  "allow_fair_ads": {
+    "message": "מאפשר פרסומות נוחות"
+  },
+  "allow_fair_ads_description": {
+    "message": "בחירה לאפשר מספר פרסומות עוזרת לתמיכה באתרי האינטרנט המשתתפים שמסתמכים על הרווחים מפרסום ותומכת ברשת חופשית והוגנת."
+  },
+  "allowed_sites": {
+    "message": "אתרים מאושרים"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "חסום פרסומות מפריעות, חלונות קופצים, תוכנות זדוניות ומעקב (גם בפייסבוק ויוטיוב), דפדפן מהיר יותר והגנה על הפרטיות שלך."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "חזרה למסך הבית"
+  },
+  "bagels": {
+    "message": "זה כמו שני בייגלים"
+  },
+  "basic": {
+    "message": "בסיסי"
+  },
+  "block_element": {
+    "message": "חסום"
+  },
+  "block_elements_on_this_page": {
+    "message": "סגירת אלמנטים בדף זה"
+  },
+  "block_popups": {
+    "message": "חסימת חלונות קופצים באתר זה"
+  },
+  "blocking_resumed": {
+    "message": "חסימה שובה על $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "הגדרות חסימה"
+  },
+  "blocking_statistic": {
+    "message": "סטטיסטיקת חסימות"
+  },
+  "blocking_statistics_text": {
+    "message": "כאן תוכל למצוא מידע היסטורי על כמות המודעות שנחסמו במשך תקופה מסוימת."
+  },
+  "blocks_on_this_page": {
+    "message": "חסימות בדף זה"
+  },
+  "blocks_today": {
+    "message": "חסימות היום"
+  },
+  "board_text_1": {
+    "message": "צוות Stands מודה לך על התקנת התוסף. כדי להבטיח לך חוויה נוחה ומקסימלית עם המוצר, נא לסקור את ה"
+  },
+  "board_text_2": {
+    "message": "ולהתאים אותם לצרכיך, במידת הצורך."
+  },
+  "bouquet": {
+    "message": "זה כמו בוקט פרחים וקופסת שוקולד"
+  },
+  "burger": {
+    "message": "זה כמו המבורגר"
+  },
+  "burger_menu": {
+    "message": "זה כמו תפריט המבורגר"
+  },
+  "bypass": {
+    "message": "דילוג"
+  },
+  "close": {
+    "message": "סגירה"
+  },
+  "continue": {
+    "message": "המשך"
+  },
+  "cup_of_coffee": {
+    "message": "זה כמו כוס קפה"
+  },
+  "custom_amount": {
+    "message": "סכום מותאם אישית"
+  },
+  "custom_amount_text": {
+    "message": "זה תלוי בך לבחור את המחיר"
+  },
+  "describe_the_issue": {
+    "message": "תאר את הבעיה"
+  },
+  "disable_other": {
+    "message": "כיבוי מחסימת מודעות מתקבלות אחרות"
+  },
+  "dismiss": {
+    "message": "בטל"
+  },
+  "donate": {
+    "message": "תרומה"
+  },
+  "donation_screen_text": {
+    "message": "כדי להבטיח גישה חופשית לכל משתמשי Stands Fair ובו זמנית לשפר את המוצר כל הכסף יהיה נמען לשיפור המוצר."
+  },
+  "donation_settings_text": {
+    "message": "Stands הוא ויהיה מוצר חינמי. כל התרומות הן למטרות צדקה ואין להן שום השפעה על הפונקציונאליות או הביצועים של ההתקן על מכשירים פרטיים. אם ברצונך לתמ"
+  },
+  "donation_settings_title": {
+    "message": "תרום ל-  Stands AdBlocker"
+  },
+  "element": {
+    "message": "אלמנט"
+  },
+  "elements": {
+    "message": "אלמנטים"
+  },
+  "elements_blocked": {
+    "message": "$count$ אלמנטים חסומים",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "דוא'ל"
+  },
+  "email_cant_be_empty": {
+    "message": "הדוא'ל אינו יכול להיות ריק"
+  },
+  "facebook_ads": {
+    "message": "פרסומות בפייסבוק"
+  },
+  "facebook_ads_text": {
+    "message": "פרסומות המופיעות בזירת החדשות ובצד לה. לא חסומות כברירת מחדל מכיוון שזה איך פייסבוק מזכיר את השירות החינמי שהוא מספק"
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker על ידי STANDS"
+  },
+  "fairness_settings": {
+    "message": "הגדרות הוגנות"
+  },
+  "fairness_settings_text": {
+    "message": "מקסימום פרסומות המותרות בדף"
+  },
+  "feedback": {
+    "message": "משוב"
+  },
+  "feedback_screen_text": {
+    "message": "נשמח לשמוע את דעתך, הצעות, דאגות או בעיות בכל נושא כדי שנוכל לשפר!"
+  },
+  "guided_setup": {
+    "message": "התחל עם הגדרה מודרכת:"
+  },
+  "guided_setup_go": {
+    "message": "כן, בוא נתחיל"
+  },
+  "guided_setup_later": {
+    "message": "לא כרגע"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker חסם $count$ חלונות קופצים",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "סך הכל"
+  },
+  "include_current_url": {
+    "message": "כלול את כתובת ה-URL הנוכחית בדו'ח"
+  },
+  "is_mandatory": {
+    "message": "$name$ הוא חובה",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "פריטים חסומים"
+  },
+  "keep_off": {
+    "message": "השאר את זה כפועל"
+  },
+  "minutes_saved": {
+    "message": "דקות נשמרו"
+  },
+  "monthly": {
+    "message": "כוידעשלעך"
+  },
+  "monthly_donation": {
+    "message": "תרומה חודשית"
+  },
+  "more_info_on_statistics": {
+    "message": "מידע נוסף במסך 'סטטיסטיקה'"
+  },
+  "no_blocked_on_this_page": {
+    "message": "לא היו רכיבים שחסמו על דף זה"
+  },
+  "on_this_page": {
+    "message": "על דף זה"
+  },
+  "other_blocks": {
+    "message": "המחסנית השונה שלך עדיין מחסלת פרסומות"
+  },
+  "other_disabled": {
+    "message": "מצוין, המחסנית השונה נוטרלה בהצלחה!"
+  },
+  "other_prevents": {
+    "message": "המחסנית השונה שלך מונעת את ההתעלמות"
+  },
+  "off": {
+    "message": "כבוי"
+  },
+  "pay_with": {
+    "message": "שלם באמצעות"
+  },
+  "pay_with_credit_card": {
+    "message": "שלם באמצעות כרטיס אשראי"
+  },
+  "pizza": {
+    "message": "זה כמו פיצה"
+  },
+  "popups": {
+    "message": "חלונות קופצים"
+  },
+  "popup_allowed_add_sites": {
+    "message": "הוסף אתרים עם חלונות קופצים מאושרים באמצעות הטופס למטה."
+  },
+  "popup_allowed_sites": {
+    "message": "אתרי חלונות קופצים מאושרים"
+  },
+  "popups_text": {
+    "message": "כברירת מחדל חלונות קופצים נחסמים בכל האתרים, ניתן לאפשר חלונות קופצים על אתרים ספציפיים"
+  },
+  "privacy_policy": {
+    "message": "מדיניות פרטיות"
+  },
+  "rate_stands_adblocker": {
+    "message": "דרגו את Stands AdBlocker כדי לעזור לנו לגדול ולהרוויח עוד יותר"
+  },
+  "refresh": {
+    "message": "רענון"
+  },
+  "refresh_take_effect": {
+    "message": "רענן את הדף כדי להחיל את השינויים"
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "דווח על בעיה בדף זה"
+  },
+  "report_issue_text": {
+    "message": "אנו מצטערים שמשהו לא תקין. אנא ספר לנו על זה ונתקן את זה."
+  },
+  "resume_blocking": {
+    "message": "המשך חסימת האתר הזה"
+  },
+  "seconds_saved": {
+    "message": "שניות נשמרו"
+  },
+  "search_ads": {
+    "message": "פרסומות חיפוש"
+  },
+  "search_ads_text": {
+    "message": "פרסומות שמופיעות ליד תוצאות החיפוש שלך. לא נחסמות כברירת מחדל מכיוון שכך Google, Microsoft ואחרים מממנים את השירות החינמי שהם מספקים"
+  },
+  "send": {
+    "message": "שלח"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "הגדרות"
+  },
+  "sponsored": {
+    "message": "קישורים ממומנים"
+  },
+  "sponsored_text": {
+    "message": "הרבה אתרים מציגים המלצות על מאמרים הקשורים לזה שאתה קורא, חלקן ממומנות ונחשבות לפרסומות"
+  },
+  "stands": {
+    "message": "סטנדים"
+  },
+  "stands_back_on": {
+    "message": "סטנדים חוזרים לעבודה"
+  },
+  "stands_is_paused": {
+    "message": "סטנדים מושהים על כל האתרים"
+  },
+  "stands_turned_off": {
+    "message": "סטנדים כבויים"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "סטנדים כבויים, האם ברצונך להפעיל אותם?"
+  },
+  "statistic": {
+    "message": "סטטיסטיקה"
+  },
+  "stop_closing": {
+    "message": "הפסק לסגור חלוני קופצים"
+  },
+  "sushi": {
+    "message": "זה כמו ארוחת סושי לפרט אחד"
+  },
+  "terms_of_use": {
+    "message": "תנאי השימוש"
+  },
+  "the_site_was_whitelisted": {
+    "message": "האתר $host$ הוכנס לרשימה הלבנה",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "האתר הזה חוסם או מציג הודעה למשתמשי חסימת פרסומות"
+  },
+  "total": {
+    "message": "סך הכל"
+  },
+  "tracking": {
+    "message": "מעקב"
+  },
+  "tracking_text": {
+    "message": "הגן על פרטיותך מאלפי סקריפטים וצדדים שלישיים המעקבים אחריך ברשת"
+  },
+  "turn_on": {
+    "message": "הפעל"
+  },
+  "turn_on_blocking": {
+    "message": "הפעל חסימה"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "הפעל חסימה הוגנת לפרסומות"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "כבה את החסימה בכל מקום"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "בטל חסימת אלמנטים בעמוד הזה"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "בטל את החסימה של האלמנטים שחסמתי בעמוד זה"
+  },
+  "uninstall": {
+    "message": "הסר התקנה"
+  },
+  "version": {
+    "message": "גרסה"
+  },
+  "web_mail": {
+    "message": "פרסומות בדואר אלקטרוני"
+  },
+  "web_mail_text": {
+    "message": "פרסומות טקסטואליות שמופיעות בחלק העליון של רשימת הדואר שלך. לא חסומות כברירת מחדל כי זה כך שגוגל, יאהו ואחרים מממנים את השירות החינמי שהם מספקים"
+  },
+  "whitelist": {
+    "message": "רשימה לבנה"
+  },
+  "whitelist_this_site": {
+    "message": "הוסף לרשימה הלבנה"
+  },
+  "whitelisted_sites": {
+    "message": "אתרים ברשימה הלבנה"
+  },
+  "whitelisted_text": {
+    "message": "כאן תוכל לנהל את רשימת האתרים הלבנים שלך. כאשר אתר כלשהו נמצא ברשימה הלבנה, סטנדים מושבת לחלוטין על האתר הזה, לא נעשתים חסימות שום סוג ואין הצגת פרסומות המממנות את המאבק שלך."
+  },
+  "winebottle": {
+    "message": "זה כמו בקבוק יין טוב"
+  },
+  "would_bypass": {
+    "message": "האם ברצונך לעקוף את זה או להוסיף לרשימה הלבנה את האתר הזה?"
+  },
+  "would_disable_other": {
+    "message": "האם ברצונך לכבות את החוסמים הפרסומות שלך האחרים?"
+  },
+  "would_rate": {
+    "message": "האם ברצונך לדרג אותנו?"
+  },
+  "would_stop": {
+    "message": "האם ברצונך להפסיק או להמשיך?"
+  },
+  "yearly": {
+    "message": "יאָריק"
+  },
+  "yearly_donation": {
+    "message": "תרומה שנתית"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "חסמת $ads$ פרסומות, $popups$ חלונות קופצים וחיסכת $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "העלת $donations$ מיקרו-תרומות למאבק בגלל $cause$",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "ביטלת את החסימה של $count$ $elems$ על העמוד הזה",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "נושאים"
+  },
+  "themes_title": {
+    "message": "התאמה אישית של המראה"
+  },
+  "themes_badge_settings": {
+    "message": "הגדרות תג"
+  },
+  "themes_badge_disabled": {
+    "message": "אל תציג את התג"
+  },
+  "themes_badge_page": {
+    "message": "הצג את מספר הפריטים החסומים בדף הנוכחי"
+  },
+  "themes_badge_today": {
+    "message": "הצג את מספר הפריטים החסומים של היום"
+  },
+  "donation_card_text": {
+    "message": "כדי לשמור על $stands$ חינם ולשפר את איכותו, אנו מבקשים את תמיכתך.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "זמין עבור $android$ ודפדפנים אחרים",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "הורד $stands_browser$ ותיהנה מגלישה באינטרנט ללא מודעות ב $android$. ניתן גם להתקין את התוסף בדפדפנים אחרים.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "איך לתמוך בנו?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ הוא ויהיה מוצר בחינם. אתה יכול לתרום כל סכום כדי לוודא שהתוסף משתפר ומופיע בפלטפורמות נוספות.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "עזור לנו לשמור על $stands$ בחינם ולשפר את איכותו",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Hozzáadás oldal"
+   },
+   "added_sites": {
+      "message": "Hozzáadott oldalak"
+   },
+   "advanced": {
+      "message": "Fejlett"
+   },
+   "advertisement": {
+      "message": "Hirdetés"
+   },
+   "advertising": {
+      "message": "Hirdetési"
+   },
+   "adware": {
+      "message": "Reklámprogram"
+   },
+   "adware_text": {
+      "message": "Akadályozza meg a káros programokat abban, hogy hirdetéseket injektáljanak a böngésződbe, eltérítsék a kattintásaidat vagy a kezdőlapodat, és nyomon kövessék a tevékenységedet"
+   },
+   "allow_fair_ads": {
+      "message": "Engedélyez fair hirdetéseket"
+   },
+   "allow_fair_ads_description": {
+      "message": "A néhány reklám engedélyezése segíti azokat a webhelyeket, amelyek a reklámozásból származó bevételre támaszkodnak, és támogatja a szabad és igazságos webet."
+   },
+   "allowed_sites": {
+      "message": "Engedélyezett oldalak"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Blokkolja az idegesítő hirdetéseket, felugró ablakokat, rosszindulatú szoftvereket és követést (még a Facebookon és a YouTube-on is), gyorsabb böngészést biztosít és védi a magánéletét."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Elérhető itt:"
+   },
+   "back_to_home": {
+      "message": "Vissza a kezdőképernyőre"
+   },
+   "bagels": {
+      "message": "Mint két bagel"
+   },
+   "basic": {
+      "message": "Alap"
+   },
+   "block_element": {
+      "message": "Blokkolás"
+   },
+   "block_elements_on_this_page": {
+      "message": "Elem blokkolása ezen az oldalon"
+   },
+   "block_popups": {
+      "message": "Felugró ablakok blokkolása ezen a webhelyen"
+   },
+   "blocking_resumed": {
+      "message": "Blokkolás folytatódott $host$ oldalon",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Blokkolási beállítások"
+   },
+   "blocking_statistic": {
+      "message": "Blokkolási statisztika"
+   },
+   "blocking_statistics_text": {
+      "message": "Itt megtalálható a történelmi adatok arról, hogy mennyi hirdetést blokkoltak bizonyos időszak alatt."
+   },
+   "blocks_on_this_page": {
+      "message": "Blokkok ezen az oldalon"
+   },
+   "blocks_today": {
+      "message": "Blokkok ma"
+   },
+   "board_text_1": {
+      "message": "Az Stands csapata hálás Önnek az alkalmazás telepítéséért. Az élménye a lehető legkellemesebbé tételéhez kérjük, értékelje a"
+   },
+   "board_text_2": {
+      "message": "-t és szükség esetén módosítsa őket."
+   },
+   "bouquet": {
+      "message": "Olyan, mint egy csokor virág és egy doboz csokoládé"
+   },
+   "burger": {
+      "message": "Olyan, mint egy hamburger"
+   },
+   "burger_menu": {
+      "message": "Olyan, mint egy hamburger menü"
+   },
+   "bypass": {
+      "message": "Kerülje el"
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "continue": {
+      "message": "Folytatás"
+   },
+   "cup_of_coffee": {
+      "message": "Olyan, mint egy csésze kávé"
+   },
+   "custom_amount": {
+      "message": "Egyedi összeg"
+   },
+   "custom_amount_text": {
+      "message": "Rajtad múlik, hogy mennyit fizetsz"
+   },
+   "describe_the_issue": {
+      "message": "Jelezze a problémát"
+   },
+   "disable_other": {
+      "message": "Tiltson le másik hirdetésszűrőt"
+   },
+   "dismiss": {
+      "message": "Bezárás"
+   },
+   "donate": {
+      "message": "Adományozás"
+   },
+   "donation_screen_text": {
+      "message": "Annak érdekében, hogy fenntartsuk az abszolút minden Stands Fair felhasználó számára történő ingyenes hozzáférést, miközben folyamatosan javítjuk a terméket, kérjük a támogatását. Az összes pénz a termék fejlesztésére fog fordítódni."
+   },
+   "donation_settings_text": {
+      "message": "A Stands egy ingyenes termék, és az adományok kizárólag jótékonysági célokat szolgálnak, és nem befolyásolják az egyéni eszközök funkcionalitását vagy teljesítményét. Ha támogatni szeretné csapatunkat, és biztosítani szeretné, hogy az alkalmazás csak jobbá váljon és új platformokon is elérhető legyen, válassza ki az adományozni kívánt összeget."
+   },
+   "donation_settings_title": {
+      "message": "Adományozás a Stands Fair AdBlockernek"
+   },   
+   "element": {
+      "message": "elem"
+   },
+   "elements": {
+      "message": "elemek"
+   },
+   "elements_blocked": {
+      "message": "$count$ elem blokkolva",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_cant_be_empty": {
+      "message": "Az e-mail nem lehet üres"
+   },
+   "facebook_ads": {
+      "message": "Facebook-hirdetések"
+   },
+   "facebook_ads_text": {
+      "message": "Hirdetések, amelyek megjelennek a hírfolyamodban vagy mellette. Alapértelmezés szerint nem blokkolják, mert ezekkel finanszírozza a Facebook a szolgáltatását."
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock by STANDS"
+   },
+   "fairness_settings": {
+      "message": "Igazságossági beállítások"
+   },
+   "fairness_settings_text": {
+      "message": "Maximális engedélyezett hirdetések az oldalon"
+   },
+   "feedback": {
+      "message": "Visszajelzés"
+   },
+   "feedback_screen_text": {
+      "message": "Szeretnénk meghallgatni a gondolataidat, javaslataidat, aggodalmaidat vagy problémáidat bármivel kapcsolatban, hogy javíthassunk!"
+   },
+   "guided_setup": {
+      "message": "Kezdje a vezetett beállítással:"
+   },
+   "guided_setup_go": {
+      "message": "MENJÜNK"
+   },
+   "guided_setup_later": {
+      "message": "KÉSŐBB"
+   },
+   "has_closed_popups": {
+      "message": "A Fair AdBlocker bezárta a $count$ felugró ablakot", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "összesen"
+   },
+   "include_current_url": {
+      "message": "A jelenlegi URL belefoglalása a jelentésbe" 
+   },
+   "is_mandatory": {
+      "message": "A $name$ kötelező",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Elemek blokkolva"
+   },
+   "keep_off": {
+      "message": "Tartsd kikapcsolva"
+   },
+   "minutes_saved": {
+      "message": "percek megtakarítva"
+   },
+   "monthly": {
+      "message": "Havi"
+   },
+   "monthly_donation": {
+      "message": "Havi adomány"
+   },
+   "more_info_on_statistics": {
+      "message": "További információk a 'Statisztika' képernyőn"
+   },
+   "no_blocked_on_this_page": {
+      "message": "Ezen az oldalon nincsenek blokkolt elemek"
+   },
+   "on_this_page": {
+      "message": "ezzel az oldallal kapcsolatban"
+   },
+   "other_blocks": {
+      "message": "A másik hirdetésblokkolód még mindig blokkolja a hirdetéseket"
+   },
+   "other_disabled": {
+      "message": "Tökéletes, a másik hirdetésblokkoló sikeresen letiltva!"
+   },
+   "other_prevents": {
+      "message": "A másik hirdetésblokkolód megakadályozza a kikerülést"
+   },
+   "off": {
+      "message": "ki"
+   },
+   "pay_with": {
+      "message": "Fizetés"
+   },
+   "pay_with_credit_card": {
+      "message": "Fizetés hitelkártyával"
+   },
+   "pizza": {
+      "message": "Ez olyan, mint egy pizza"
+   },
+   "popups": {
+      "message": "Felugró ablakok"
+   },
+   "popup_allowed_add_sites": {
+      "message": "Adjon hozzá engedélyezett felugró ablakokkal rendelkező oldalakat az alábbi űrlap segítségével."
+   },
+   "popup_allowed_sites": {
+      "message": "Felugró ablak engedélyezett oldalak"
+   },
+   "popups_text": {
+      "message": "Alapértelmezés szerint a felugró ablakokat minden oldalon letiltjuk, de engedélyezheti őket bizonyos oldalakon."
+   },
+   "privacy_policy": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "rate_fairadblocker": {
+      "message": "Értékelje a Fair Adblockert, hogy segítsen nekünk növekedni és többet szerezni"
+   },
+   "refresh": {
+      "message": "Frissítés"
+   },
+   "refresh_take_effect": {
+      "message": "Frissítse az oldalt annak érdekében, hogy a változás érvénybe lépjen"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Probléma jelentése ezen az oldalon"
+   },
+   "report_issue_text": {
+      "message": "Sajnáljuk, hogy valami nem megfelelő. Kérjük, jelezze nekünk, és mi megjavítjuk."
+   },
+   "resume_blocking": {
+      "message": "Folytatás a blokkolással ezen az oldalon"
+   },
+   "seconds_saved": {
+      "message": "megtakarított másodpercek"
+   },
+   "search_ads": {
+      "message": "Keresési hirdetések"
+   },
+   "search_ads_text": {
+      "message": "A keresési eredményei mellett megjelenő hirdetések. Alapértelmezés szerint nem letiltva, mert ezekből a hirdetésekből finanszírozza magát a Google, a Microsoft és mások által nyújtott ingyenes szolgáltatás."
+   },
+   "send": {
+      "message": "Küldés"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "sponsored": {
+      "message": "Sponzorált linkek"
+   },
+   "sponsored_text": {
+      "message": "Sok oldalon cikkelő ajánlások jelennek meg, amelyek relevánsak lehetnek az ön által olvasott cikkel, néhányat támogatnak és reklámnak tekintenek."
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "A STANDS visszatért"
+   },
+   "stands_is_paused": {
+      "message": "A STANDS minden oldalon szünetel"
+   },
+   "stands_turned_off": {
+      "message": "A STANDS ki van kapcsolva"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "A STANDS ki van kapcsolva, szeretné bekapcsolni?"
+   },
+   "statistic": {
+      "message": "Statisztika"
+   },
+   "stop_closing": {
+      "message": "Stop zárja be a felugró ablakokat"
+   },
+   "sushi": {
+      "message": "Ez olyan, mint egy sushi vacsora egyedül"
+   },
+   "terms_of_use": {
+      "message": "Felhasználási feltételek"
+   },
+   "the_site_was_whitelisted": {
+      "message": "A(z) $host$ webhely felkerült a engedélyezett listára",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Ez a weboldal blokkolja vagy üzenetet jelenít meg az ad-blokkoló felhasználóknak"
+   },
+   "total": {
+      "message": "Összesen"
+   },
+   "tracking": {
+      "message": "Követés"
+   },
+   "tracking_text": {
+      "message": "Védelmezd meg a magánéletedet a webkövető szkriptektől és harmadik felektől"
+   },
+   "turn_on": {
+      "message": "Bekapcsolás"
+   },
+   "turn_on_blocking": {
+      "message": "Bekapcsolja a blokkolást"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Bekapcsolja a fair ad blokkolást"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Kikapcsolja a blokkolást mindenhol"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Elemek engedélyezése ezen a lapon"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Visszavonom a blokkolt elemeket ezen a lapon"
+   },
+   "uninstall": {
+      "message": "Eltávolítás"
+   },
+   "version": {
+      "message": "Verzió"
+   },
+   "web_mail": {
+      "message": "Webes levelező hirdetések"
+   },
+   "web_mail_text": {
+      "message": "Szöveges hirdetések, amelyek megjelennek az e-mailek listájának tetején. Alapértelmezés szerint nem blokkolva, mert így Google, Yahoo és mások biztosítják a szabad szolgáltatást"
+   },
+   "whitelist": {
+      "message": "Engedélyező lista"
+   },
+   "whitelist_this_site": {
+      "message": "Engedélyezze ezt a webhelyet"
+   },
+   "whitelisted_sites": {
+      "message": "Engedélyezett webhelyek"
+   },
+   "whitelisted_text": {
+      "message": "Itt kezelheti engedélyező listáját. Amikor egy webhely szerepel az engedélyező listán, a Stands teljesen letiltva van ezen a webhelyen, semmilyen blokkolás nem történik, és nem helyeznek el olyan hirdetéseket, amelyek támogatják az ügyét."
+   },
+   "winebottle": {
+      "message": "Ez olyan, mint egy üveg jó bor"
+   },
+   "would_bypass": {
+      "message": "Szeretné kikerülni vagy engedélyezni ezt a webhelyet?"
+   },
+   "would_disable_other": {
+      "message": "Szeretné letiltani a másik ad blokkolóját?"
+   },
+   "would_rate": {
+      "message": "Szeretne értékelni minket?"
+   },
+   "would_stop": {
+      "message": "Szeretné megállítani vagy folytatni?"
+   },
+   "yearly": {
+      "message": "Évi"
+   },
+   "yearly_donation": {
+      "message": "Évi adomány"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "$ads$ hirdetést és $popups$ felugró ablakot blokkolt, és $saved$-t megtakarított",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "$count$ olvasatlan értesítésed van",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "$donations$ mikroadományt gyűjtöttél $cause$-nak",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Feloldotta a(z) $elems$ elemet ezen a lapon",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Témák"
+   },
+   "themes_title": {
+      "message": "A megjelenés testreszabása"
+   },
+   "themes_badge_settings": {
+      "message": "Jelvény beállításai"
+   },
+   "themes_badge_disabled": {
+      "message": "Ne mutassa meg a jelvényt"
+   },
+   "themes_badge_page": {
+      "message": "A blokkolt elemek számának megjelenítése az aktuális oldalon"
+   },
+   "themes_badge_today": {
+      "message": "A blokkolt elemek mai számának megjelenítése"
+   }
+}

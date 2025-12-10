@@ -1,0 +1,251 @@
+<style>
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        src: local('Roboto Light'), local('Roboto-Light'), url('{{path}}/fonts/Roboto-Light.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        src: local('Roboto Medium'), local('Roboto-Medium'), url('{{path}}/fonts/Roboto-Medium.woff2') format('woff2');
+    }
+
+    @-webkit-keyframes stndz-block-element-show-window {
+        from {
+            opacity: 0.4;
+            transform: scale(0.8);
+        }
+        to {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+
+    @-webkit-keyframes stndz-block-element-hide-window {
+        from {
+            opacity: 1;
+            transform: scale(1);
+        }
+        to {
+            opacity: 0;
+            transform: scale(0.8);
+        }
+    }
+
+    #stndz-block-element-window {
+        all: unset;
+        position: absolute !important;
+        top: 30px !important;
+        width: 350px !important;
+        height: 278px;
+        background-color: rgb(73,82,129) !important;
+        border-radius: 5px !important;
+        box-shadow: 0px 0px 10px 0px rgb(50, 50, 50) !important;
+        animation-name: stndz-block-element-show-window;
+        animation-duration: 300ms;
+        padding: 20px !important;
+        {{location}}: 30px !important;
+    }
+
+    #stndz-block-element-window * {
+        font-family: 'Roboto' !important;
+        font-weight: 300;
+        font-style: normal !important;
+        font-size: 14px !important;
+        line-height: 20px !important;
+        box-sizing: initial !important;
+        direction: ltr !important;
+    }
+
+    #stndz-block-element-window b {
+        font-weight: 500 !important;
+    }
+
+    .stndz-block-element-close-window {
+        animation-name: stndz-block-element-hide-window !important;
+        animation-fill-mode: forwards;
+    }
+
+    #stndz-block-element-close {
+        position: absolute !important;
+        right: 22px !important;
+        top: 22px !important;
+        cursor: pointer !important;
+        background-color: rgb(73,82,129) !important;
+        z-index: 1 !important;
+        width: 12px !important;
+        height: 12px !important;
+    }
+
+    #stndz-block-element-hint {
+        display: flex !important;
+        position: relative !important;
+        margin: 0 auto !important;
+        width: 187px !important;
+        height: 148px !important;
+    }
+
+    #stndz-block-element-check {
+        display: flex !important;
+        position: relative !important;
+        margin: 0 5px 0 0 !important;
+        width: 18px !important;
+        height: 18px !important;
+    }
+
+    .stndz-block-element-button {
+        position: relative !important;
+        border-radius: 6px !important;
+        border: solid 1px white !important;
+        background-color: rgb(73,82,129) !important;
+        box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.1) !important;
+        cursor: pointer !important;
+        display: flex !important;  
+        align-items: center !important;
+        justify-content: center !important;      
+        background-size: 7px !important;
+        color: white !important;
+    }
+
+    .stndz-block-element-button:hover {
+        color: rgb(73,82,129) !important;
+        background-color: white !important;
+    }
+
+    .stndz-block-element-button-text {
+        text-decoration: none !important;
+        text-align: center !important;
+        margin: 3px 8px !important;
+        font-weight: 400 !important;
+    }
+
+    .cancel-text {
+        width: 58px !important;
+    }
+
+    .done-text {
+        width: 75px !important;
+    }
+
+    .stndz-block-element-chosen-buttons {
+        display: flex;
+        justify-content: space-between;
+        width: 125px;
+    }
+    
+    .stndz-block-element-chosen-title {
+        display: flex;
+        justify-content: space-between;
+        width: 210px;
+        align-items: center;
+    }
+
+    .stndz-block-element-content {
+        all: initial;
+        color: white !important;
+        position: relative !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        text-align: left !important;
+        line-height: 20px !important;
+        height: 278px;
+        width: 350px !important;
+    }
+
+    #stndz-block-element-pick-header, #stndz-block-element-chosen-header {
+        cursor: default !important;
+    }
+
+    #stndz-block-element-list {
+        padding: 0px !important;
+        margin: 0px !important;
+        display: block !important;
+        float: none !important;
+    }
+
+    #stndz-block-element-list li {
+        list-style-type: none !important;
+        cursor: default !important;
+        padding: 0px 0px 3px 5px !important;
+        margin: 0px !important;
+        float: none !important;
+        display: block !important;
+        line-height: 20px !important;
+        border-bottom: 1px solid rgba(255,255,255,0.5);
+    }
+
+    #stndz-block-element-list li div {
+        position: absolute !important;
+        margin-top: 3px !important;
+        right: 5px !important;
+        background-image: url('{{path}}/images/trash-white.png') !important;
+        background-size: 18px !important;
+        width: 18px !important;
+        height: 18px !important;
+        display: inline !important;
+    }
+
+    #stndz-block-element-list li div:hover  {
+        background-image: url('{{path}}/images/trash-red.png') !important;
+        cursor: pointer !important;
+    }
+
+    @-webkit-keyframes stndz-highlight-animation {
+        0%   {}
+        50%  {background-color: #ffea6f;}
+        100%  {}
+    }
+
+</style>
+<div id="stndz-block-element-window">
+    <img id="stndz-block-element-close" src="{{path}}/images/close.png" alt="close"/>
+    <div id="stndz-block-element-pick" class="stndz-block-element-content">
+        <b id="stndz-block-element-pick-header">
+            Click on the element you want to block
+        </b>
+        <img id="stndz-block-element-hint" src="{{path}}/images/hint.png" alt="hint"/>
+        <div id="stndz-block-element-cancel" class="stndz-block-element-button cancel-text">
+            <span class="stndz-block-element-button-text">
+                Cancel
+            </span>
+        </div>
+    </div>
+    <div id="stndz-block-element-chosen" class="stndz-block-element-content" style="display: none !important;">
+        <div class="stndz-block-element-chosen-title">
+            <img id="stndz-block-element-check" src="{{path}}/images/check.png" alt="check"/>
+            <b id="stndz-block-element-chosen-header">
+                Element successully blocked
+            </b>
+        </div>
+        <span>
+            Choose another element to block or finish by pressing ‘Save’ button.
+        </span>
+        <ul id="stndz-block-element-list"></ul>
+        <div class="stndz-block-element-chosen-buttons">
+            <div id="stndz-block-element-undo" class="stndz-block-element-button">
+                <span class="stndz-block-element-button-text">
+                    Cancel
+                </span>
+            </div>
+            <div id="stndz-block-element-save" class="stndz-block-element-button">
+                <span class="stndz-block-element-button-text">
+                    Save
+                </span>
+            </div>
+        </div>
+    </div>
+    <div id="stndz-block-element-saved" class="stndz-block-element-content" style="display: none !important;">
+        <b>Done!</b> You can always change the settings in
+        <br />
+        the dashboard or right click the app icon.
+        <div class="stndz-block-element-button done-text">
+            <span class="stndz-block-element-button-text" id="stndz-block-element-done">
+                Done
+            </span>
+        </div>
+    </div>
+</div>

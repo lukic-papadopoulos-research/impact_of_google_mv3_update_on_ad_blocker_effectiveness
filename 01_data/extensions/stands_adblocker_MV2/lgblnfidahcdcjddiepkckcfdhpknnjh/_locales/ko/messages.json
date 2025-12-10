@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "사이트 추가"
+  },
+  "added_sites": {
+    "message": "추가된 사이트"
+  },
+  "advanced": {
+    "message": "고급"
+  },
+  "advertisement": {
+    "message": "광고"
+  },
+  "advertising": {
+    "message": "광고"
+  },
+  "adware": {
+    "message": "광고 프로그램"
+  },
+  "adware_text": {
+    "message": "브라우저에 광고를 주입하거나 클릭 또는 홈페이지를 해킹하고 활동을 추적하는 악성 프로그램을 차단합니다."
+  },
+  "allow_fair_ads": {
+    "message": "공정한 광고 허용"
+  },
+  "allow_fair_ads_description": {
+    "message": "일부 광고를 허용하면 광고 수익에 의존하는 참여 웹 사이트를 지원하고 자유롭고 공정한 웹을 지원할 수 있습니다."
+  },
+  "allowed_sites": {
+    "message": "허용된 사이트"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "귀찮은 광고, 팝업, 악성 코드 및 추적을 차단하고 (Facebook 및 Youtube에서도), 더 빠르게 탐색하고 개인 정보를 보호합니다."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "홈 화면으로 돌아가기"
+  },
+  "bagels": {
+    "message": "두 베이글처럼 생겼어요"
+  },
+  "basic": {
+    "message": "기본"
+  },
+  "block_element": {
+    "message": "차단"
+  },
+  "block_elements_on_this_page": {
+    "message": "이 페이지의 요소 차단"
+  },
+  "block_popups": {
+    "message": "이 사이트의 팝업 차단"
+  },
+  "blocking_resumed": {
+    "message": "$host$에서 차단이 재개되었습니다.",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "차단 설정"
+  },
+  "blocking_statistic": {
+    "message": "차단 통계"
+  },
+  "blocking_statistics_text": {
+    "message": "여기에서 특정 기간 동안 차단 된 광고 수에 대한 이전 데이터가 있습니다."
+  },
+  "blocks_on_this_page": {
+    "message": "이 페이지에서 차단 된 내용"
+  },
+  "blocks_today": {
+    "message": "오늘 차단 된 내용"
+  },
+  "board_text_1": {
+    "message": "Stands 팀은 확장 프로그램을 설치해 주셔서 감사합니다. 제품 사용 경험을 최대한 편안하게 하기 위해 "
+  },
+  "board_text_2": {
+    "message": "를 검토해주시기 바랍니다. 그리고 필요하다면 조절하세요."
+  },
+  "bouquet": {
+    "message": "꽃다발과 초콜릿 상자 같아요"
+  },
+  "burger": {
+    "message": "햄버거처럼이에요"
+  },
+  "burger_menu": {
+    "message": "햄버거 메뉴 같아요"
+  },
+  "bypass": {
+    "message": "바이패스"
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "continue": {
+    "message": "계속하기"
+  },
+  "cup_of_coffee": {
+    "message": "커피 한잔 같아요"
+  },
+  "custom_amount": {
+    "message": "사용자 정의 금액"
+  },
+  "custom_amount_text": {
+    "message": "가격을 선택하는 것은 당신의 몫입니다"
+  },
+  "describe_the_issue": {
+    "message": "문제를 설명하세요"
+  },
+  "disable_other": {
+    "message": "다른 광고 차단기 비활성화"
+  },
+  "dismiss": {
+    "message": "거부하기"
+  },
+  "donate": {
+    "message": "기부하기"
+  },
+  "donation_screen_text": {
+    "message": "Stands Fair 사용자 모두에게 무료 액세스를 유지하면서 제품을 지속적으로 개선하기 위해 지원을 요청합니다. 모든 기부금은 제품 개선을 위해 사용됩니다."
+  },
+  "donation_settings_text": {
+    "message": "Stands는 앞으로도 무료 제품입니다. 기부금은 자선 목적으로만 사용되며 개별 기기의 기능이나 성능에 영향을 미치지 않습니다. 팀을 지원하고 확장 기능을 개선하고 새로운 플랫폼에 출시될 수 있도록 하려면 기부할 금액을 선택하세요."
+  },
+  "donation_settings_title": {
+    "message": "Stands AdBlocker에 기부하세요."
+  },
+  "element": {
+    "message": "요소"
+  },
+  "elements": {
+    "message": "요소들"
+  },
+  "elements_blocked": {
+    "message": "$count$개의 요소가 차단되었습니다",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "이메일"
+  },
+  "email_cant_be_empty": {
+    "message": "이메일을 입력해주세요"
+  },
+  "facebook_ads": {
+    "message": "Facebook 광고"
+  },
+  "facebook_ads_text": {
+    "message": "뉴스 피드와 함께 표시되는 광고입니다. Facebook이 무료 서비스를 제공하는 방식이기 때문에 기본적으로 차단되지 않습니다."
+  },
+  "adblocker_by_stands": {
+    "message": "STANDS의 AdBlocker"
+  },
+  "fairness_settings": {
+    "message": "공정성 설정"
+  },
+  "fairness_settings_text": {
+    "message": "페이지당 최대 광고 허용 수"
+  },
+  "feedback": {
+    "message": "피드백"
+  },
+  "feedback_screen_text": {
+    "message": "의견, 제안, 우려 사항 또는 문제가 있으면 언제든지 알려주세요. 우리는 개선하기 위해 노력합니다!"
+  },
+  "guided_setup": {
+    "message": "가이드 설정으로 시작하세요:"
+  },
+  "guided_setup_go": {
+    "message": "가자"
+  },
+  "guided_setup_later": {
+    "message": "나중에"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker가 $count$개의 팝업을 닫았습니다.",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "전체에서"
+  },
+  "include_current_url": {
+    "message": "보고서에 현재 URL 포함하기"
+  },
+  "is_mandatory": {
+    "message": "$name$은(는) 필수 입력 사항입니다.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "차단된 항목들"
+  },
+  "keep_off": {
+    "message": "꺼둬주세요."
+  },
+  "minutes_saved": {
+    "message": "절약한 시간"
+  },
+  "monthly": {
+    "message": "월간"
+  },
+  "monthly_donation": {
+    "message": "월 기부금"
+  },
+  "more_info_on_statistics": {
+    "message": "통계 화면에서 더 많은 정보 확인"
+  },
+  "no_blocked_on_this_page": {
+    "message": "이 페이지에서 차단된 요소가 없습니다"
+  },
+  "on_this_page": {
+    "message": "이 페이지에서"
+  },
+  "other_blocks": {
+    "message": "다른 광고 차단기가 아직 광고를 차단하고 있습니다"
+  },
+  "other_disabled": {
+    "message": "완벽해요, 다른 광고 차단기가 성공적으로 비활성화되었습니다!"
+  },
+  "other_prevents": {
+    "message": "다른 광고 차단기가 바이패스를 방지합니다"
+  },
+  "off": {
+    "message": "끄기"
+  },
+  "pay_with": {
+    "message": "다음으로 지불"
+  },
+  "pay_with_credit_card": {
+    "message": "신용카드로 지불하기"
+  },
+  "pizza": {
+    "message": "피자 같아요"
+  },
+  "popups": {
+    "message": "팝업"
+  },
+  "popup_allowed_add_sites": {
+    "message": "아래 양식을 사용하여 허용된 팝업이 있는 사이트를 추가하세요."
+  },
+  "popup_allowed_sites": {
+    "message": "허용된 팝업이 있는 사이트"
+  },
+  "popups_text": {
+    "message": "기본적으로 모든 사이트에서 팝업이 차단됩니다. 특정 사이트에서 팝업을 허용할 수 있습니다."
+  },
+  "privacy_policy": {
+    "message": "개인 정보 보호 정책"
+  },
+  "rate_stands_adblocker": {
+    "message": "더 크게 성장하고 더 많은 자금을 모으는 데 도움이 될 수 있도록 Stands AdBlocker를 평가해주세요."
+  },
+  "refresh": {
+    "message": "새로고침"
+  },
+  "refresh_take_effect": {
+    "message": "이 변경 사항이 적용되려면 페이지를 새로고침하세요."
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "이 페이지에서 문제 신고"
+  },
+  "report_issue_text": {
+    "message": "문제가 있어서 죄송합니다. 문제를 알려주시면 수정하겠습니다."
+  },
+  "resume_blocking": {
+    "message": "이 사이트에서 차단을 계속 진행하세요"
+  },
+  "seconds_saved": {
+    "message": "절약한 초"
+  },
+  "search_ads": {
+    "message": "검색 광고"
+  },
+  "search_ads_text": {
+    "message": "검색 결과 옆에 표시되는 광고입니다. Google, Microsoft 등이 무료 서비스를 제공하는 방식이기 때문에 기본적으로 차단되지 않습니다."
+  },
+  "send": {
+    "message": "보내기"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "sponsored": {
+    "message": "스폰서 링크"
+  },
+  "sponsored_text": {
+    "message": "많은 사이트에서 읽고 있는 내용과 관련된 기사 추천을 표시합니다. 그 중 일부는 스폰서이며 광고로 간주될 수 있습니다."
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS가 다시 시작되었습니다"
+  },
+  "stands_is_paused": {
+    "message": "모든 사이트에서 STANDS가 일시 중지되었습니다"
+  },
+  "stands_turned_off": {
+    "message": "STANDS가 꺼졌습니다"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS가 꺼져 있습니다. 켜시겠습니까?"
+  },
+  "statistic": {
+    "message": "통계"
+  },
+  "stop_closing": {
+    "message": "팝업 창 닫기를 중지하세요"
+  },
+  "sushi": {
+    "message": "혼자서 스시를 먹는 것 같아요"
+  },
+  "terms_of_use": {
+    "message": "이용 약관"
+  },
+  "the_site_was_whitelisted": {
+    "message": "$host$ 사이트가 화이트리스트에 추가되었습니다",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "이 사이트는 광고 차단 사용자에게 차단 메시지를 표시하거나 노출합니다"
+  },
+  "total": {
+    "message": "합계"
+  },
+  "tracking": {
+    "message": "추적"
+  },
+  "tracking_text": {
+    "message": "수천 개의 웹 추적 스크립트와 제3자로부터 개인정보를 보호하세요"
+  },
+  "turn_on": {
+    "message": "켜기"
+  },
+  "turn_on_blocking": {
+    "message": "차단 켜기"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "공정한 광고 차단 켜기"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "모든 차단을 해제하려면 끄기"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "이 페이지의 요소 차단 해제"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "이 페이지에서 차단된 요소를 원래대로 복원하세요"
+  },
+  "uninstall": {
+    "message": "제거"
+  },
+  "version": {
+    "message": "버전"
+  },
+  "web_mail": {
+    "message": "웹 메일 광고"
+  },
+  "web_mail_text": {
+    "message": "메일 목록 상단에 나타나는 텍스트 광고입니다. Google, Yahoo 등이 제공하는 무료 서비스를 후원하는 방법이므로 기본적으로 차단되지 않습니다"
+  },
+  "whitelist": {
+    "message": "화이트리스트"
+  },
+  "whitelist_this_site": {
+    "message": "이 사이트를 화이트리스트에 추가하세요"
+  },
+  "whitelisted_sites": {
+    "message": "화이트리스트에 추가된 사이트"
+  },
+  "whitelisted_text": {
+    "message": "여기에서 화이트리스트를 관리할 수 있습니다. 사이트가 화이트리스트에 추가되면 해당 사이트에서 STANDS는 완전히 비활성화되며 어떤 종류의 차단도 없으며 광고도 게재되지 않습니다."
+  },
+  "winebottle": {
+    "message": "좋은 와인 한 병 같아요"
+  },
+  "would_bypass": {
+    "message": "이 사이트를 우회하거나 화이트리스트에 추가하시겠습니까?"
+  },
+  "would_disable_other": {
+    "message": "다른 광고 차단기를 비활성화하시겠습니까?"
+  },
+  "would_rate": {
+    "message": "저희를 평가해보시겠습니까?"
+  },
+  "would_stop": {
+    "message": "중단하시겠습니까 계속 진행하시겠습니까?"
+  },
+  "yearly": {
+    "message": "매년"
+  },
+  "yearly_donation": {
+    "message": "연간 기부"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "$ads$개의 광고와 $popups$개의 팝업을 차단했으며 $saved$을 절약했습니다",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "$cause$에 대해 $donations$개의 마이크로 기부를 모았습니다",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "이 페이지에서 $count$개의 $elems$를 차단 해제했습니다",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "주제"
+  },
+  "themes_title": {
+    "message": "모양 사용자 정의"
+  },
+  "themes_badge_settings": {
+    "message": "배지 설정"
+  },
+  "themes_badge_disabled": {
+    "message": "배지를 표시하지 마십시오"
+  },
+  "themes_badge_page": {
+    "message": "현재 페이지에 차단된 항목 수 표시"
+  },
+  "themes_badge_today": {
+    "message": "오늘 차단된 항목 수 표시"
+  },
+  "donation_card_text": {
+    "message": "유지$stands$무료 및 품질을 향상시키기 위해,우리는 당신의 지원을 부탁드립니다.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "$android$및 기타 브라우저에서 사용 가능",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "$stands_browser$를 다운로드하고$android$에서 광고없는 웹 서핑을 즐기십시오. 또한 다른 브라우저에 확장을 설치할 수 있습니다.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "우리를 지원하는 방법?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$는 무료 제품이 될 것입니다. 당신은 확장이 더 좋아지고 더 많은 플랫폼에 나타납니다 확인하기 위해 금액을 기부 할 수 있습니다.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "무료$stands$를 유지하고 품질을 향상시키기 위해 우리를 도와주세요",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "サイトを追加する"
+   },
+   "added_sites": {
+      "message": "追加されたサイト"
+   },
+   "advanced": {
+      "message": "高度な設定"
+   },
+   "advertisement": {
+      "message": "広告"
+   },
+   "advertising": {
+      "message": "広告"
+   },
+   "adware": {
+      "message": "アドウェア"
+   },
+   "adware_text": {
+      "message": "悪意のあるプログラムによるブラウザへの広告の挿入、クリックやホームページのハイジャック、そしてアクティビティの追跡をブロックします。"
+   },
+   "allow_fair_ads": {
+      "message": "フェアな広告を許可する"
+   },
+   "allow_fair_ads_description": {
+      "message": "いくつかの広告を許可することで、広告収益に頼っているウェブサイトをサポートし、自由かつ公正なウェブを支援することができます。"
+   },
+   "allowed_sites": {
+      "message": "許可されたサイト"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "迷惑な広告、ポップアップ、マルウェア、追跡をブロック（FacebookやYouTubeでも）、より高速にブラウズし、プライバシーを保護します。"
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "利用可能なプラットフォーム"
+   },
+   "back_to_home": {
+      "message": "ホーム画面に戻る"
+   },
+   "bagels": {
+      "message": "それは2つのベーグルのようなものです"
+   },
+   "basic": {
+      "message": "基本設定"
+   },
+   "block_element": {
+      "message": "ブロック"
+   },
+   "block_elements_on_this_page": {
+      "message": "このページの要素をブロックする"
+   },
+   "block_popups": {
+      "message": "このサイトのポップアップをブロックする"
+   },
+   "blocking_resumed": {
+      "message": "$host$でのブロック再開",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "ブロック設定"
+   },
+   "blocking_statistic": {
+      "message": "ブロックされた統計"
+   },
+   "blocking_statistics_text": {
+      "message": "ここでは、ある期間にどれだけの広告がブロックされたかについての過去のデータがあります。"
+   },
+   "blocks_on_this_page": {
+      "message": "このページのブロック数"
+   },
+   "blocks_today": {
+      "message": "今日のブロック数"
+   },
+   "board_text_1": {
+      "message": "Standsチームは、拡張機能をインストールしてくれてありがとうございます。製品をできるだけ快適に使っていただくために、"
+   },
+   "board_text_2": {
+      "message": "を確認してください。必要に応じて調整してください。"
+   },
+   "bouquet": {
+      "message": "花束とチョコレートの詰め合わせのようなものです。"
+   },
+   "burger": {
+      "message": "バーガーのようなものです。"
+   },
+   "burger_menu": {
+      "message": "バーガーメニューのようなものです。"
+   },
+   "bypass": {
+      "message": "バイパスする"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "continue": {
+      "message": "続ける"
+   },
+   "cup_of_coffee": {
+      "message": "それはコーヒーのようです。"
+   },
+   "custom_amount": {
+      "message": "カスタム金額"
+   },
+   "custom_amount_text": {
+      "message": "価格を選択してください"
+   },
+   "describe_the_issue": {
+      "message": "問題を説明してください"
+   },
+   "disable_other": {
+      "message": "他の広告ブロッカーを無効にする"
+   },
+   "dismiss": {
+      "message": "閉じる"
+   },
+   "donate": {
+      "message": "寄付する"
+   },
+   "donation_screen_text": {
+      "message": "Stands Fairのすべてのユーザーが常に無料でアクセスできるようにしながら、製品を常に改善するために、あなたのサポートをお願いします。全額が製品の改善に費やされます。"
+   },
+   "donation_settings_text": {
+      "message": "Standsは無料の製品であり、これらの寄付は慈善事業目的であり、個々のデバイスの機能やパフォーマンスには影響しません。チームをサポートし、拡張機能を改善し、新しいプラットフォームに登場することを確認したい場合は、寄付する金額を選択してください。"
+   },
+   "donation_settings_title": {
+      "message": "Stands Fair AdBlockerに寄付する"
+   },   
+   "element": {
+      "message": "要素"
+   },
+   "elements": {
+      "message": "要素"
+   },
+   "elements_blocked": {
+      "message": "$count$ 個の要素がブロックされました",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "電子メール"
+   },
+   "email_cant_be_empty": {
+      "message": "メールは空欄にできません"
+   },
+   "facebook_ads": {
+      "message": "Facebook 広告"
+   },
+   "facebook_ads_text": {
+      "message": "ニュースフィードと隣接する場所に表示される広告。 Facebook が提供する無料サービスの資金源であるため、デフォルトでブロックされません"
+   },
+   "fair_by_stands": {
+      "message": "STANDSによるフェア AdBlock"
+   },
+   "fairness_settings": {
+      "message": "フェアネス設定"
+   },
+   "fairness_settings_text": {
+      "message": "ページあたり許容される最大広告数"
+   },
+   "feedback": {
+      "message": "フィードバック"
+   },
+   "feedback_screen_text": {
+      "message": "意見、提案、懸念事項、または何か問題がある場合は、お聞かせください。改善するために役立ちます！"
+   },
+   "guided_setup": {
+      "message": "ガイド付きセットアップを開始："
+   },
+   "guided_setup_go": {
+      "message": "始めましょう"
+   },
+   "guided_setup_later": {
+      "message": "後で"
+   },
+   "has_closed_popups": {
+      "message": "Fair AdBlockerは合計で$count$のポップアップをブロックしました", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "合計で"
+   },
+   "include_current_url": {
+      "message": "レポートに現在の URL を含める" 
+   },
+   "is_mandatory": {
+      "message": "$name$は必須です",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "ブロックされたアイテム"
+   },
+   "keep_off": {
+      "message": "それをオフにしたままにしておいてください"
+   },
+   "minutes_saved": {
+      "message": "節約した時間（分）"
+   },
+   "monthly": {
+      "message": "毎月"
+   },
+   "monthly_donation": {
+      "message": "毎月の寄付"
+   },
+   "more_info_on_statistics": {
+      "message": "「統計」画面の詳細"
+   },
+   "no_blocked_on_this_page": {
+      "message": "このページではブロックされた要素はありませんでした"
+   },
+   "on_this_page": {
+      "message": "このページで"
+   },
+   "other_blocks": {
+      "message": "他の広告ブロッカーはまだ広告をブロックしています"
+   },
+   "other_disabled": {
+      "message": "完璧です、他の広告ブロッカーは正常に無効化されました！"
+   },
+   "other_prevents": {
+      "message": "あなたの他の広告ブロッカーは回避を防止しています"
+   },
+   "off": {
+      "message": "オフ"
+   },
+   "pay_with": {
+      "message": "で支払う"
+   },
+   "pay_with_credit_card": {
+      "message": "クレジットカードで支払う"
+   },
+   "pizza": {
+      "message": "それはピザのようです"
+   },
+   "popups": {
+      "message": "ポップアップ"
+   },
+   "popup_allowed_add_sites": {
+      "message": "以下のフォームを使用してポップアップを許可するサイトを追加してください。"
+   },
+   "popup_allowed_sites": {
+      "message": "ポップアップを許可するサイト"
+   },
+   "popups_text": {
+      "message": "デフォルトではすべてのサイトでポップアップがブロックされています。特定のサイトでポップアップを許可することができます。"
+   },
+   "privacy_policy": {
+      "message": "プライバシーポリシー"
+   },
+   "rate_fairadblocker": {
+      "message": "成長し、もっと資金を調達するためにFair Adblockerに評価をしてください"
+   },
+   "refresh": {
+      "message": "更新"
+   },
+   "refresh_take_effect": {
+      "message": "この変更を有効にするにはページを更新してください"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "このページで問題を報告"
+   },
+   "report_issue_text": {
+      "message": "何かが正しくないと聞いて申し訳ありません。その旨をお知らせください。修正いたします。"
+   },
+   "resume_blocking": {
+      "message": "このサイトでのブロックを再開する"
+   },
+   "seconds_saved": {
+      "message": "保存された秒数"
+   },
+   "search_ads": {
+      "message": "検索広告"
+   },
+   "search_ads_text": {
+      "message": "検索結果の隣に表示される広告です。Google、Microsoftなどが提供する無料サービスの資金源となっているため、デフォルトではブロックされません。"
+   },
+   "send": {
+      "message": "送信"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "sponsored": {
+      "message": "スポンサーリンク"
+   },
+   "sponsored_text": {
+      "message": "多くのサイトでは、あなたが読んでいる記事に関連する記事の推奨が表示されますが、そのうちのいくつかはスポンサーであり、広告と見なされることがあります。"
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "STANDSが再開しました"
+   },
+   "stands_is_paused": {
+      "message": "STANDSはすべてのサイトで一時停止中です"
+   },
+   "stands_turned_off": {
+      "message": "STANDSがオフになっています"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "STANDSがオフになっています。オンにしますか？"
+   },
+   "statistic": {
+      "message": "統計情報"
+   },
+   "stop_closing": {
+      "message": "ポップアップを閉じるのをやめる"
+   },
+   "sushi": {
+      "message": "これは一人前の寿司ディナーのようなものです"
+   },
+   "terms_of_use": {
+      "message": "利用規約"
+   },
+   "the_site_was_whitelisted": {
+      "message": "サイト$host$はホワイトリストに登録されました",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "このサイトは、広告ブロックユーザーに対してブロックするか、メッセージを表示します。"
+   },
+   "total": {
+      "message": "合計"
+   },
+   "tracking": {
+      "message": "トラッキング"
+   },
+   "tracking_text": {
+      "message": "数千のウェブトラッキングスクリプトや第三者からプライバシーを保護します"
+   },
+   "turn_on": {
+      "message": "オンにする"
+   },
+   "turn_on_blocking": {
+      "message": "ブロックをオンにする"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "公正な広告ブロックをオンにする"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "すべてのブロックをオフにする"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "このページのブロック要素を解除する"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "このページでブロックされた要素を元に戻す"
+   },
+   "uninstall": {
+      "message": "アンインストール"
+   },
+   "version": {
+      "message": "バージョン"
+   },
+   "web_mail": {
+      "message": "ウェブメール広告"
+   },
+   "web_mail_text": {
+      "message": "メールリストの上部に表示されるテキスト広告。Google、Yahooなどが提供する無料サービスの資金調達方法であるため、デフォルトではブロックされていません。"
+   },
+   "whitelist": {
+      "message": "ホワイトリスト"
+   },
+   "whitelist_this_site": {
+      "message": "このサイトをホワイトリストに登録する"
+   },
+   "whitelisted_sites": {
+      "message": "ホワイトリストに登録されたサイト"
+   },
+   "whitelisted_text": {
+      "message": "ここではホワイトリストを管理できます。サイトがホワイトリストに登録されると、そのサイトでStandsは完全に無効になり、どのような種類のブロックや広告掲載も行われません。"
+   },
+   "winebottle": {
+      "message": "それは良いワインのボトルのようです"
+   },
+   "would_bypass": {
+      "message": "このサイトをバイパスするか、ホワイトリストに登録しますか？"
+   },
+   "would_disable_other": {
+      "message": "他の広告ブロッカーを無効にしますか？"
+   },
+   "would_rate": {
+      "message": "私たちを評価しますか？"
+   },
+   "would_stop": {
+      "message": "停止するか続けるかを選択しますか？"
+   },
+   "yearly": {
+      "message": "毎年"
+   },
+   "yearly_donation": {
+      "message": "年間寄付"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "$ads$件の広告と$popups$件のポップアップをブロックし、$saved$を節約しました",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "未読通知が$count$件あります",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "$donations$個のマイクロ寄付を$cause$に集めました",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "このページで$count$の$elems$をブロック解除しました",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "テーマ"
+   },
+   "themes_title": {
+      "message": "外観をカスタマイズする"
+   },
+   "themes_badge_settings": {
+      "message": "バッジの設定"
+   },
+   "themes_badge_disabled": {
+      "message": "バッジを見せないでください"
+   },
+   "themes_badge_page": {
+      "message": "現在のページにブロックされたアイテムの数を表示する"
+   },
+   "themes_badge_today": {
+      "message": "今日のブロックされたアイテムの数を表示する"
+   }
+}

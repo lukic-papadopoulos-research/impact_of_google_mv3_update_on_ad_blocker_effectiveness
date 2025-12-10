@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Pievienot vietni"
+  },
+  "added_sites": {
+    "message": "Pievienotās vietnes"
+  },
+  "advanced": {
+    "message": "Paplašināts"
+  },
+  "advertisement": {
+    "message": "Reklāma"
+  },
+  "advertising": {
+    "message": "Reklamēšana"
+  },
+  "adware": {
+    "message": "Reklāmprogrammatūra"
+  },
+  "adware_text": {
+    "message": "Bloķē ļaunprātīgu programmatūru, kas ievieto reklāmas jūsu pārlūkprogrammā, izdzēš jūsu klikšķus vai mājaslapu un seko jūsu aktivitātei."
+  },
+  "allow_fair_ads": {
+    "message": "Atļaut taisnīgas reklāmas"
+  },
+  "allow_fair_ads_description": {
+    "message": "Izvēloties atļaut dažas reklāmas, tiek atbalstītas tīmekļa vietnes, kas atkarīgas no reklāmas ienākumiem, un tiek atbalstīta brīva un taisnīga tīmekļa vide."
+  },
+  "allowed_sites": {
+    "message": "Atļautās vietnes"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Bloķē kaitinošas reklāmas, uznirstošos logus, ļaunprātīgu programmatūru un sekošanas ierīces (pat Facebook un Youtube), pārlūkojiet ātrāk un aizsargājiet savu privātumu."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Atpakaļ uz sākuma ekrānu"
+  },
+  "bagels": {
+    "message": "Tas ir kā divi bageli"
+  },
+  "basic": {
+    "message": "Pamata"
+  },
+  "block_element": {
+    "message": "Bloķēt"
+  },
+  "block_elements_on_this_page": {
+    "message": "Bloķēt elementus šajā lapā"
+  },
+  "block_popups": {
+    "message": "Bloķēt uznirstošos logus šajā vietnē"
+  },
+  "blocking_resumed": {
+    "message": "Bloķēšana atsākta vietnē $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Bloķēšanas iestatījumi"
+  },
+  "blocking_statistic": {
+    "message": "Bloķēšanas statistika"
+  },
+  "blocking_statistics_text": {
+    "message": "Šeit jums ir vēsturiskie dati par to, cik daudzas reklāmas tika bloķētas noteiktā laika periodā."
+  },
+  "blocks_on_this_page": {
+    "message": "Bloki šajā lapā"
+  },
+  "blocks_today": {
+    "message": "Bloki šodien"
+  },
+  "board_text_1": {
+    "message": "Stands komanda jums ir pateicīga, ka instalējāt paplašinājumu. Lai jūsu pieredze ar produktu būtu pēc iespējas komfortablāka, lūdzu, pārskatiet"
+  },
+  "board_text_2": {
+    "message": "un tulkojums latviešu valodā: un pielāgojiet tos, ja nepieciešams."
+  },
+  "bouquet": {
+    "message": "Tas ir līdzīgi kā pušķis un šokolādes kaste"
+  },
+  "burger": {
+    "message": "Tas ir līdzīgi kā burgers"
+  },
+  "burger_menu": {
+    "message": "Tas ir līdzīgi kā burgeru izvēlnes"
+  },
+  "bypass": {
+    "message": "Apiešanās"
+  },
+  "close": {
+    "message": "Aizvērt"
+  },
+  "continue": {
+    "message": "Turpināt"
+  },
+  "cup_of_coffee": {
+    "message": "Tas ir līdzīgi kā tas, ka dzer kafiju"
+  },
+  "custom_amount": {
+    "message": "Pielāgota summa"
+  },
+  "custom_amount_text": {
+    "message": "Cenas izvēle ir atkarīga no jums"
+  },
+  "describe_the_issue": {
+    "message": "Aprakstiet problēmu"
+  },
+  "disable_other": {
+    "message": "Izslēgt citus reklāmu bloķētājus"
+  },
+  "dismiss": {
+    "message": "Nepievērst uzmanību"
+  },
+  "donate": {
+    "message": "Ziedot"
+  },
+  "donation_screen_text": {
+    "message": "Lai nodrošinātu pilnīgi visiem Stands Fair lietotājiem bezmaksas piekļuvi un vienmēr uzlabot produktu, mēs lūdzam jūsu atbalstu. Pilnīgi visi naudas līdzekļi tiks izmantoti, lai uzlabotu produktu."
+  },
+  "donation_settings_text": {
+    "message": "Stands ir un paliks bezmaksas produkts. Ziedojumi tiek veikti tikai labdarības nolūkos un tie neietekmē individuālo ierīču funkcionalitāti vai veiktspēju. Ja vēlaties atbalstīt mūsu komandu un nodrošināt, ka paplašināšanās notiek uz jaunām platformām, izvēlieties summu, kuru vēlaties ziedot."
+  },
+  "donation_settings_title": {
+    "message": "Ziedot Stands AdBlocker"
+  },
+  "element": {
+    "message": "elements"
+  },
+  "elements": {
+    "message": "elementi"
+  },
+  "elements_blocked": {
+    "message": "Bloķēti $count$ elementi",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "E-pasts"
+  },
+  "email_cant_be_empty": {
+    "message": "E-pasts nevar būt tukšs"
+  },
+  "facebook_ads": {
+    "message": "Facebook reklāmas"
+  },
+  "facebook_ads_text": {
+    "message": "Reklāmas, kas parādās jūsu ziņu plūsmā un blakus tam. Pēc noklusējuma nav bloķētas, jo tā ir veids, kā Facebook finansē bezmaksas pakalpojumu, ko piedāvā"
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker no STANDS"
+  },
+  "fairness_settings": {
+    "message": "Taisnīguma iestatījumi"
+  },
+  "fairness_settings_text": {
+    "message": "Maksimālais atļauto reklāmu skaits lapā"
+  },
+  "feedback": {
+    "message": "Atsauksmes"
+  },
+  "feedback_screen_text": {
+    "message": "Mēs vēlētos dzirdēt jūsu domas, ieteikumus, bažas vai problēmas ar jebkuru tēmu, lai mēs varētu uzlaboties!"
+  },
+  "guided_setup": {
+    "message": "Sākt ar vadīto iestatījumu:"
+  },
+  "guided_setup_go": {
+    "message": "APTUVIET"
+  },
+  "guided_setup_later": {
+    "message": "VĒLĀK"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker ir slēdzis $count$ uznirstošos logus",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "kopā"
+  },
+  "include_current_url": {
+    "message": "Iekļaut pašreizējo URL paziņojumā"
+  },
+  "is_mandatory": {
+    "message": "$name$ ir obligāti jāaizpilda",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Bloķētie elementi"
+  },
+  "keep_off": {
+    "message": "Nelieto to"
+  },
+  "minutes_saved": {
+    "message": "taupītie minūtes"
+  },
+  "monthly": {
+    "message": "Ikmēneša"
+  },
+  "monthly_donation": {
+    "message": "Mēneša ziedojums"
+  },
+  "more_info_on_statistics": {
+    "message": "Papildu informācija 'Statistikas' ekrānā"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Šajā lapā nav bloķētu elementu"
+  },
+  "on_this_page": {
+    "message": "šajā lapā"
+  },
+  "other_blocks": {
+    "message": "Jūsu citi reklāmu bloķētāji joprojām bloķē reklāmas"
+  },
+  "other_disabled": {
+    "message": "Lieliski, citi reklāmu bloķētāji tika veiksmīgi atslēgti!"
+  },
+  "other_prevents": {
+    "message": "Jūsu citi reklāmu bloķētāji neļauj to apiet"
+  },
+  "off": {
+    "message": "izslēgts"
+  },
+  "pay_with": {
+    "message": "Maksāt ar"
+  },
+  "pay_with_credit_card": {
+    "message": "Maksāt ar kredītkarti"
+  },
+  "pizza": {
+    "message": "Tas ir līdzīgi kā pica"
+  },
+  "popups": {
+    "message": "Uznirstošie logi"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Pievienojiet vietnes, kurām ir atļauti uznirstošie logi, izmantojot zemāk esošo veidlapu."
+  },
+  "popup_allowed_sites": {
+    "message": "Atļauti uznirstošo logu vietnes"
+  },
+  "popups_text": {
+    "message": "Pēc noklusējuma uznirstošie logi tiek bloķēti visās vietnēs, bet jūs varat atļaut tos konkrētās vietnēs."
+  },
+  "privacy_policy": {
+    "message": "Privātuma politika"
+  },
+  "rate_stands_adblocker": {
+    "message": "Novērtēt Stands AdBlocker, lai palīdzētu mums augt un vairāk iegūt"
+  },
+  "refresh": {
+    "message": "Atsvaidzināt"
+  },
+  "refresh_take_effect": {
+    "message": "Atsvaidziniet lapu, lai šīs izmaiņas stātos spēkā"
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Ziņot par problēmu šajā lapā"
+  },
+  "report_issue_text": {
+    "message": "Mēs nožēlojam, ka kas notiek nepareizi. Pastāstiet mums par to, un mēs to salabosim."
+  },
+  "resume_blocking": {
+    "message": "Atsākt bloķēšanu šajā vietnē"
+  },
+  "seconds_saved": {
+    "message": "taupītie sekundes"
+  },
+  "search_ads": {
+    "message": "Meklēt reklāmas"
+  },
+  "search_ads_text": {
+    "message": "Reklāmas, kas parādās blakus jūsu meklēšanas rezultātiem. Noklusējuma bloķēšana nav iespējota, jo tieši tā Google, Microsoft un citi finansē bezmaksas pakalpojumus, ko tie sniedz."
+  },
+  "send": {
+    "message": "Sūtīt"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Iestatījumi"
+  },
+  "sponsored": {
+    "message": "Sponsoriem maksātie saites"
+  },
+  "sponsored_text": {
+    "message": "Daudziem saitiem tiek rādītas rakstu rekomendācijas, kas ir saistītas ar to, ko jūs lasāt, un dažas no tām var tikt uzskatītas par reklāmām."
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS ir ieslēgts"
+  },
+  "stands_is_paused": {
+    "message": "STANDS ir apturēts visos saitos"
+  },
+  "stands_turned_off": {
+    "message": "STANDS ir izslēgts"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS ir izslēgts. Vai jūs vēlaties to ieslēgt?"
+  },
+  "statistic": {
+    "message": "Statistikas"
+  },
+  "stop_closing": {
+    "message": "Pārtraukt logu aizvēršanu"
+  },
+  "sushi": {
+    "message": "Tas ir kā vienas personas suši vakariņas"
+  },
+  "terms_of_use": {
+    "message": "Lietošanas noteikumi"
+  },
+  "the_site_was_whitelisted": {
+    "message": "Vietne $host$ tika iekļauta baltajā sarakstā.",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "Šī vietne bloķē vai rāda ziņojumu reklāmas bloķētājiem."
+  },
+  "total": {
+    "message": "Kopā"
+  },
+  "tracking": {
+    "message": "Izsekošana"
+  },
+  "tracking_text": {
+    "message": "Aizsargājiet savu privātumu no tūkstošiem vietņu izsekošanas skriptu un trešo personu."
+  },
+  "turn_on": {
+    "message": "Ieslēgt"
+  },
+  "turn_on_blocking": {
+    "message": "Ieslēgt bloķēšanu"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Ieslēgt taisnīgu reklāmu bloķēšanu."
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Izslēgt bloķēšanu visur"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Atbloķēt elementus uz šīs lapas"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Atsaukt manas bloķētās elementus uz šīs lapas"
+  },
+  "uninstall": {
+    "message": "Atinstalēt"
+  },
+  "version": {
+    "message": "Versija"
+  },
+  "web_mail": {
+    "message": "Tīmekļa pasta reklāmas"
+  },
+  "web_mail_text": {
+    "message": "Teksta reklāmas, kas parādās jūsu pasta saraksta augšpusē. Noklusējuma bloķēšana nav iespējota, jo tieši tā Google, Yahoo un citi finansē bezmaksas pakalpojumus, ko tie sniedz."
+  },
+  "whitelist": {
+    "message": "Baltais saraksts"
+  },
+  "whitelist_this_site": {
+    "message": "Baltajā sarakstā iekļaut šo vietni"
+  },
+  "whitelisted_sites": {
+    "message": "Vietnes, kas iekļautas baltajā sarakstā"
+  },
+  "whitelisted_text": {
+    "message": "Šeit jūs varat pārvaldīt savu baltu sarakstu. Kad vietne ir iekļauta baltajā sarakstā, Stands uz tās vietnes ir pilnībā atslēgts, nav nekādas bloķēšanas un nav arī reklāmu, kas atbalsta jūsu lietu."
+  },
+  "winebottle": {
+    "message": "Tas ir kā labs vīna pudele"
+  },
+  "would_bypass": {
+    "message": "Vai vēlaties to apiet vai iekļaut šo vietni baltajā sarakstā?"
+  },
+  "would_disable_other": {
+    "message": "Vai vēlaties atslēgt citu reklāmu bloķētāju?"
+  },
+  "would_rate": {
+    "message": "Vai vēlaties mums piešķirt reitingu?"
+  },
+  "would_stop": {
+    "message": "Vai vēlaties to apturēt vai turpināt?"
+  },
+  "yearly": {
+    "message": "Ik gadu"
+  },
+  "yearly_donation": {
+    "message": "Gadu ziedojums"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Jūs bloķējāt $ads$ reklāmas, $popups$ uznirstošos logus un ietaupījāt $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Jūs esat vācis $donations$ mikroziedojumus $cause$",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Jūs atbloķējāt $count$ $elems$ šajā lapā",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Tēma"
+  },
+  "themes_title": {
+    "message": "Pielāgot izskatu"
+  },
+  "themes_badge_settings": {
+    "message": "Žetonu iestatījumi"
+  },
+  "themes_badge_disabled": {
+    "message": "Nerādīt žetonu"
+  },
+  "themes_badge_page": {
+    "message": "Rādīt bloķēto vienumu skaitu pašreizējā lapā"
+  },
+  "themes_badge_today": {
+    "message": "Rādīt šodienas bloķēto vienumu skaitu"
+  },
+  "donation_card_text": {
+    "message": "Lai saglabātu $stands$ bezmaksas un uzlabotu tā kvalitāti, mēs lūdzam jūsu atbalstu.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Pieejams $android$ un citām pārlūkprogrammām",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Lejupielādēt $stands_browser$ un baudīt ad-free interneta sērfošanu uz $android$. Paplašinājumu var instalēt arī citās pārlūkprogrammās.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Kā mūs atbalstīt?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ ir un būs bezmaksas produkts. Jūs varat ziedot jebkuru summu, lai pārliecinātos, ka paplašinājums kļūst labāks un parādās vairākās platformās.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Palīdziet mums saglabāt $stands$ bezmaksas un uzlabot tās kvalitāti",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Site toevoegen"
+  },
+  "added_sites": {
+    "message": "Toegevoegde sites"
+  },
+  "advanced": {
+    "message": "Geavanceerd"
+  },
+  "advertisement": {
+    "message": "Advertentie"
+  },
+  "advertising": {
+    "message": "Adverteren"
+  },
+  "adware": {
+    "message": "Adware"
+  },
+  "adware_text": {
+    "message": "Blokkeren van kwaadaardige programma's die advertenties injecteren in uw browser, uw klikken of startpagina kapen en uw activiteit volgen"
+  },
+  "allow_fair_ads": {
+    "message": "Toestaan van eerlijke advertenties"
+  },
+  "allow_fair_ads_description": {
+    "message": "Door het toestaan van een paar advertenties ondersteunt u de deelnemende websites die afhankelijk zijn van inkomsten uit reclame en ondersteunt u een vrij en eerlijk web."
+  },
+  "allowed_sites": {
+    "message": "Toegestane sites"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Blokkeren van vervelende advertenties, pop-ups, malware en tracking (zelfs op Facebook & Youtube), sneller browsen en uw privacy beschermen."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Terug naar startscherm"
+  },
+  "bagels": {
+    "message": "Het is als twee bagels"
+  },
+  "basic": {
+    "message": "Basis"
+  },
+  "block_element": {
+    "message": "Blokkeer"
+  },
+  "block_elements_on_this_page": {
+    "message": "Blokkeer elementen op deze pagina"
+  },
+  "block_popups": {
+    "message": "Blokkeer pop-ups op deze site"
+  },
+  "blocking_resumed": {
+    "message": "Blokkeren hervat op $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Blokkeringsinstellingen"
+  },
+  "blocking_statistic": {
+    "message": "Blokkeringsstatistieken"
+  },
+  "blocking_statistics_text": {
+    "message": "Hier vindt u historische gegevens over hoeveel advertenties er gedurende een bepaalde periode zijn geblokkeerd."
+  },
+  "blocks_on_this_page": {
+    "message": "Blokkeert op deze pagina"
+  },
+  "blocks_today": {
+    "message": "Blokkeert vandaag"
+  },
+  "board_text_1": {
+    "message": "Het Stands-team is u dankbaar voor het installeren van de extensie. Om uw ervaring met het product zo comfortabel mogelijk te maken, bekijk alstublieft de"
+  },
+  "board_text_2": {
+    "message": "en pas deze indien nodig aan."
+  },
+  "bouquet": {
+    "message": "Het is als een boeket en een doos chocolade"
+  },
+  "burger": {
+    "message": "Het is als een burger"
+  },
+  "burger_menu": {
+    "message": "Het is als een burgermenu"
+  },
+  "bypass": {
+    "message": "Omzeilen"
+  },
+  "close": {
+    "message": "Sluiten"
+  },
+  "continue": {
+    "message": "Doorgaan"
+  },
+  "cup_of_coffee": {
+    "message": "Het is als een kop koffie"
+  },
+  "custom_amount": {
+    "message": "Aangepast bedrag"
+  },
+  "custom_amount_text": {
+    "message": "Aan u de keuze van de prijs"
+  },
+  "describe_the_issue": {
+    "message": "Beschrijf het probleem"
+  },
+  "disable_other": {
+    "message": "Schakel andere ad blocker uit"
+  },
+  "dismiss": {
+    "message": "Afwijzen"
+  },
+  "donate": {
+    "message": "Doneren"
+  },
+  "donation_screen_text": {
+    "message": "Om gratis toegang voor alle Stands Fair-gebruikers te behouden en tegelijkertijd het product voortdurend te verbeteren, vragen we om uw steun. Absoluut al het geld zal worden besteed aan het verbeteren van het product."
+  },
+  "donation_settings_text": {
+    "message": "Stands is en blijft een gratis product. Donaties zijn uitsluitend voor charitatieve doeleinden en hebben geen invloed op de functionaliteit of prestaties van individuele apparaten. Als u ons team wilt steunen en ervoor wilt zorgen dat de extensie alleen maar beter kan worden en op nieuwe platforms kan verschijnen, kies dan het bedrag dat u wilt doneren."
+  },
+  "donation_settings_title": {
+    "message": "Doneer aan Stands AdBlocker"
+  },
+  "element": {
+    "message": "element"
+  },
+  "elements": {
+    "message": "elementen"
+  },
+  "elements_blocked": {
+    "message": "$count$ elementen geblokkeerd",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "E-mail"
+  },
+  "email_cant_be_empty": {
+    "message": "E-mail mag niet leeg zijn"
+  },
+  "facebook_ads": {
+    "message": "Facebook-advertenties"
+  },
+  "facebook_ads_text": {
+    "message": "Advertenties die in uw nieuwsoverzicht en ernaast verschijnen. Standaard niet geblokkeerd omdat Facebook op die manier de gratis service financiert die het biedt."
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker door STANDS"
+  },
+  "fairness_settings": {
+    "message": "Eerlijkheid instellingen"
+  },
+  "fairness_settings_text": {
+    "message": "Maximaal aantal advertenties toegestaan op een pagina"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "feedback_screen_text": {
+    "message": "We horen graag uw gedachten, suggesties, zorgen of problemen met alles, zodat we kunnen verbeteren!"
+  },
+  "guided_setup": {
+    "message": "Begin met een begeleide setup:"
+  },
+  "guided_setup_go": {
+    "message": "LATEN WE GAAN"
+  },
+  "guided_setup_later": {
+    "message": "LATER"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker heeft $count$ pop-ups gesloten",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "in totaal"
+  },
+  "include_current_url": {
+    "message": "Huidige URL opnemen in het rapport"
+  },
+  "is_mandatory": {
+    "message": "$name$ is verplicht",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Geblokkeerde items"
+  },
+  "keep_off": {
+    "message": "Laat het uit"
+  },
+  "minutes_saved": {
+    "message": "minuten bespaard"
+  },
+  "monthly": {
+    "message": "Månedlige"
+  },
+  "monthly_donation": {
+    "message": "Maandelijkse donatie"
+  },
+  "more_info_on_statistics": {
+    "message": "Meer informatie op het 'Statistieken' scherm"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Er waren geen geblokkeerde elementen op deze pagina"
+  },
+  "on_this_page": {
+    "message": "op deze pagina"
+  },
+  "other_blocks": {
+    "message": "Uw andere ad-blocker blokkeert nog steeds advertenties"
+  },
+  "other_disabled": {
+    "message": "Perfect, andere ad-blockers zijn succesvol uitgeschakeld!"
+  },
+  "other_prevents": {
+    "message": "Uw andere ad-blocker voorkomt het omzeilen"
+  },
+  "off": {
+    "message": "uit"
+  },
+  "pay_with": {
+    "message": "Betalen met"
+  },
+  "pay_with_credit_card": {
+    "message": "Betalen met creditcard"
+  },
+  "pizza": {
+    "message": "Het is als een pizza"
+  },
+  "popups": {
+    "message": "Pop-ups"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Voeg sites toe met toegestane pop-ups met behulp van het onderstaande formulier."
+  },
+  "popup_allowed_sites": {
+    "message": "Toegestane pop-up-sites"
+  },
+  "popups_text": {
+    "message": "Standaard worden pop-ups geblokkeerd op alle sites, u kunt pop-ups toestaan op specifieke sites"
+  },
+  "privacy_policy": {
+    "message": "Privacybeleid"
+  },
+  "rate_stands_adblocker": {
+    "message": "Beoordeel Stands AdBlocker om ons te helpen groeien en meer op te halen"
+  },
+  "refresh": {
+    "message": "Vernieuwen"
+  },
+  "refresh_take_effect": {
+    "message": "Vernieuw de pagina zodat deze wijziging van kracht wordt"
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Meld een probleem op deze pagina"
+  },
+  "report_issue_text": {
+    "message": "Het spijt ons te horen dat er iets niet klopt. Vertel ons erover en we zullen het oplossen."
+  },
+  "resume_blocking": {
+    "message": "Hervat het blokkeren op deze site"
+  },
+  "seconds_saved": {
+    "message": "seconden bespaard"
+  },
+  "search_ads": {
+    "message": "Zoekadvertenties"
+  },
+  "search_ads_text": {
+    "message": "Advertenties die naast uw zoekresultaten verschijnen. Standaard niet geblokkeerd omdat dit de manier is waarop Google, Microsoft en anderen de gratis service financieren die ze bieden"
+  },
+  "send": {
+    "message": "Verzenden"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "sponsored": {
+    "message": "Gesponsorde links"
+  },
+  "sponsored_text": {
+    "message": "Veel sites tonen artikel aanbevelingen die relevant zijn voor het artikel dat u leest, sommige ervan zijn gesponsord en kunnen worden beschouwd als advertenties"
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS is terug aan"
+  },
+  "stands_is_paused": {
+    "message": "STANDS is gepauzeerd op alle sites"
+  },
+  "stands_turned_off": {
+    "message": "STANDS is uitgeschakeld"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS is uitgeschakeld, wil je het inschakelen?"
+  },
+  "statistic": {
+    "message": "Statistiek"
+  },
+  "stop_closing": {
+    "message": "Stop met het sluiten van pop-ups"
+  },
+  "sushi": {
+    "message": "Het is als een sushi-diner voor één persoon"
+  },
+  "terms_of_use": {
+    "message": "Gebruiksvoorwaarden"
+  },
+  "the_site_was_whitelisted": {
+    "message": "De site $host$ is op de whitelist gezet",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "Deze site blokkeert of toont een bericht aan ad-blockerende gebruikers"
+  },
+  "total": {
+    "message": "Totaal"
+  },
+  "tracking": {
+    "message": "Tracking"
+  },
+  "tracking_text": {
+    "message": "Bescherm uw privacy tegen duizenden webtracking-scripts en derden"
+  },
+  "turn_on": {
+    "message": "Inschakelen"
+  },
+  "turn_on_blocking": {
+    "message": "Blokkeren inschakelen"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Inschakelen van eerlijke ad-blocking"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Overal blokkeren uitschakelen"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Elementen op deze pagina deblokkeren"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Mijn geblokkeerde elementen op deze pagina ongedaan maken"
+  },
+  "uninstall": {
+    "message": "Deïnstalleren"
+  },
+  "version": {
+    "message": "Versie"
+  },
+  "web_mail": {
+    "message": "Webmailadvertenties"
+  },
+  "web_mail_text": {
+    "message": "Tekstadvertenties die bovenaan uw e-maillijst verschijnen. Standaard niet geblokkeerd omdat dit is hoe Google, Yahoo en anderen de gratis service financieren die ze bieden."
+  },
+  "whitelist": {
+    "message": "Whitelist"
+  },
+  "whitelist_this_site": {
+    "message": "Whitelist deze site"
+  },
+  "whitelisted_sites": {
+    "message": "Gewhiteliste sites"
+  },
+  "whitelisted_text": {
+    "message": "Hier kunt u uw whitelist beheren. Wanneer een site op de whitelist staat, is Stands volledig uitgeschakeld op die site, geen blokkering van welke aard dan ook en geen plaatsing van advertenties die uw zaak sponsoren."
+  },
+  "winebottle": {
+    "message": "Het is als een fles goede wijn"
+  },
+  "would_bypass": {
+    "message": "Wil je deze site omzeilen of op de whitelist zetten?"
+  },
+  "would_disable_other": {
+    "message": "Wil je je andere adblocker uitschakelen?"
+  },
+  "would_rate": {
+    "message": "Wil je ons beoordelen?"
+  },
+  "would_stop": {
+    "message": "Wil je dat het stopt of doorgaat?"
+  },
+  "yearly": {
+    "message": "Årligt"
+  },
+  "yearly_donation": {
+    "message": "Jaarlijkse donatie"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Je hebt $ads$ advertenties geblokkeerd, $popups$ pop-ups en $saved$ bespaard",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Je hebt $donations$ micro-donaties opgehaald voor $cause$",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Je hebt $count$ $elems$ op deze pagina gedeblokkeerd",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Thema"
+  },
+  "themes_title": {
+    "message": "Uiterlijk aanpassen"
+  },
+  "themes_badge_settings": {
+    "message": "Badge instellingen"
+  },
+  "themes_badge_disabled": {
+    "message": "Laat de badge niet zien"
+  },
+  "themes_badge_page": {
+    "message": "Het aantal geblokkeerde items op de huidige pagina weergeven"
+  },
+  "themes_badge_today": {
+    "message": "Het aantal geblokkeerde items van vandaag weergeven"
+  },
+  "donation_card_text": {
+    "message": "For at holde $stands$ gratis og forbedre dens kvalitet, beder vi om din støtte.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Beschikbaar voor $android$ en andere browsers",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Download $stands_browser$ en geniet van advertentievrij surfen op het web op $android$. U kunt de extensie ook in andere browsers installeren.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Hoe ons te steunen?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ is en zal een gratis product zijn. U kunt elk bedrag doneren om ervoor te zorgen dat de extensie beter wordt en op meer platforms verschijnt.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Help ons om $stands$ gratis te houden en de kwaliteit ervan te verbeteren",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

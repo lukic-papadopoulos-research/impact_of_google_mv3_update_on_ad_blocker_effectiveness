@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Lisää sivusto"
+  },
+  "added_sites": {
+    "message": "Lisätyt sivustot"
+  },
+  "advanced": {
+    "message": "Edistynyt"
+  },
+  "advertisement": {
+    "message": "Mainos"
+  },
+  "advertising": {
+    "message": "Mainonta"
+  },
+  "adware": {
+    "message": "Mainosohjelmat"
+  },
+  "adware_text": {
+    "message": "Estä haittaohjelmat, jotka lisäävät mainoksia selaimeesi, kaappaavat klikkauksesi tai kotisivusi ja seuraavat toimintaasi"
+  },
+  "allow_fair_ads": {
+    "message": "Salli oikeudenmukaiset mainokset"
+  },
+  "allow_fair_ads_description": {
+    "message": "Päätös sallia muutama mainos auttaa tukemaan mainostuloista riippuvaisia verkkosivustoja ja tukee vapaata ja oikeudenmukaista verkkokokemusta."
+  },
+  "allowed_sites": {
+    "message": "Sallitut sivustot"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Estä ärsyttävät mainokset, ponnahdusikkunat, haittaohjelmat ja seurannan (jopa Facebookissa ja YouTubessa), selaa nopeammin ja suojaa yksityisyyttäsi."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Takaisin aloitusnäyttöön"
+  },
+  "bagels": {
+    "message": "Se on kuin kaksi bagelia"
+  },
+  "basic": {
+    "message": "Perus"
+  },
+  "block_element": {
+    "message": "Estä"
+  },
+  "block_elements_on_this_page": {
+    "message": "Estä elementit tältä sivulta"
+  },
+  "block_popups": {
+    "message": "Estä ponnahdusikkunat tällä sivustolla"
+  },
+  "blocking_resumed": {
+    "message": "Esto jatkunut sivulla $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Eston asetukset"
+  },
+  "blocking_statistic": {
+    "message": "Eston tilastot"
+  },
+  "blocking_statistics_text": {
+    "message": "Täältä näet historialliset tiedot siitä, kuinka monta mainosta on estetty tiettynä ajanjaksona."
+  },
+  "blocks_on_this_page": {
+    "message": "Estetyt elementit tällä sivulla"
+  },
+  "blocks_today": {
+    "message": "Estetyt tänään"
+  },
+  "board_text_1": {
+    "message": "Stands-tiimi on kiitollinen sinulle, että asensit laajennuksen. Teemme kaikkemme, jotta käyttökokemuksesi olisi mahdollisimman mukava. Arvostaisimme, jos kävisit"
+  },
+  "board_text_2": {
+    "message": "ja säätäisit niitä tarpeen mukaan."
+  },
+  "bouquet": {
+    "message": "Se on kuin kukkakimppu ja suklaarasia"
+  },
+  "burger": {
+    "message": "Se on kuin hampurilainen"
+  },
+  "burger_menu": {
+    "message": "Se on kuin hampurilaisvalikko"
+  },
+  "bypass": {
+    "message": "Ohita"
+  },
+  "close": {
+    "message": "Sulje"
+  },
+  "continue": {
+    "message": "Jatka"
+  },
+  "cup_of_coffee": {
+    "message": "Se on kuin kuppi kahvia"
+  },
+  "custom_amount": {
+    "message": "Mukautettu summa"
+  },
+  "custom_amount_text": {
+    "message": "Hinta on sinun päätettävissäsi"
+  },
+  "describe_the_issue": {
+    "message": "Kuvaile ongelmaa"
+  },
+  "disable_other": {
+    "message": "Poista muu mainosten esto käytöstä"
+  },
+  "dismiss": {
+    "message": "Hylkää"
+  },
+  "donate": {
+    "message": "Lahjoita"
+  },
+  "donation_screen_text": {
+    "message": "Jotta Stands Fair olisi jatkossakin täysin ilmainen ja kehittyisi, pyydämme tukesi. Kaikki rahat käytetään tuotteen parantamiseen."
+  },
+  "donation_settings_text": {
+    "message": "Stands on ja pysyy ilmaisena tuotteena. Lahjoitukset ovat vain hyväntekeväisyys tarkoituksessa ja niillä ei ole vaikutusta yksittäisten laitteiden toimintaan tai suorituskykyyn. Jos haluat tukea tiimiämme ja varmistaa, että laajennus kehittyy edelleen ja ilmestyy uusille alustoille, valitse haluamasi lahjoitussumma."
+  },
+  "donation_settings_title": {
+    "message": "Lahjoita Stands AdBlockerille"
+  },
+  "element": {
+    "message": "elementti"
+  },
+  "elements": {
+    "message": "elementit"
+  },
+  "elements_blocked": {
+    "message": "$count$ estettyä elementtiä",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "Sähköposti"
+  },
+  "email_cant_be_empty": {
+    "message": "Sähköposti ei voi olla tyhjä"
+  },
+  "facebook_ads": {
+    "message": "Facebook-mainokset"
+  },
+  "facebook_ads_text": {
+    "message": "Mainokset, jotka näkyvät uutissyötteessäsi ja sen vieressä. Ei ole oletusarvoisesti estetty, koska se on tapa, jolla Facebook rahoittaa tarjoamansa ilmaisen palvelun."
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker by STANDS"
+  },
+  "fairness_settings": {
+    "message": "Reiluuskäytännöt"
+  },
+  "fairness_settings_text": {
+    "message": "Sallittujen mainosten enimmäismäärä sivulla"
+  },
+  "feedback": {
+    "message": "Palaute"
+  },
+  "feedback_screen_text": {
+    "message": "Haluaisimme kuulla ajatuksiasi, ehdotuksiasi, huolesi tai ongelmasi jotta voimme parantaa!"
+  },
+  "guided_setup": {
+    "message": "Aloita ohjatulla asennuksella:"
+  },
+  "guided_setup_go": {
+    "message": "ALOITA"
+  },
+  "guided_setup_later": {
+    "message": "MYÖHEMMIN"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker on sulkenut $count$ ponnahdusikkunaa.",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "yhteensä"
+  },
+  "include_current_url": {
+    "message": "Sisällytä nykyinen URL-raporttiin."
+  },
+  "is_mandatory": {
+    "message": "$name$ on pakollinen",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Estetyt kohteet"
+  },
+  "keep_off": {
+    "message": "Pidä pois päältä"
+  },
+  "minutes_saved": {
+    "message": "säästetyt minuutit"
+  },
+  "monthly": {
+    "message": "Kuukausittain"
+  },
+  "monthly_donation": {
+    "message": "Kuukausittainen lahjoitus"
+  },
+  "more_info_on_statistics": {
+    "message": "Lisätietoja 'Tilastot' näytöllä"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Tällä sivulla ei ollut estettyjä elementtejä."
+  },
+  "on_this_page": {
+    "message": "Tällä sivulla"
+  },
+  "other_blocks": {
+    "message": "Toinen mainostenesto-ohjelmasi estää yhä mainoksia."
+  },
+  "other_disabled": {
+    "message": "Hienoa, toinen mainostenesto-ohjelmasi onnistuttiin poistamaan käytöstä!"
+  },
+  "other_prevents": {
+    "message": "Toinen mainostenesto-ohjelmasi estää kiertotien."
+  },
+  "off": {
+    "message": "Pois päältä"
+  },
+  "pay_with": {
+    "message": "Maksa käyttämällä"
+  },
+  "pay_with_credit_card": {
+    "message": "Maksa luottokortilla"
+  },
+  "pizza": {
+    "message": "Se on kuin pizza"
+  },
+  "popups": {
+    "message": "Pop-up-ikkunat"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Lisää sivustoja, joilla on sallittuja pop-up-ikkunoita alla olevalla lomakkeella."
+  },
+  "popup_allowed_sites": {
+    "message": "Sallitut pop-up-sivustot"
+  },
+  "popups_text": {
+    "message": "Oletusarvoisesti pop-up-ikkunat ovat estettyjä kaikilla sivustoilla, mutta voit sallia ne tietyillä sivustoilla."
+  },
+  "privacy_policy": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "rate_stands_adblocker": {
+    "message": "Arvioi Stands AdBlocker auttaaksesi meitä kasvamaan ja keräämään enemmän varoja."
+  },
+  "refresh": {
+    "message": "Päivitä"
+  },
+  "refresh_take_effect": {
+    "message": "Päivitä sivu, jotta muutokset tulevat voimaan."
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Ilmoita ongelmasta tällä sivulla."
+  },
+  "report_issue_text": {
+    "message": "Olemme pahoillamme, että jotain on pielessä. Kerro siitä meille, niin korjaamme sen."
+  },
+  "resume_blocking": {
+    "message": "Jatka estämistä tällä sivustolla"
+  },
+  "seconds_saved": {
+    "message": "sekuntia säästetty"
+  },
+  "search_ads": {
+    "message": "Hakuilmoitukset"
+  },
+  "search_ads_text": {
+    "message": "Mainokset, jotka ilmestyvät hakutulosten vieressä. Niitä ei estetä oletusarvoisesti, koska se on Googlelle, Microsoftille ja muille tärkeä tapa rahoittaa tarjoamaansa ilmaista palvelua."
+  },
+  "send": {
+    "message": "Lähetä"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Asetukset"
+  },
+  "sponsored": {
+    "message": "Sponsoroituja linkkejä"
+  },
+  "sponsored_text": {
+    "message": "Monet sivustot näyttävät artikkeleiden suosituksia, jotka liittyvät lukemaasi artikkeliin, joista jotkut ovat sponsoroituja ja voidaan katsoa mainoksiksi."
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS on käynnissä"
+  },
+  "stands_is_paused": {
+    "message": "STANDS on pysäytetty kaikilla sivustoilla"
+  },
+  "stands_turned_off": {
+    "message": "STANDS on pois päältä"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS on pois päältä, haluaisitko kytkeä sen päälle?"
+  },
+  "statistic": {
+    "message": "Tilasto"
+  },
+  "stop_closing": {
+    "message": "Lopeta pop-up-ikkunoiden sulkeminen"
+  },
+  "sushi": {
+    "message": "Se on kuin sushi-illallinen yhdelle"
+  },
+  "terms_of_use": {
+    "message": "Käyttöehdot"
+  },
+  "the_site_was_whitelisted": {
+    "message": "Sivusto $host$ on lisätty sallittujen joukkoon (whitelist).",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "Tämä sivusto estää tai näyttää viestin mainosten esto-ohjelmia käyttäville käyttäjille."
+  },
+  "total": {
+    "message": "Yhteensä"
+  },
+  "tracking": {
+    "message": "Seuranta"
+  },
+  "tracking_text": {
+    "message": "Suojaa yksityisyytesi tuhansilta verkkoseurantaohjelmilta ja kolmansilta osapuolilta"
+  },
+  "turn_on": {
+    "message": "Kytke päälle"
+  },
+  "turn_on_blocking": {
+    "message": "Kytke mainosten esto päälle"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Kytke reilu mainosten esto päälle"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Poista esto kaikkialta"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Poista esto tältä sivulta"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Peruuta estoja tällä sivulla"
+  },
+  "uninstall": {
+    "message": "Poista asennus"
+  },
+  "version": {
+    "message": "Versio"
+  },
+  "web_mail": {
+    "message": "Sähköpostimainokset"
+  },
+  "web_mail_text": {
+    "message": "Tekstimainokset, jotka näkyvät sähköpostilistan yläosassa. Niitä ei estetä oletusarvoisesti, koska Google, Yahoo ja muut sivustot rahoittavat palveluaan niillä."
+  },
+  "whitelist": {
+    "message": "Sallitut sivustot"
+  },
+  "whitelist_this_site": {
+    "message": "Lisää tämä sivusto whitelistalle"
+  },
+  "whitelisted_sites": {
+    "message": "Whitelistatut sivustot"
+  },
+  "whitelisted_text": {
+    "message": "Täällä voit hallita sallittuja sivustoja. Kun sivusto on sallittu, Stands on täysin poissa käytöstä kyseisellä sivustolla, ei estoa millään tavalla eikä mainosten asettamista tukemaan aihettasi."
+  },
+  "winebottle": {
+    "message": "Se on kuin pullo hyvää viiniä"
+  },
+  "would_bypass": {
+    "message": "Haluatko ohittaa sen tai lisätä tämän sivuston sallittujen joukkoon?"
+  },
+  "would_disable_other": {
+    "message": "Haluatko poistaa muun mainosten esto-ohjelmasi käytöstä?"
+  },
+  "would_rate": {
+    "message": "Haluatko arvostella meidät?"
+  },
+  "would_stop": {
+    "message": "Haluatko lopettaa vai jatkaa?"
+  },
+  "yearly": {
+    "message": "Vuosittain"
+  },
+  "yearly_donation": {
+    "message": "Vuosittainen lahjoitus"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Blokkasit $ads$ mainosta, $popups$ popupia ja säästit $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Keräsit $donations$ mikro-lahjoitusta $cause$ -syylle",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Olet poistanut estoja $count$ $elems$:stä tältä sivulta",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Teema"
+  },
+  "themes_title": {
+    "message": "Muokkaa ulkonäköä"
+  },
+  "themes_badge_settings": {
+    "message": "Merkin asetukset"
+  },
+  "themes_badge_disabled": {
+    "message": "Älä näytä virkamerkkiä"
+  },
+  "themes_badge_page": {
+    "message": "Näytä tällä sivulla olevien estettyjen kohteiden määrä"
+  },
+  "themes_badge_today": {
+    "message": "Näytä estettyjen kohteiden määrä tänään"
+  },
+  "donation_card_text": {
+    "message": "Pitää $stands$ ilmaiseksi ja parantaa sen laatua, pyydämme tukea.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Saatavilla $android$ ja muut selaimet",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Lataa $stands_browser$ ja nauti ad-vapaa web surfing $android$. Laajennuksen voi asentaa myös muihin selaimiin.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Miten tukea meitä?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ on ja tulee olemaan ilmainen tuote. Voit lahjoittaa minkä tahansa summan varmistaaksesi, että laajennus paranee ja näkyy useammalla alustalla.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Auttaa meitä pitämään $stands$ ilmaiseksi ja parantaa sen laatua",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

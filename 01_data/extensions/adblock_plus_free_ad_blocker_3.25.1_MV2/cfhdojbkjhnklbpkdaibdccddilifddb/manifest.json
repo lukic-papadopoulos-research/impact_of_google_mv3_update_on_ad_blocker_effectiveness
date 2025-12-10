@@ -1,0 +1,161 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "author": "eyeo GmbH",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [
+        "vendor/@eyeo/webext-ad-filtering-solution/content.js",
+        "polyfill.js",
+        "ext/common.js",
+        "ext/content.js",
+        "composer.preload.js",
+        "bypass.preload.js"
+      ],
+      "match_about_blank": true,
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "js": [
+        "onpage-dialog.postload.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "onpage-dialog-ui.postload.js"
+      ],
+      "match_about_blank": true,
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [
+        "polyfill.js",
+        "ext/common.js",
+        "ext/content.js",
+        "premium.preload.js",
+        "premium-onboarding.preload.js"
+      ],
+      "matches": [
+        "https://accounts.adblockplus.org/premium",
+        "https://accounts.adblockplus.org/premium?*",
+        "https://accounts.adblockplus.org/*/premium",
+        "https://accounts.adblockplus.org/*/premium?*"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "js": [
+        "yt-wall-detection.preload.js"
+      ],
+      "matches": [
+        "https://youtube.com/*",
+        "https://www.youtube.com/*"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "js": [
+        "polyfill.js",
+        "info-injector.preload.js"
+      ],
+      "matches": [
+        "https://adblockplus.org/*",
+        "https://accounts.adblockplus.org/*",
+        "https://new.adblockplus.org/*",
+        "https://welcome.adblockplus.org/*",
+        "https://getadblock.com/*",
+        "https://vpn.getadblock.com/*"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "js": [
+        "polyfill.js",
+        "ext/common.js",
+        "ext/content.js",
+        "options.preload.js"
+      ],
+      "matches": [
+        "https://adblockplus.org/installed",
+        "https://adblockplus.org/installed?*",
+        "https://adblockplus.org/*/installed",
+        "https://adblockplus.org/*/installed?*",
+        "https://welcome.adblockplus.org/*/installed",
+        "https://welcome.adblockplus.org/*/installed?*"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "name": "Adblock Plus Free Ad Blocker 3.25.1 Mv2",
+  "short_name": "__MSG_name__",
+  "description": "__MSG_description__",
+  "default_locale": "en_US",
+  "devtools_page": "devtools.html",
+  "icons": {
+    "16": "icons/abp-16.png",
+    "32": "icons/abp-32.png",
+    "48": "icons/logo/abp-48.png",
+    "64": "icons/logo/abp-64.png",
+    "128": "icons/logo/abp-128.png"
+  },
+  "options_ui": {
+    "open_in_tab": true,
+    "page": "options.html"
+  },
+  "optional_permissions": [
+    "contentSettings",
+    "management"
+  ],
+  "storage": {
+    "managed_schema": "managed-storage-schema.json"
+  },
+  "manifest_version": 2,
+  "background": {
+    "persistent": true,
+    "scripts": [
+      "polyfill.js",
+      "ext/common.js",
+      "ext/background.js",
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/abp-16.png",
+      "20": "icons/abp-20.png",
+      "32": "icons/abp-32.png",
+      "40": "icons/abp-40.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "__MSG_name__"
+  },
+  "minimum_chrome_version": "77.0",
+  "minimum_opera_version": "64.0",
+  "permissions": [
+    "<all_urls>",
+    "contextMenus",
+    "notifications",
+    "storage",
+    "tabs",
+    "unlimitedStorage",
+    "webNavigation",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "version": "3.25.1",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmVDvFJb0lo5Udf1xedVV/ZdXnLFW/PIOBeS3gxzBY+IFPOwzTHh7iozvzMJBKwZ35xSwM0yXPDDaoCOUFms5W0WzNjx3jgpB/3vcSlI66nM0McJtKVUPuk10PEsk+JT2NN5k7VVC8WMoTvS5uEvqBQq+VV2gu8GUzEmbsi+PUo9yfrDoXCYTILsjmEWSgBzBOVTEOhQQHh4gCWSjTD2i/bgdka/WaQ4Jk1em1Om6wSWrji9aj8GgirbI30GVJRP033W8K3uUp1Qp5ttLnJGOVYDFQmP4rBU1ekimSQb8/0IvuWmrUwAkkMiUzlvqZ0dBuoFcbVIiPD68zIJBr4drAQIDAQAB"
+}

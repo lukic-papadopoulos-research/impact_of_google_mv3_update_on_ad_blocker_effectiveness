@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Adicionar site"
+   },
+   "added_sites": {
+      "message": "Sites adicionados"
+   },
+   "advanced": {
+      "message": "Avançado"
+   },
+   "advertisement": {
+      "message": "Publicidade"
+   },
+   "advertising": {
+      "message": "Publicidade"
+   },
+   "adware": {
+      "message": "Adware"
+   },
+   "adware_text": {
+      "message": "Bloquear programas maliciosos que injetam anúncios em seu navegador, sequestram seus cliques ou página inicial e rastreiam sua atividade"
+   },
+   "allow_fair_ads": {
+      "message": "Permitir anúncios justos"
+   },
+   "allow_fair_ads_description": {
+      "message": "Escolher permitir alguns anúncios ajuda a apoiar os sites participantes que dependem da receita da publicidade e apoia uma web livre e justa."
+   },
+   "allowed_sites": {
+      "message": "Sites permitidos"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Bloquear anúncios irritantes, pop-ups, malware e rastreamento (mesmo no Facebook e Youtube), navegar mais rápido e proteger sua privacidade."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Disponível em"
+   },
+   "back_to_home": {
+      "message": "Voltar para tela inicial"
+   },
+   "bagels": {
+      "message": "É como dois bagels"
+   },
+   "basic": {
+      "message": "Básico"
+   },
+   "block_element": {
+      "message": "Bloquear"
+   },
+   "block_elements_on_this_page": {
+      "message": "Bloquear elementos nesta página"
+   },
+   "block_popups": {
+      "message": "Bloquear pop-ups neste site"
+   },
+   "blocking_resumed": {
+      "message": "Bloqueio retomado em $host$",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Configurações de bloqueio"
+   },
+   "blocking_statistic": {
+      "message": "Estatísticas de bloqueio"
+   },
+   "blocking_statistics_text": {
+      "message": "Aqui você tem dados históricos sobre quantos anúncios foram bloqueados durante um determinado período."
+   },
+   "blocks_on_this_page": {
+      "message": "Bloqueios nesta página"
+   },
+   "blocks_today": {
+      "message": "Bloqueios hoje"
+   },
+   "board_text_1": {
+      "message": "A equipe do Stands é grata a você por instalar a extensão. Para tornar sua experiência com o produto o mais confortável possível, por favor, revise as"
+   },
+   "board_text_2": {
+      "message": "e ajustá-los, se necessário."
+   },
+   "bouquet": {
+      "message": "É como um buquê e uma caixa de chocolate."
+   },
+   "burger": {
+      "message": "É como um hambúrguer."
+   },
+   "burger_menu": {
+      "message": "É como um menu de hambúrguer."
+   },
+   "bypass": {
+      "message": "Burlar."
+   },
+   "close": {
+      "message": "Fechar."
+   },
+   "continue": {
+      "message": "Continuar."
+   },
+   "cup_of_coffee": {
+      "message": "É como uma xícara de café."
+   },
+   "custom_amount": {
+      "message": "Valor personalizado."
+   },
+   "custom_amount_text": {
+      "message": "Cabe a você escolher o preço."
+   },
+   "describe_the_issue": {
+      "message": "Descreva o problema."
+   },
+   "disable_other": {
+      "message": "Desativar outro bloqueador de anúncios."
+   },
+   "dismiss": {
+      "message": "Dispensar."
+   },
+   "donate": {
+      "message": "Doar."
+   },
+   "donation_screen_text": {
+      "message": "Para manter o acesso gratuito para todos os usuários justos do Stands, enquanto melhoramos constantemente o produto, pedimos o seu apoio. Todo o dinheiro arrecadado será destinado a melhorar o produto."
+   },
+   "donation_settings_text": {
+      "message": "O Stands é e sempre será um produto gratuito. As doações são exclusivamente para fins beneficentes e não afetam a funcionalidade ou desempenho dos dispositivos individuais. Se você deseja apoiar nossa equipe e garantir que a extensão possa ficar ainda melhor e aparecer em novas plataformas, escolha o valor que gostaria de doar."
+   },
+   "donation_settings_title": {
+      "message": "Doar para o Stands Fair AdBlocker."
+   },   
+   "element": {
+      "message": "Elemento"
+   },
+   "elements": {
+      "message": "Elementos."
+   },
+   "elements_blocked": {
+      "message": "$count$ elementos bloqueados.",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "E-mail."
+   },
+   "email_cant_be_empty": {
+      "message": "O e-mail não pode ficar em branco."
+   },
+   "facebook_ads": {
+      "message": "Anúncios do Facebook."
+   },
+   "facebook_ads_text": {
+      "message": "Anúncios que aparecem em sua página de notícias e ao lado dela. Não bloqueados por padrão porque é assim que o Facebook financia o serviço gratuito que oferece."
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock da STANDS."
+   },
+   "fairness_settings": {
+      "message": "Configurações de equidade."
+   },
+   "fairness_settings_text": {
+      "message": "Máximo de anúncios permitidos em uma página."
+   },
+   "feedback": {
+      "message": "Comentários."
+   },
+   "feedback_screen_text": {
+      "message": "Gostaríamos de ouvir suas opiniões, sugestões, preocupações ou problemas com qualquer coisa para que possamos melhorar!"
+   },
+   "guided_setup": {
+      "message": "Comece com uma configuração guiada:"
+   },
+   "guided_setup_go": {
+      "message": "VAMOS LÁ."
+   },
+   "guided_setup_later": {
+      "message": "DEPOIS."
+   },
+   "has_closed_popups": {
+      "message": "O Fair AdBlocker bloqueou $count$ pop-ups", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "no total."
+   },
+   "include_current_url": {
+      "message": "Incluir URL atual no relatório." 
+   },
+   "is_mandatory": {
+      "message": "$name$ é obrigatório.",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Itens bloqueados."
+   },
+   "keep_off": {
+      "message": "Mantenha-o desativado."
+   },
+   "minutes_saved": {
+      "message": "minutos salvos."
+   },
+   "monthly": {
+      "message": "Por mês"
+   },
+   "monthly_donation": {
+      "message": "Doação mensal."
+   },
+   "more_info_on_statistics": {
+      "message": "Mais informações na tela 'Estatísticas'."
+   },
+   "no_blocked_on_this_page": {
+      "message": "Não houve elementos bloqueados nesta página."
+   },
+   "on_this_page": {
+      "message": "nesta página."
+   },
+   "other_blocks": {
+      "message": "Seu outro bloqueador de anúncios ainda bloqueia anúncios."
+   },
+   "other_disabled": {
+      "message": "Perfeito, outros bloqueadores de anúncios foram desativados com sucesso!"
+   },
+   "other_prevents": {
+      "message": "Seu outro bloqueador de anúncios impede a bypass."
+   },
+   "off": {
+      "message": "desativado."
+   },
+   "pay_with": {
+      "message": "Pagar com."
+   },
+   "pay_with_credit_card": {
+      "message": "Pagar com cartão de crédito."
+   },
+   "pizza": {
+      "message": "É como uma pizza."
+   },
+   "popups": {
+      "message": "Pop-ups."
+   },
+   "popup_allowed_add_sites": {
+      "message": "Adicione sites com pop-ups permitidos usando o formulário abaixo."
+   },
+   "popup_allowed_sites": {
+      "message": "Sites com pop-ups permitidos."
+   },
+   "popups_text": {
+      "message": "Por padrão, os pop-ups são bloqueados em todos os sites, mas você pode permitir pop-ups em sites específicos."
+   },
+   "privacy_policy": {
+      "message": "Política de privacidade."
+   },
+   "rate_fairadblocker": {
+      "message": "Avalie o Fair Adblocker para nos ajudar a crescer e arrecadar mais."
+   },
+   "refresh": {
+      "message": "Atualizar."
+   },
+   "refresh_take_effect": {
+      "message": "Atualize a página para que a alteração tenha efeito."
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Relatar um problema nesta página."
+   },
+   "report_issue_text": {
+      "message": "Lamentamos que algo não esteja certo. Por favor, nos informe sobre isso e corrigiremos o problema."
+   },
+   "resume_blocking": {
+      "message": "Retomar o bloqueio neste site."
+   },
+   "seconds_saved": {
+      "message": "segundos salvos."
+   },
+   "search_ads": {
+      "message": "Anúncios de pesquisa."
+   },
+   "search_ads_text": {
+      "message": "Anúncios que aparecem ao lado dos seus resultados de pesquisa. Não bloqueados por padrão porque é assim que o Google, a Microsoft e outros financiam o serviço gratuito que oferecem."
+   },
+   "send": {
+      "message": "Enviar."
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Configurações."
+   },
+   "sponsored": {
+      "message": "Links patrocinados."
+   },
+   "sponsored_text": {
+      "message": "Muitos sites mostram recomendações de artigos relevantes para aquele que você está lendo, alguns deles são patrocinados e podem ser considerados anúncios."
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "STANDS está ativado novamente"
+   },
+   "stands_is_paused": {
+      "message": "STANDS está pausado em todos os sites"
+   },
+   "stands_turned_off": {
+      "message": "STANDS está desativado"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "STANDS está desativado. Gostaria de ativá-lo?"
+   },
+   "statistic": {
+      "message": "Estatística"
+   },
+   "stop_closing": {
+      "message": "Parar de fechar popups"
+   },
+   "sushi": {
+      "message": "É como um jantar de sushi para uma pessoa"
+   },
+   "terms_of_use": {
+      "message": "Termos de uso"
+   },
+   "the_site_was_whitelisted": {
+      "message": "O site $host$ foi adicionado à lista de permissões",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Este site bloqueia ou exibe uma mensagem para usuários de bloqueadores de anúncios"
+   },
+   "total": {
+      "message": "Total"
+   },
+   "tracking": {
+      "message": "Rastreamento"
+   },
+   "tracking_text": {
+      "message": "Proteja sua privacidade de milhares de scripts de rastreamento e terceiros"
+   },
+   "turn_on": {
+      "message": "Ligar"
+   },
+   "turn_on_blocking": {
+      "message": "Ativar bloqueio"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Ativar bloqueio justo de anúncios"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Desativar bloqueio em todos os lugares"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Desbloquear elementos nesta página"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Desfazer o bloqueio de elementos nesta página"
+   },
+   "uninstall": {
+      "message": "Desinstalar"
+   },
+   "version": {
+      "message": "Versão"
+   },
+   "web_mail": {
+      "message": "Anúncios de e-mail na web"
+   },
+   "web_mail_text": {
+      "message": "Anúncios de texto que aparecem no topo da sua lista de emails. Não bloqueados por padrão, pois é assim que o Google, Yahoo e outros financiam o serviço gratuito que eles fornecem."
+   },
+   "whitelist": {
+      "message": "Lista branca"
+   },
+   "whitelist_this_site": {
+      "message": "Adicionar site à lista branca"
+   },
+   "whitelisted_sites": {
+      "message": "Sites da lista branca"
+   },
+   "whitelisted_text": {
+      "message": "Aqui você pode gerenciar sua lista branca. Quando um site está na lista branca, o Stands é completamente desativado nesse site, sem bloqueio de nenhum tipo e sem colocação de anúncios que patrocinem sua causa."
+   },
+   "winebottle": {
+      "message": "É como uma garrafa de bom vinho"
+   },
+   "would_bypass": {
+      "message": "Você gostaria de ignorá-lo ou adicionar este site à lista branca?"
+   },
+   "would_disable_other": {
+      "message": "Você gostaria de desativar seu outro bloqueador de anúncios?"
+   },
+   "would_rate": {
+      "message": "Você gostaria de nos avaliar?"
+   },
+   "would_stop": {
+      "message": "Você gostaria que parasse ou continuasse?"
+   },
+   "yearly": {
+      "message": "Anual"
+   },
+   "yearly_donation": {
+      "message": "Doação anual"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "Você bloqueou $ads$ anúncios, $popups$ popups e economizou $saved$",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "Você tem $count$ notificações não lidas",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "Você arrecadou $donations$ microdoações para $cause$",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Você desbloqueou $count$ $elems$ nesta página.",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Temas"
+   },
+   "themes_title": {
+      "message": "Personalize a aparência"
+   },
+   "themes_badge_settings": {
+      "message": "Configurações do crachá"
+   },
+   "themes_badge_disabled": {
+      "message": "Não mostre o crachá"
+   },
+   "themes_badge_page": {
+      "message": "Mostrar o número de itens bloqueados na página atual"
+   },
+   "themes_badge_today": {
+      "message": "Mostrar o número de itens bloqueados de hoje"
+   }
+}

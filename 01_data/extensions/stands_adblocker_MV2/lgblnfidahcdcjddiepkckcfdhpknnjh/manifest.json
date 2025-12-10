@@ -1,0 +1,153 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Stands Adblocker Mv2",
+  "description": "__MSG_appDesc__",
+  "version": "2.1.24",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "19": "icons/19.png",
+      "38": "icons/38.png"
+    },
+    "default_popup": "index.html",
+    "default_title": "Stands AdBlocker"
+  },
+  "externally_connectable": {
+    "matches": [
+      "https://*.standsapp.org/*"
+    ]
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "minimum_chrome_version": "108",
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "alarms",
+    "notifications",
+    "tabs",
+    "webRequest",
+    "webNavigation",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback"
+  ],
+  "optional_permissions": [
+    "management"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "icons": {
+    "16": "icons/19.png",
+    "48": "icons/38.png",
+    "128": "icons/128.png"
+  },
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [
+        "browser-polyfill.js",
+        "common/debug.js",
+        "platform/browser-info.js",
+        "platform/platform-info.js",
+        "platform/manifest.js",
+        "constants/block-css-value.js",
+        "constants/block-types.js",
+        "constants/icon-badge-periods.js",
+        "constants/icon-badge-types.js",
+        "constants/log-event-types.js",
+        "constants/message-types.js",
+        "constants/mock-images-urls.js",
+        "constants/trail-types.js",
+        "block/block-elements-function.js",
+        "block/exit-block-elements-function.js",
+        "block/unblock-elements-function.js",
+        "platform/storage-service.js",
+        "platform/messages.js",
+        "common/api.js",
+        "common/helpers.js",
+        "messages/from-content/exit-block-element.js",
+        "messages/from-content/get-page-load-time.js",
+        "content/doc-helpers.js",
+        "scriptlets/scripts/block-meta-anchor-ads.js",
+        "scriptlets/scripts/block-meta-feed-ads.js",
+        "scriptlets/scripts/click-on-nodes.js",
+        "scriptlets/scripts/shut-bbc-prerolls.js",
+        "scriptlets/scripts/skip-ig-stories-ads.js",
+        "scriptlets/add-mutation-observer-listener.js",
+        "scriptlets/unblock-content-scrolling.js",
+        "scriptlets/hide-elems-in-shadow-dom.js",
+        "scriptlets/override-json.js",
+        "scriptlets/remove-nodes.js",
+        "scriptlets/run-custom-script.js",
+        "content/dom-changes-observer.js",
+        "content/custom-blocking.js",
+        "content/shadow-dom.js",
+        "content/messaging.js",
+        "content/rule-parser.js",
+        "content/rule-applier.js",
+        "content/doc-popup-helpers.js",
+        "content/doc-start.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "yt-main.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.youtu.be/*",
+        "*://*.yt.be/*"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "yt-isolated.js"
+      ],
+      "match_about_blank": false,
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.youtu.be/*",
+        "*://*.yt.be/*"
+      ],
+      "run_at": "document_start",
+      "world": "ISOLATED"
+    }
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset",
+        "enabled": true,
+        "path": "declarative_net_request/ruleset.json"
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "content/popup-blocking.js",
+        "views/web_accessible/*"
+      ]
+    }
+  ],
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsDAd246+lnVlpQH0gI7sm3el8LrPxExWOVI5FpTCiaXOuIESO/Ju+o1HAfqkJhK7i+ZXokOvjjGHshd17GFyI12s9z+g+PB4gDzNOWX3TOav7uopEyAct7XBzbYGRt0S+fTDusV1Ex//0ZUrmuptEWeVQjsrzsuAKGaHoqoKgcOJLFtel82489RpBJ5dzl8UDyPwZY0yI0tVlPxexCWFKvub0402k2MP+d2ntMEKRKAec4k1Jj6rZfXPjJZ9B/loThiV1F3iWSb5isyJv2ilQmlwcad0UAWnz2z2mx1eRy25KeNo+jO55EvhsH4adjbP4mUDEKHYRU5y8ZA9PppRwwIDAQAB"
+}

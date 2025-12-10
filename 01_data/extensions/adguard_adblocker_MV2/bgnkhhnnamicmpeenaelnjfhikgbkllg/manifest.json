@@ -1,0 +1,86 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "4.3.53",
+  "manifest_version": 2,
+  "name": "Adguard Adblocker Mv2",
+  "short_name": "__MSG_short_name__",
+  "author": "Adguard Software Ltd",
+  "default_locale": "en",
+  "description": "__MSG_description__",
+  "icons": {
+    "16": "assets/icons/green-16.png",
+    "128": "assets/icons/green-128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "assets/icons/green-19.png",
+      "38": "assets/icons/green-38.png"
+    },
+    "default_title": "__MSG_name__",
+    "default_popup": "pages/popup.html"
+  },
+  "background": {
+    "page": "pages/background.html",
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [
+        "pages/content-script-start.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "match_about_blank": true,
+      "run_at": "document_start"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "pages/content-script-end.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "match_about_blank": true,
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": false,
+      "js": [
+        "pages/thankyou.js"
+      ],
+      "matches": [
+        "*://*.adguard.com/*/thankyou.html*",
+        "*://*.adguard.info/*/thankyou.html*",
+        "*://*.adguard.app/*/thankyou.html*"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "minimum_chrome_version": "79.0",
+  "web_accessible_resources": [
+    "/web-accessible-resources/*"
+  ],
+  "options_page": "pages/options.html",
+  "devtools_page": "pages/devtools.html",
+  "permissions": [
+    "tabs",
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "storage",
+    "unlimitedStorage",
+    "contextMenus",
+    "cookies"
+  ],
+  "optional_permissions": [
+    "privacy"
+  ],
+  "content_security_policy": "script-src 'self' 'sha256-Bm6SGASuSJ/y5W6tMmcnxeShdKrQ2QtIV2mH1Oh8qho='; object-src 'self'",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1R3Mi+xsQlLdRxVg+asETYvb0izHXpPos4k2yhq81mAnIY/im5RRc5GsdJtZ9yXQbFG0YyYn2JAgE+Sp/Gf9HOdxYq42bEjIFx/47agQ/BXj7aMH8t378DJ2fZH6Ccf8leNlYuVsGD/RavwJ6M+dbr/fhjaGJCV19pYADTdy0tcB0JBWHIcuI02xNGha4kEW023MzjztBF+zfxBTg/0pYxlJnjdKVM33kW8XKsRzRq8CJ8HJNZ5ORNq15UyJkqhPFZaxGDz+bdF91KPHVB7rpPDBzu2ZbZ/Du6ITBBf9H9hskd0NQwV6H5d35c8FTo4FO/Vjtmg4L8j2nojyYmD8MQIDAQAB"
+}

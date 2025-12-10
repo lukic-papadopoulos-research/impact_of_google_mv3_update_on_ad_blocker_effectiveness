@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Pridėti svetainę"
+  },
+  "added_sites": {
+    "message": "Pridėtos svetainės"
+  },
+  "advanced": {
+    "message": "Išplėstiniai nustatymai"
+  },
+  "advertisement": {
+    "message": "Reklama"
+  },
+  "advertising": {
+    "message": "Skelbimai"
+  },
+  "adware": {
+    "message": "Adveratinė programinė įranga"
+  },
+  "adware_text": {
+    "message": "Blokuokite kenksmingas programas, kurios įterpia skelbimus į jūsų naršyklę, pavergia jūsų paspaudimus ar pradžios puslapį ir seka jūsų veiklą"
+  },
+  "allow_fair_ads": {
+    "message": "Leisti teisingus skelbimus"
+  },
+  "allow_fair_ads_description": {
+    "message": "Pasirinkimas leisti kelis skelbimus padeda palaikyti dalyvaujančias svetaines, kurios remiasi reklaminiais pajamomis, ir remia laisvą ir sąžiningą internetą."
+  },
+  "allowed_sites": {
+    "message": "Leidžiamos svetainės"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Blokuokite nemalonius skelbimus, iškylančius langus, kenksmingas programas ir stebėjimą (net Facebook ir Youtube), naršykite greičiau ir apsaugokite savo privatumą."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Grįžti į pagrindinį ekraną"
+  },
+  "bagels": {
+    "message": "Tai kaip du bageliai"
+  },
+  "basic": {
+    "message": "Pagrindiniai nustatymai"
+  },
+  "block_element": {
+    "message": "Blokuoti"
+  },
+  "block_elements_on_this_page": {
+    "message": "Blokuoti elementus šioje puslapyje"
+  },
+  "block_popups": {
+    "message": "Blokuoti iššokančius langus šioje svetainėje"
+  },
+  "blocking_resumed": {
+    "message": "Blokojimas vėl pradėtas $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Blokojimo nustatymai"
+  },
+  "blocking_statistic": {
+    "message": "Blokojimo statistika"
+  },
+  "blocking_statistics_text": {
+    "message": "Čia galite rasti istorinę informaciją apie tai, kiek reklaminių skelbimų buvo užblokuota per tam tikrą laikotarpį."
+  },
+  "blocks_on_this_page": {
+    "message": "Blokuojama šiame puslapyje"
+  },
+  "blocks_today": {
+    "message": "Blokuojama šiandien"
+  },
+  "board_text_1": {
+    "message": "Stands komanda dėkoja jums už įskiepio įdiegimą. Norėdami padaryti savo patirtį su produktais kuo patogesnę, peržiūrėkite"
+  },
+  "board_text_2": {
+    "message": "ir juos pritaikykite, jei reikia."
+  },
+  "bouquet": {
+    "message": "Tai kaip puokštė ir šokolado dėžutė"
+  },
+  "burger": {
+    "message": "Tai kaip burgeris"
+  },
+  "burger_menu": {
+    "message": "Tai kaip burgerio meniu"
+  },
+  "bypass": {
+    "message": "Apgauti"
+  },
+  "close": {
+    "message": "Uždaryti"
+  },
+  "continue": {
+    "message": "Tęsti"
+  },
+  "cup_of_coffee": {
+    "message": "Tai kaip puodelis kavos"
+  },
+  "custom_amount": {
+    "message": "Pasirinktinė suma"
+  },
+  "custom_amount_text": {
+    "message": "Kaina priklauso nuo jūsų pasirinkimo"
+  },
+  "describe_the_issue": {
+    "message": "Aprašykite problemą"
+  },
+  "disable_other": {
+    "message": "Išjunkite kitą reklamų blokavimo programą"
+  },
+  "dismiss": {
+    "message": "Atleisti"
+  },
+  "donate": {
+    "message": "Paaukoti"
+  },
+  "donation_screen_text": {
+    "message": "Norėdami išlaikyti visiems Stands Fair vartotojams nemokamą prieigą, nuolat gerinant produktą, prašome jūsų paramos. Visi pinigai bus skirti produktui gerinti."
+  },
+  "donation_settings_text": {
+    "message": "Stands yra ir bus nemokamas produktas. Aukos yra tik labdaros tikslams ir neturi įtakos atskirų įrenginių funkcionalumui ar veikimui. Jei norite palaikyti mūsų komandą ir užtikrinti, kad plėtinys galėtų tik gerėti ir atsirasti naujose platformose, pasirinkite sumą, kurią norėtumėte aukoti."
+  },
+  "donation_settings_title": {
+    "message": "Paaukoti Stands AdBlocker'ui"
+  },
+  "element": {
+    "message": "elementas"
+  },
+  "elements": {
+    "message": "elementai"
+  },
+  "elements_blocked": {
+    "message": "$count$ elementų blokuota",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "El. paštas"
+  },
+  "email_cant_be_empty": {
+    "message": "El. paštas negali būti tuščias"
+  },
+  "facebook_ads": {
+    "message": "Facebook reklamos"
+  },
+  "facebook_ads_text": {
+    "message": "Reklamos, kurios atsiranda jūsų naujienų sraute ir prie jo. Numatytasis blokavimas nėra įjungtas, nes taip Facebook finansuoja teikiamą nemokamą paslaugą"
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker pagal STANDS"
+  },
+  "fairness_settings": {
+    "message": "Teisingumo nustatymai"
+  },
+  "fairness_settings_text": {
+    "message": "Maksimalus skelbimų skaičius puslapyje"
+  },
+  "feedback": {
+    "message": "Atsiliepimai"
+  },
+  "feedback_screen_text": {
+    "message": "Norėtume išgirsti jūsų mintis, pasiūlymus, rūpesčius ar problemas, kad galėtume pagerinti!"
+  },
+  "guided_setup": {
+    "message": "Pradėti su nurodytu sąrankos procesu:"
+  },
+  "guided_setup_go": {
+    "message": "EIKIME"
+  },
+  "guided_setup_later": {
+    "message": "VĖLIAU"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker uždarė $count$ iššokančių langų visoje sistemoje",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "viso"
+  },
+  "include_current_url": {
+    "message": "Įtraukti dabartinę URL adresą į ataskaitą"
+  },
+  "is_mandatory": {
+    "message": "$name$ yra privalomas",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Blokuoti elementai"
+  },
+  "keep_off": {
+    "message": "Išjunkite tai"
+  },
+  "minutes_saved": {
+    "message": "sutaupytos minutės"
+  },
+  "monthly": {
+    "message": "Kas mėnesį"
+  },
+  "monthly_donation": {
+    "message": "Mėnesinė auka"
+  },
+  "more_info_on_statistics": {
+    "message": "Daugiau informacijos galite rasti „Statistikos“ ekrane"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Šiame puslapyje nebuvo blokuotų elementų"
+  },
+  "on_this_page": {
+    "message": "šiame puslapyje"
+  },
+  "other_blocks": {
+    "message": "Jūsų kitas reklamų blokavimo įrankis vis dar blokuoja reklamas"
+  },
+  "other_disabled": {
+    "message": "Puiku, kitos reklamų blokavimo programos buvo sėkmingai išjungtos!"
+  },
+  "other_prevents": {
+    "message": "Jūsų kitas reklamų blokavimo įrankis neleidžia aplenkti"
+  },
+  "off": {
+    "message": "išjungta"
+  },
+  "pay_with": {
+    "message": "Mokėti naudojant"
+  },
+  "pay_with_credit_card": {
+    "message": "Mokėti kreditine kortele"
+  },
+  "pizza": {
+    "message": "Tai kaip pica"
+  },
+  "popups": {
+    "message": "Iššokančios reklamos"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Pridėkite svetaines su leidžiamomis iššokančiomis reklamomis naudodami žemiau esantį formą."
+  },
+  "popup_allowed_sites": {
+    "message": "Iššokančių reklamų leidžiamos svetainės"
+  },
+  "popups_text": {
+    "message": "Pagal numatytuosius nustatymus iššokančios reklamos blokuojamos visose svetainėse, tačiau galite leisti iššokančias reklamas konkrečiose svetainėse"
+  },
+  "privacy_policy": {
+    "message": "Privatumo politika"
+  },
+  "rate_stands_adblocker": {
+    "message": "Įvertinkite Stands AdBlocker, kad galėtume augti ir rinkti daugiau lėšų"
+  },
+  "refresh": {
+    "message": "Atnaujinti"
+  },
+  "refresh_take_effect": {
+    "message": "Norint, kad pakeitimai įsigaliotų, atnaujinkite puslapį"
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Pranešti apie problemą šiame puslapyje"
+  },
+  "report_issue_text": {
+    "message": "Mums labai gaila girdėti, kad kažkas nesutampa. Pasakykite mums apie tai, ir mes tai ištaisysime."
+  },
+  "resume_blocking": {
+    "message": "Vėl blokuoti šioje svetainėje"
+  },
+  "seconds_saved": {
+    "message": "sutaupyti sekundės"
+  },
+  "search_ads": {
+    "message": "Paieškos reklamos"
+  },
+  "search_ads_text": {
+    "message": "Reklamos, kurios pasirodo šalia jūsų paieškos rezultatų. Numatytasis blokavimas nėra įjungtas, nes taip Google, Microsoft ir kiti finansuoja teikiamą nemokamą paslaugą"
+  },
+  "send": {
+    "message": "Siųsti"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Nustatymai"
+  },
+  "sponsored": {
+    "message": "Reklaminių nuorodų"
+  },
+  "sponsored_text": {
+    "message": "Daugelis svetainių rodo straipsnių rekomendacijas, susijusias su tuo, ką skaitote, o kai kurie iš jų yra remiami ir gali būti laikomi reklama"
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS įjungtas"
+  },
+  "stands_is_paused": {
+    "message": "STANDS pauzė visose svetainėse"
+  },
+  "stands_turned_off": {
+    "message": "STANDS išjungtas"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS išjungtas, ar norite jį įjungti?"
+  },
+  "statistic": {
+    "message": "Statistika"
+  },
+  "stop_closing": {
+    "message": "Nebekelti pop-up langų"
+  },
+  "sushi": {
+    "message": "Tai kaip vakarienė vienam su sushi"
+  },
+  "terms_of_use": {
+    "message": "Naudotojo sutartis"
+  },
+  "the_site_was_whitelisted": {
+    "message": "Svetainė $host$ buvo įtraukta į baltąjį sąrašą",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "Ši svetainė blokuoja arba rodo pranešimą ad-block naudotojams"
+  },
+  "total": {
+    "message": "Iš viso"
+  },
+  "tracking": {
+    "message": "Sekimas"
+  },
+  "tracking_text": {
+    "message": "Apsaugokite savo privatumą nuo tūkstančių internetinių sekimo scenarijų ir trečiųjų šalių"
+  },
+  "turn_on": {
+    "message": "Įjungti"
+  },
+  "turn_on_blocking": {
+    "message": "Įjungti blokavimą"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Įjungti sąžiningą ad blokavimą"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Išjungti blokavimą visur"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Atblokuoti elementus šioje puslapyje"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Atšaukti mano blokuotus elementus šiame puslapyje"
+  },
+  "uninstall": {
+    "message": "Šalinti"
+  },
+  "version": {
+    "message": "Versija"
+  },
+  "web_mail": {
+    "message": "Web pašto reklamos"
+  },
+  "web_mail_text": {
+    "message": "Tekstinės reklamos, kurios atsiranda jūsų pašto sąrašo viršuje. Numatytasis blokavimas neveikia, nes taip Google, Yahoo ir kiti finansuoja nemokamą paslaugą"
+  },
+  "whitelist": {
+    "message": "Baltasis sąrašas"
+  },
+  "whitelist_this_site": {
+    "message": "Pridėti šį puslapį į baltąjį sąrašą"
+  },
+  "whitelisted_sites": {
+    "message": "Baltuose sąrašuose"
+  },
+  "whitelisted_text": {
+    "message": "Čia galite tvarkyti savo baltuosius sąrašus. Kai svetainė patenka į baltąjį sąrašą, Stands visiškai išjungiamas šioje svetainėje, nėra jokio blokavimo ir reklamos, kurios remia jūsų veiklą, nėra rodomos."
+  },
+  "winebottle": {
+    "message": "Tai lyg butelis gerai vyno"
+  },
+  "would_bypass": {
+    "message": "Ar norite praleisti tai arba įtraukti šį puslapį į baltąjį sąrašą?"
+  },
+  "would_disable_other": {
+    "message": "Ar norite išjungti savo kitą reklamų blokavimo programą?"
+  },
+  "would_rate": {
+    "message": "Ar norite mums įvertinti?"
+  },
+  "would_stop": {
+    "message": "Ar norite sustabdyti ar tęsti?"
+  },
+  "yearly": {
+    "message": "Kasmet"
+  },
+  "yearly_donation": {
+    "message": "Metinė parama"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Jūs užblokavote $ads$ reklamų, $popups$ iššokančių langų ir sutaupėte $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Jūs surinkote $donations$ mikrodotacijų $cause$",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Jūs atblokavote $count$ $elems$ šiame puslapyje",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Tema"
+  },
+  "themes_title": {
+    "message": "Tinkinti išvaizdą"
+  },
+  "themes_badge_settings": {
+    "message": "Ženklelio Nustatymai"
+  },
+  "themes_badge_disabled": {
+    "message": "Nerodyti ženklelio"
+  },
+  "themes_badge_page": {
+    "message": "Rodyti užblokuotų elementų skaičių dabartiniame puslapyje"
+  },
+  "themes_badge_today": {
+    "message": "Rodyti šiandien užblokuotų elementų skaičių"
+  },
+  "donation_card_text": {
+    "message": "Norėdami išlaikyti $stands$ nemokamai ir pagerinti jo kokybę, prašome Jūsų paramos.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Galima įsigyti $android$ ir kitose naršyklėse",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Parsisiųsti $stands_browser$ ir mėgautis skelbimų nemokamai interneto naršymas $android$. Plėtinį taip pat galite įdiegti kitose naršyklėse.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Kaip mus paremti?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ yra ir bus nemokamas produktas. Galite paaukoti bet kokią sumą, kad įsitikintumėte, jog plėtinys pagerės ir pasirodys daugiau platformų.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Padėkite mums išlaikyti $stands$ nemokamai ir pagerinti jo kokybę",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Pridať stránku"
+   },
+   "added_sites": {
+      "message": "Pridané stránky"
+   },
+   "advanced": {
+      "message": "Pokročilé"
+   },
+   "advertisement": {
+      "message": "Reklama"
+   },
+   "advertising": {
+      "message": "Reklamná kampaň"
+   },
+   "adware": {
+      "message": "Adware"
+   },
+   "adware_text": {
+      "message": "Zablokovať škodlivé programy, ktoré vkladajú reklamy do vášho prehliadača, zobcujú vaše kliknutia alebo domovskú stránku a sledujú vašu aktivitu"
+   },
+   "allow_fair_ads": {
+      "message": "Povoliť spravodlivú reklamu"
+   },
+   "allow_fair_ads_description": {
+      "message": "Povolením niekoľkých reklám podporujete účastnícke webové stránky, ktoré sa spoliehajú na príjmy z reklamy a podporujete voľný a spravodlivý web."
+   },
+   "allowed_sites": {
+      "message": "Povolené stránky"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Zablokovať otravné reklamy, vyskakovacie okná, malware a sledovanie (aj na Facebooku a YouTube), prehliadať rýchlejšie a chrániť svoje súkromie."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Dostupný na"
+   },
+   "back_to_home": {
+      "message": "Späť na domovskú obrazovku"
+   },
+   "bagels": {
+      "message": "Je to ako dva kruhy bagiet"
+   },
+   "basic": {
+      "message": "Základný"
+   },
+   "block_element": {
+      "message": "Zablokovať"
+   },
+   "block_elements_on_this_page": {
+      "message": "Zablokovať prvky na tejto stránke"
+   },
+   "block_popups": {
+      "message": "Zablokovať vyskakovacie okná na tejto stránke"
+   },
+   "blocking_resumed": {
+      "message": "Blokovanie obnovilo sa na $host$",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Nastavenia blokovania"
+   },
+   "blocking_statistic": {
+      "message": "Štatistika blokovania"
+   },
+   "blocking_statistics_text": {
+      "message": "Tu máte historické údaje o tom, koľko reklám bolo zablokovaných počas určitého obdobia."
+   },
+   "blocks_on_this_page": {
+      "message": "Bloky na tejto stránke"
+   },
+   "blocks_today": {
+      "message": "Bloky dnes"
+   },
+   "board_text_1": {
+      "message": "Tím Stands vám ďakuje za inštaláciu rozšírenia. Aby sme vám poskytli pohodlnú skúsenosť s produktom, skontrolujte"
+   },
+   "board_text_2": {
+      "message": "a prispôsobte ich, ak je to potrebné."
+   },
+   "bouquet": {
+      "message": "Je to ako kytica a krabička čokolády."
+   },
+   "burger": {
+      "message": "Je to ako hamburger."
+   },
+   "burger_menu": {
+      "message": "Je to ako menu s hamburgermi."
+   },
+   "bypass": {
+      "message": "Obísť"
+   },
+   "close": {
+      "message": "Zatvoriť"
+   },
+   "continue": {
+      "message": "Pokračovať"
+   },
+   "cup_of_coffee": {
+      "message": "Je to ako šálka kávy."
+   },
+   "custom_amount": {
+      "message": "Vlastná suma"
+   },
+   "custom_amount_text": {
+      "message": "Je na vás, aby ste si zvolili cenu."
+   },
+   "describe_the_issue": {
+      "message": "Popísať problém"
+   },
+   "disable_other": {
+      "message": "Zakázať iné blokovacie programy"
+   },
+   "dismiss": {
+      "message": "Zavrieť"
+   },
+   "donate": {
+      "message": "Darovať"
+   },
+   "donation_screen_text": {
+      "message": "Aby sme udržiavali voľný prístup pre všetkých používateľov Stands Fair a neustále vylepšovali produkt, žiadame o vašu podporu. Absolútne všetky peniaze budú použité na zlepšenie produktu."
+   },
+   "donation_settings_text": {
+      "message": "Stands je a bude bezplatný produkt. Darovanie je určené výlučne na charitatívne účely a nemá žiadny vplyv na funkčnosť alebo výkon jednotlivých zariadení. Ak chcete podporiť náš tím a zabezpečiť, aby sa rozšíril a objavil sa na nových platformách, vyberte si sumu, ktorú chcete darovať."
+   },
+   "donation_settings_title": {
+      "message": "Darovať na Stands Fair AdBlocker"
+   },   
+   "element": {
+      "message": "prvok"
+   },
+   "elements": {
+      "message": "prvky"
+   },
+   "elements_blocked": {
+      "message": "$count$ blokovaných prvkov",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_cant_be_empty": {
+      "message": "E-mail nemôže byť prázdny."
+   },
+   "facebook_ads": {
+      "message": "Reklamy na Facebooku"
+   },
+   "facebook_ads_text": {
+      "message": "Reklamy, ktoré sa zobrazujú vo vašom oznámení a vedľa neho. Nie sú blokované predvolene, pretože tým Facebook financuje bezplatnú službu, ktorú poskytuje."
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock od STANDS"
+   },
+   "fairness_settings": {
+      "message": "Nastavenia spravodlivosti"
+   },
+   "fairness_settings_text": {
+      "message": "Maximálny počet reklám na stránke"
+   },
+   "feedback": {
+      "message": "Spätná väzba"
+   },
+   "feedback_screen_text": {
+      "message": "Chceli by sme počuť vaše myšlienky, návrhy, obavy alebo problémy s čímkoľvek, aby sme mohli zlepšiť produkt!"
+   },
+   "guided_setup": {
+      "message": "Začať s vedeným nastavením:"
+   },
+   "guided_setup_go": {
+      "message": "POĎME NA TO"
+   },
+   "guided_setup_later": {
+      "message": "NESKÔR"
+   },
+   "has_closed_popups": {
+      "message": "Fair AdBlocker zablokoval $count$ vyskakovacích okien", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "celkom"
+   },
+   "include_current_url": {
+      "message": "Zahrnúť aktuálnu URL adresu do hlásenia" 
+   },
+   "is_mandatory": {
+      "message": "$name$ je povinný.",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Blokované položky"
+   },
+   "keep_off": {
+      "message": "Nechajte to vypnuté."
+   },
+   "minutes_saved": {
+      "message": "minúty ušetrené"
+   },
+   "monthly": {
+      "message": "Mesačne"
+   },
+   "monthly_donation": {
+      "message": "Mesačná darovaná suma"
+   },
+   "more_info_on_statistics": {
+      "message": "Viac informácií na obrazovke 'Štatistiky'"
+   },
+   "no_blocked_on_this_page": {
+      "message": "Na tejto stránke neboli zablokované žiadne prvky"
+   },
+   "on_this_page": {
+      "message": "na tejto stránke"
+   },
+   "other_blocks": {
+      "message": "Váš iný blokovač reklám stále blokuje reklamy"
+   },
+   "other_disabled": {
+      "message": "Výborne, iné blokovače reklám boli úspešne vypnuté!"
+   },
+   "other_prevents": {
+      "message": "Váš iný blokovač reklám bráni obchádzaniu"
+   },
+   "off": {
+      "message": "vypnuté"
+   },
+   "pay_with": {
+      "message": "Zaplatiť s"
+   },
+   "pay_with_credit_card": {
+      "message": "Zaplatiť kreditnou kartou"
+   },
+   "pizza": {
+      "message": "Je to ako pizza"
+   },
+   "popups": {
+      "message": "Vyskakovacie okná"
+   },
+   "popup_allowed_add_sites": {
+      "message": "Pridajte stránky s povolenými vyskakovacími oknami pomocou formulára nižšie."
+   },
+   "popup_allowed_sites": {
+      "message": "Stránky s povolenými vyskakovacími oknami"
+   },
+   "popups_text": {
+      "message": "Výskakové okná sú zablokované na všetkých stránkach štandardne, ale môžete si povoliť vyskakovacie okná na konkrétnych stránkach."
+   },
+   "privacy_policy": {
+      "message": "Zásady ochrany osobných údajov"
+   },
+   "rate_fairadblocker": {
+      "message": "Ohodnoťte Fair Adblocker a pomôžte nám rásť a získavať viac prispievateľov"
+   },
+   "refresh": {
+      "message": "Obnoviť"
+   },
+   "refresh_take_effect": {
+      "message": "Obnoviť stránku, aby sa zmena prejavila"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Nahlásiť problém na tejto stránke"
+   },
+   "report_issue_text": {
+      "message": "Je nám ľúto, že sa niečo nedarí. Povedzte nám o tom a opravíme to."
+   },
+   "resume_blocking": {
+      "message": "Obnoviť blokovanie na tejto stránke"
+   },
+   "seconds_saved": {
+      "message": "sekúnd ušetrených"
+   },
+   "search_ads": {
+      "message": "Reklamy vo vyhľadávaní"
+   },
+   "search_ads_text": {
+      "message": "Reklamy, ktoré sa zobrazujú vedľa vašich výsledkov vyhľadávania. Štandardne nie sú blokované, pretože tým Google, Microsoft a ďalší financujú svoju bezplatnú službu."
+   },
+   "send": {
+      "message": "Odoslať"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Nastavenia"
+   },
+   "sponsored": {
+      "message": "Sponzorované odkazy"
+   },
+   "sponsored_text": {
+      "message": "Mnohé stránky zobrazujú odporúčania na čítanie súvisiace s tým, čo čítate, niektoré z nich sú sponzorované a môžu byť považované za reklamy"
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "STANDS je späť zapnutý"
+   },
+   "stands_is_paused": {
+      "message": "STANDS je pozastavený na všetkých stránkach"
+   },
+   "stands_turned_off": {
+      "message": "STANDS je vypnutý"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "STANDS je vypnutý, chcete ho zapnúť?"
+   },
+   "statistic": {
+      "message": "Štatistika"
+   },
+   "stop_closing": {
+      "message": "Zastaviť zatváranie vyskakovacích okien"
+   },
+   "sushi": {
+      "message": "Je to ako sushi večera pre jedného"
+   },
+   "terms_of_use": {
+      "message": "Podmienky použitia"
+   },
+   "the_site_was_whitelisted": {
+      "message": "Webstránka $host$ bola pridaná do zoznamu výnimiek",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Táto stránka blokuje alebo zobrazuje správy pre používateľov s blokátormi reklám"
+   },
+   "total": {
+      "message": "Celkový počet"
+   },
+   "tracking": {
+      "message": "Sledovanie"
+   },
+   "tracking_text": {
+      "message": "Chránime vaše súkromie pred tisíckami sledovacích skriptov a tretích strán"
+   },
+   "turn_on": {
+      "message": "Zapnúť"
+   },
+   "turn_on_blocking": {
+      "message": "Zapnúť blokovanie"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Zapnúť férové blokovanie reklám"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Vypnúť blokovanie všade"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Odblokovať prvky na tejto stránke"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Vrátiť späť blokované prvky na tejto stránke"
+   },
+   "uninstall": {
+      "message": "Odinštalovať"
+   },
+   "version": {
+      "message": "Verzia"
+   },
+   "web_mail": {
+      "message": "Reklamy v e-maili"
+   },
+   "web_mail_text": {
+      "message": "Textové reklamy, ktoré sa objavujú na vrchu vašeho zoznamu e-mailov. Nie sú blokované predvolene, pretože takto sa Google, Yahoo a iné služby financujú"
+   },
+   "whitelist": {
+      "message": "Zoznam povolených'"
+   },
+   "whitelist_this_site": {
+      "message": "Pridať túto stránku do zoznamu výnimiek"
+   },
+   "whitelisted_sites": {
+      "message": "Webové stránky v zozname výnimiek"
+   },
+   "whitelisted_text": {
+      "message": "Tu môžete spravovať svoj zoznam výnimiek. Keď je stránka pridaná do zoznamu výnimiek, Stands je úplne vypnutý na tejto stránke, bez blokovania a bez zobrazovania reklám, ktoré podporujú vašu vec."
+   },
+   "winebottle": {
+      "message": "Je to ako fľaša dobrej vína"
+   },
+   "would_bypass": {
+      "message": "Chceli by ste to obísť alebo pridať túto stránku do zoznamu výnimiek?"
+   },
+   "would_disable_other": {
+      "message": "Chceli by ste zakázať vášho iného blokátora reklám?"
+   },
+   "would_rate": {
+      "message": "Chceli by ste nás ohodnotiť?"
+   },
+   "would_stop": {
+      "message": "Chceli by ste, aby sa to zastavilo alebo pokračovalo?"
+   },
+   "yearly": {
+      "message": "Ročne"
+   },
+   "yearly_donation": {
+      "message": "Ročný príspevok"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "Blokovali ste $ads$ reklám, $popups$ vyskakovacích okien a ušetrili ste $saved$",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "Máte $count$ neprečítaných upozornení",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "Prispejali ste $donations$ mikro-donácií pre $cause$",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Odblokovali ste $count$ prvky na tejto stránke ($elems$)",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Téma"
+   },
+   "themes_title": {
+      "message": "Prispôsobte vzhľad"
+   },
+   "themes_badge_settings": {
+      "message": "Nastavenia odznaku"
+   },
+   "themes_badge_disabled": {
+      "message": "Nezobrazovať odznak"
+   },
+   "themes_badge_page": {
+      "message": "Zobraziť počet blokovaných položiek na aktuálnej stránke"
+   },
+   "themes_badge_today": {
+      "message": "Zobraziť dnešný počet blokovaných položiek"
+   }
+}

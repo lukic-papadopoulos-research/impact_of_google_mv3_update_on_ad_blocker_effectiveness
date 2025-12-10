@@ -1,0 +1,339 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "5.0.33",
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "manifest_version": 3,
+  "name": "Adguard Adblocker Mv3 Beta Mv3",
+  "short_name": "__MSG_short_name__",
+  "author": "Adguard Software Ltd",
+  "default_locale": "en",
+  "description": "__MSG_description__",
+  "icons": {
+    "16": "assets/icons/on-16.png",
+    "128": "assets/icons/on-128.png"
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [
+        "pages/content-script-start.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "match_about_blank": true,
+      "run_at": "document_start"
+    },
+    {
+      "all_frames": true,
+      "js": [
+        "pages/content-script-end.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "match_about_blank": true,
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": false,
+      "js": [
+        "pages/thankyou.js"
+      ],
+      "matches": [
+        "*://*.adguard.com/*/thankyou.html*",
+        "*://*.adguard.info/*/thankyou.html*",
+        "*://*.adguard.app/*/thankyou.html*"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "minimum_chrome_version": "118.0",
+  "action": {
+    "default_icon": {
+      "19": "assets/icons/on-19.png",
+      "38": "assets/icons/on-38.png"
+    },
+    "default_title": "__MSG_name__",
+    "default_popup": "pages/popup.html"
+  },
+  "background": {
+    "service_worker": "pages/background.js"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "web-accessible-resources/*"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "use_dynamic_url": true
+    }
+  ],
+  "options_page": "pages/options.html",
+  "devtools_page": "pages/devtools.html",
+  "permissions": [
+    "tabs",
+    "webRequest",
+    "webNavigation",
+    "storage",
+    "unlimitedStorage",
+    "contextMenus",
+    "cookies",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "scripting"
+  ],
+  "optional_permissions": [
+    "privacy"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_1/ruleset_1.json"
+      },
+      {
+        "id": "ruleset_10",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_10/ruleset_10.json"
+      },
+      {
+        "id": "ruleset_103",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_103/ruleset_103.json"
+      },
+      {
+        "id": "ruleset_105",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_105/ruleset_105.json"
+      },
+      {
+        "id": "ruleset_108",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_108/ruleset_108.json"
+      },
+      {
+        "id": "ruleset_109",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_109/ruleset_109.json"
+      },
+      {
+        "id": "ruleset_11",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_11/ruleset_11.json"
+      },
+      {
+        "id": "ruleset_110",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_110/ruleset_110.json"
+      },
+      {
+        "id": "ruleset_111",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_111/ruleset_111.json"
+      },
+      {
+        "id": "ruleset_112",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_112/ruleset_112.json"
+      },
+      {
+        "id": "ruleset_120",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_120/ruleset_120.json"
+      },
+      {
+        "id": "ruleset_13",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_13/ruleset_13.json"
+      },
+      {
+        "id": "ruleset_16",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_16/ruleset_16.json"
+      },
+      {
+        "id": "ruleset_17",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_17/ruleset_17.json"
+      },
+      {
+        "id": "ruleset_18",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_18/ruleset_18.json"
+      },
+      {
+        "id": "ruleset_19",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_19/ruleset_19.json"
+      },
+      {
+        "id": "ruleset_2",
+        "enabled": true,
+        "path": "filters/declarative/ruleset_2/ruleset_2.json"
+      },
+      {
+        "id": "ruleset_20",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_20/ruleset_20.json"
+      },
+      {
+        "id": "ruleset_202",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_202/ruleset_202.json"
+      },
+      {
+        "id": "ruleset_203",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_203/ruleset_203.json"
+      },
+      {
+        "id": "ruleset_208",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_208/ruleset_208.json"
+      },
+      {
+        "id": "ruleset_21",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_21/ruleset_21.json"
+      },
+      {
+        "id": "ruleset_214",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_214/ruleset_214.json"
+      },
+      {
+        "id": "ruleset_216",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_216/ruleset_216.json"
+      },
+      {
+        "id": "ruleset_218",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_218/ruleset_218.json"
+      },
+      {
+        "id": "ruleset_22",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_22/ruleset_22.json"
+      },
+      {
+        "id": "ruleset_224",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_224/ruleset_224.json"
+      },
+      {
+        "id": "ruleset_227",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_227/ruleset_227.json"
+      },
+      {
+        "id": "ruleset_23",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_23/ruleset_23.json"
+      },
+      {
+        "id": "ruleset_233",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_233/ruleset_233.json"
+      },
+      {
+        "id": "ruleset_235",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_235/ruleset_235.json"
+      },
+      {
+        "id": "ruleset_238",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_238/ruleset_238.json"
+      },
+      {
+        "id": "ruleset_243",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_243/ruleset_243.json"
+      },
+      {
+        "id": "ruleset_249",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_249/ruleset_249.json"
+      },
+      {
+        "id": "ruleset_252",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_252/ruleset_252.json"
+      },
+      {
+        "id": "ruleset_253",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_253/ruleset_253.json"
+      },
+      {
+        "id": "ruleset_254",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_254/ruleset_254.json"
+      },
+      {
+        "id": "ruleset_255",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_255/ruleset_255.json"
+      },
+      {
+        "id": "ruleset_256",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_256/ruleset_256.json"
+      },
+      {
+        "id": "ruleset_257",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_257/ruleset_257.json"
+      },
+      {
+        "id": "ruleset_3",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_3/ruleset_3.json"
+      },
+      {
+        "id": "ruleset_4",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_4/ruleset_4.json"
+      },
+      {
+        "id": "ruleset_5",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_5/ruleset_5.json"
+      },
+      {
+        "id": "ruleset_6",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_6/ruleset_6.json"
+      },
+      {
+        "id": "ruleset_7",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_7/ruleset_7.json"
+      },
+      {
+        "id": "ruleset_8",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_8/ruleset_8.json"
+      },
+      {
+        "id": "ruleset_9",
+        "enabled": false,
+        "path": "filters/declarative/ruleset_9/ruleset_9.json"
+      }
+    ]
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtm5OoMvZmghUFnpKf/l0vjVnlDFCTI7Zlv8DCnh5WIz1xoeZ2+9dOLVSVu4HQ27Auhhwb4c2f4pljjVNGEjaQNUWnIJMPWEJ/aeA3HVI82YafPi4Wt8cU7oEnJlgQcJgDYeSGHsmBy41g90oji8qw4MwGXCY3Ek1DuWjWo/YfmQ2FaQ+/6BApMsuhXNJs5ozgGhuq+ZwMfcTnZGx3F6IZZ5oIUOpCIRyLDUV+zuWjQa076BQtg6GGjhw1frla6BtM+5R9vA148MQvCtHAg8Gnt8Gc9miX8ydzhYfWrx1nRmjNZE6I+zQ259WNraJ8tY5Zb6Er/aCJAJbJwOHb5E1TwIDAQAB"
+}

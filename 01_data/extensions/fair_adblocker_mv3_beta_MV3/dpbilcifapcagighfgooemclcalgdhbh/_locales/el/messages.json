@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Προσθήκη ιστοσελίδας"
+   },
+   "added_sites": {
+      "message": "Προστιθέμενες ιστοσελίδες"
+   },
+   "advanced": {
+      "message": "Προηγμένος"
+   },
+   "advertisement": {
+      "message": "Διαφήμιση"
+   },
+   "advertising": {
+      "message": "Διαφημίσεις"
+   },
+   "adware": {
+      "message": "Adware"
+   },
+   "adware_text": {
+      "message": "Αποκλείστε κακόβουλα προγράμματα που εισάγουν διαφημίσεις στον περιηγητή σας, καταλαμβάνουν τα κλικ σας ή την αρχική σελίδα και παρακολουθούν τη δραστηριότητά σας."
+   },
+   "allow_fair_ads": {
+      "message": "Επιτρέψτε δίκαιες διαφημίσεις"
+   },
+   "allow_fair_ads_description": {
+      "message": "Η επιλογή να επιτρέψετε μερικές διαφημίσεις βοηθάει στην υποστήριξη των συμμετεχόντων ιστοτόπων που εξαρτώνται από τα έσοδα από τη διαφήμιση και υποστηρίζει έναν ελεύθερο και δίκαιο ιστό."
+   },
+   "allowed_sites": {
+      "message": "Επιτρεπόμενες ιστοσελίδες"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Αποκλείστε ενοχλητικές διαφημίσεις, αναδυόμενα παράθυρα, malware και παρακολούθηση (ακόμη και σε Facebook & Youtube), περιηγηθείτε πιο γρήγορα και προστατέψτε την ιδιωτικότητά σας."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Διαθέσιμο σε"
+   },
+   "back_to_home": {
+      "message": "Επιστροφή στην αρχική οθόνη"
+   },
+   "bagels": {
+      "message": "Είναι σαν δύο μπέιγκελς"
+   },
+   "basic": {
+      "message": "Βασικός"
+   },
+   "block_element": {
+      "message": "Αποκλεισμός"
+   },
+   "block_elements_on_this_page": {
+      "message": "Αποκλείστε στοιχεία σε αυτήν τη σελίδα"
+   },
+   "block_popups": {
+      "message": "Αποκλεισμός αναδυόμενων παραθύρων σε αυτόν τον ιστότοπ"
+   },
+   "blocking_resumed": {
+      "message": "Αποκλεισμός συνεχίζεται στο $host$",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Ρυθμίσεις αποκλεισμού"
+   },
+   "blocking_statistic": {
+      "message": "Στατιστικά αποκλεισμού"
+   },
+   "blocking_statistics_text": {
+      "message": "Εδώ έχετε ιστορικά δεδομένα για το πόσες διαφημίσεις αποκλείστηκαν κατά μήκος ενός συγκεκριμένου χρονικού διαστήματος."
+   },
+   "blocks_on_this_page": {
+      "message": "Αποκλεισμός στη σελίδα"
+   },
+   "blocks_today": {
+      "message": "Αποκλεισμένα στοιχεία σήμερα"
+   },
+   "board_text_1": {
+      "message": "Η ομάδα του Stands σας ευχαριστεί για την εγκατάσταση της επέκτασης. Για να κάνουμε την εμπειρία σας με το προϊόν όσο το δυνατόν πιο άνετη, παρακαλούμε αναθεωρήστε τις"
+   },
+   "board_text_2": {
+      "message": "σας και προσαρμόστε τις, αν είναι απαραίτητο."
+   },
+   "bouquet": {
+      "message": "Είναι σαν ένα μπουκέτο λουλούδια και ένα κουτί σοκολάτες"
+   },
+   "burger": {
+      "message": "Είναι σαν ένα burger"
+   },
+   "burger_menu": {
+      "message": "Είναι σαν το μενού ενός burger"
+   },
+   "bypass": {
+      "message": "Παράκαμψη"
+   },
+   "close": {
+      "message": "Κλείσιμο"
+   },
+   "continue": {
+      "message": "Συνέχεια"
+   },
+   "cup_of_coffee": {
+      "message": "Είναι σαν ένας καφές"
+   },
+   "custom_amount": {
+      "message": "Προσαρμοσμένο ποσό"
+   },
+   "custom_amount_text": {
+      "message": "Είναι δική σας επιλογή να επιλέξετε την τιμή"
+   },
+   "describe_the_issue": {
+      "message": "Περιγράψτε το πρόβλημα"
+   },
+   "disable_other": {
+      "message": "Απενεργοποίηση άλλου αποκλειστή διαφημίσεων"
+   },
+   "dismiss": {
+      "message": "Απόρριψη"
+   },
+   "donate": {
+      "message": "Δωρεά"
+   },
+   "donation_screen_text": {
+      "message": "Προκειμένου να διατηρήσουμε τη δωρεάν πρόσβαση για απόλυτα όλους τους χρήστες του Stands Fair, ενώ συνεχώς βελτιώνουμε το προϊόν, ζητούμε την υποστήριξή σας. Όλα τα χρήματα θα διατεθούν αποκλειστικά για τη βελτίωση του προϊόντος."
+   },
+   "donation_settings_text": {
+      "message": "Το Stands είναι και θα παραμείνει ένα δωρεάν προϊόν. Οι δωρεές πραγματοποιούνται αποκλειστικά για φιλανθρωπικούς σκοπούς και δεν έχουν καμία επίδραση στη λειτουργικότητα ή την απόδοση των μεμονωμένων συσκευών. Αν θέλετε να υποστηρίξετε την ομάδα μας και να βεβαιωθείτε ότι η επέκταση μπορεί να γίνει καλύτερη και να εμφανιστεί σε νέες πλατφόρμες, επιλέξτε το ποσό που θέλετε να δωρίσετε."
+   },
+   "donation_settings_title": {
+      "message": "Δωρίστε στο Stands Fair AdBlocker"
+   },   
+   "element": {
+      "message": "στοιχείο"
+   },
+   "elements": {
+      "message": "στοιχεία"
+   },
+   "elements_blocked": {
+      "message": "$count$ στοιχεία αποκλείστηκαν",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "Ηλεκτρονικό ταχυδρομείο"
+   },
+   "email_cant_be_empty": {
+      "message": "Το ηλεκτρονικό ταχυδρομείο δεν μπορεί να είναι κενό"
+   },
+   "facebook_ads": {
+      "message": "Διαφημίσεις στο Facebook"
+   },
+   "facebook_ads_text": {
+      "message": "Διαφημίσεις που εμφανίζονται στη ροή ειδήσεων σας και δίπλα σε αυτήν. Δεν αποκλείονται από προεπιλογή επειδή έτσι το Facebook χρηματοδοτεί τη δωρεάν υπηρεσία που παρέχει."
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock από την STANDS"
+   },
+   "fairness_settings": {
+      "message": "Ρυθμίσεις δικαιοσύνης"
+   },
+   "fairness_settings_text": {
+      "message": "Μέγιστος αριθμός διαφημίσεων που επιτρέπονται σε μια σελίδα"
+   },
+   "feedback": {
+      "message": "Ανατροφοδότηση"
+   },
+   "feedback_screen_text": {
+      "message": "Θέλουμε να ακούσουμε τις σκέψεις, τις προτάσεις, τις ανησυχίες ή τα προβλήματά σας με οτιδήποτε, έτσι ώστε να μπορέσουμε να βελτιώσουμε!"
+   },
+   "guided_setup": {
+      "message": "Ξεκινήστε με έναν καθοδηγούμενο οδηγό:"
+   },
+   "guided_setup_go": {
+      "message": "ΠΆΜΕ"
+   },
+   "guided_setup_later": {
+      "message": "ΑΡΓΟΤΕΡΑ"
+   },
+   "has_closed_popups": {
+      "message": "Ο δίκαιος AdBlocker έχει κλείσει $count$ αναδυόμενα παράθυρα", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "συνολικά"
+   },
+   "include_current_url": {
+      "message": "Συμπερίληψη τρέχουσας διεύθυνσης URL στην αναφορά" 
+   },
+   "is_mandatory": {
+      "message": "Απαιτείται το $name$",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Στοιχεία που αποκλείστηκαν"
+   },
+   "keep_off": {
+      "message": "Κρατήστε το απενεργοποιημένο"
+   },
+   "minutes_saved": {
+      "message": "λεπτά που εξοικονομήθηκαν"
+   },
+   "monthly": {
+      "message": "Μηνιαίο"
+   },
+   "monthly_donation": {
+      "message": "Μηνιαία δωρεά"
+   },
+   "more_info_on_statistics": {
+      "message": "Περισσότερες πληροφορίες στην οθόνη 'Στατιστικά'"
+   },
+   "no_blocked_on_this_page": {
+      "message": "Δεν υπήρξαν αποκλεισμένα στοιχεία σε αυτήν τη σελίδα"
+   },
+   "on_this_page": {
+      "message": "σε αυτήν τη σελίδα"
+   },
+   "other_blocks": {
+      "message": "Ο άλλος αποκλειστής διαφημίσεων σας εξακολουθεί να αποκλείει διαφημίσεις"
+   },
+   "other_disabled": {
+      "message": "Τέλεια, άλλοι αποκλειστήρες διαφημίσεων απενεργοποιήθηκαν με επιτυχία!"
+   },
+   "other_prevents": {
+      "message": "Ο άλλος αποκλειστής διαφημίσεων σας εμποδίζει από την παράκαμψη"
+   },
+   "off": {
+      "message": "απενεργ."
+   },
+   "pay_with": {
+      "message": "Πληρωμή με"
+   },
+   "pay_with_credit_card": {
+      "message": "Πληρωμή με πιστωτική κάρτα"
+   },
+   "pizza": {
+      "message": "Είναι σαν μια πίτσα"
+   },
+   "popups": {
+      "message": "Αναδυόμενα παράθυρα"
+   },
+   "popup_allowed_add_sites": {
+      "message": "Προσθέστε ιστότοπους με επιτρεπόμενα αναδυόμενα παράθυρα χρησιμοποιώντας τη φόρμα παρακάτω."
+   },
+   "popup_allowed_sites": {
+      "message": "Ιστότοποι με επιτρεπόμενα αναδυόμενα παράθυρα"
+   },
+   "popups_text": {
+      "message": "Από προεπιλογή, τα αναδυόμενα παράθυρα είναι αποκλεισμένα σε όλους τους ιστότοπους, μπορείτε να επιτρέψετε αναδυόμενα παράθυρα σε συγκεκριμένους ιστότοπους"
+   },
+   "privacy_policy": {
+      "message": "Πολιτική απορρήτου"
+   },
+   "rate_fairadblocker": {
+      "message": "Αξιολογήστε το Fair Adblocker για να μας βοηθήσετε να αναπτυχθούμε και να αναγνωριστούμε περισσότερο"
+   },
+   "refresh": {
+      "message": "Ανανέωση"
+   },
+   "refresh_take_effect": {
+      "message": "Ανανεώστε τη σελίδα για να εφαρμοστούν οι αλλαγές"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Αναφορά προβλήματος σε αυτήν τη σελίδα"
+   },
+   "report_issue_text": {
+      "message": "Λυπούμαστε που κάτι δεν πάει καλά. Παρακαλούμε πείτε μας γι'αυτό και θα το διορθώσουμε."
+   },
+   "resume_blocking": {
+      "message": "Συνέχιση αποκλεισμού σε αυτόν τον ιστότοπο"
+   },
+   "seconds_saved": {
+      "message": "δευτερόλεπτα αποθηκευμένα"
+   },
+   "search_ads": {
+      "message": "Διαφημίσεις αναζήτησης"
+   },
+   "search_ads_text": {
+      "message": "Διαφημίσεις που εμφανίζονται δίπλα στα αποτελέσματα αναζήτησής σας. Δεν αποκλείονται προεπιλεγμένα, γιατί έτσι η Google, η Microsoft και άλλοι χρηματοδοτούν τη δωρεάν υπηρεσία που παρέχουν"
+   },
+   "send": {
+      "message": "Αποστολή"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "sponsored": {
+      "message": "Χορηγούμενοι σύνδεσμοι"
+   },
+   "sponsored_text": {
+      "message": "Πολλοί ιστότοποι προτείνουν άρθρα που σχετίζονται με αυτό που διαβάζετε, κάποια από αυτά είναι χορηγημένα και μπορούν να θεωρηθούν διαφημίσεις"
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "Το STANDS είναι ενεργοποιημένο"
+   },
+   "stands_is_paused": {
+      "message": "Το STANDS είναι παύση σε όλους τους ιστότοπους"
+   },
+   "stands_turned_off": {
+      "message": "Το STANDS είναι απενεργοποιημένο"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "Το STANDS είναι απενεργοποιημένο, θέλετε να το ενεργοποιήσετε;"
+   },
+   "statistic": {
+      "message": "Στατιστική"
+   },
+   "stop_closing": {
+      "message": "Διακοπή κλεισίματος αναδυόμενων παραθύρων"
+   },
+   "sushi": {
+      "message": "Είναι σαν ένα δείπνο sushi για ένα άτομο"
+   },
+   "terms_of_use": {
+      "message": "Όροι χρήσης"
+   },
+   "the_site_was_whitelisted": {
+      "message": "Η ιστοσελίδα $host$ εγκρίθηκε στη λευκή λίστα",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Αυτή η ιστοσελίδα μπλοκάρει ή εμφανίζει ένα μήνυμα στους χρήστες που χρησιμοποιούν αναστολείς διαφημίσεων"
+   },
+   "total": {
+      "message": "Συνολικά"
+   },
+   "tracking": {
+      "message": "Παρακολούθηση"
+   },
+   "tracking_text": {
+      "message": "Προστατέψτε την ιδιωτικότητά σας από χιλιάδες σενάρια παρακολούθησης στον ιστό και τρίτους"
+   },
+   "turn_on": {
+      "message": "Ενεργοποίηση"
+   },
+   "turn_on_blocking": {
+      "message": "Ενεργοποίηση αναστολής"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Ενεργοποίηση δίκαιης αναστολής διαφημίσεων"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Απενεργοποίηση αναστολής παντού"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Ξεμπλοκάρετε στοιχεία σε αυτήν τη σελίδα"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Αναίρεση των μπλοκαρισμένων στοιχείων σε αυτήν τη σελίδα"
+   },
+   "uninstall": {
+      "message": "Απεγκατάσταση"
+   },
+   "version": {
+      "message": "Έκδοση"
+   },
+   "web_mail": {
+      "message": "Διαφημίσεις web mail"
+   },
+   "web_mail_text": {
+      "message": "Κείμενο διαφημίσεων που εμφανίζεται στην κορυφή της λίστας των μηνυμάτων σας. Δεν μπλοκάρεται από προεπιλογή επειδή έτσι χρηματοδοτούνται οι δωρεάν υπηρεσίες της Google, Yahoo και άλλων"
+   },
+   "whitelist": {
+      "message": "Λευκή λίστα"
+   },
+   "whitelist_this_site": {
+      "message": "Προσθήκη σε λευκή λίστα αυτής της ιστοσελίδας"
+   },
+   "whitelisted_sites": {
+      "message": "Ιστοσελίδες στη λευκή λίστα"
+   },
+   "whitelisted_text": {
+      "message": "Εδώ μπορείτε να διαχειριστείτε τη λευκή σας λίστα. Όταν μια ιστοσελίδα είναι στη λευκή λίστα, το Stands απενεργοποιείται εντελώς σε αυτήν την ιστοσελίδα, χωρίς κανέναν αποκλεισμό και χωρίς την τοποθέτηση διαφημίσεων που χρηματοδοτούν το αίτημά σας."
+   },
+   "winebottle": {
+      "message": "Είναι σαν ένα μπουκάλι καλού κρασιού."
+   },
+   "would_bypass": {
+      "message": "Θα θέλατε να παρακάμψετε ή να βάλετε στη λευκή λίστα αυτήν την ιστοσελίδα;"
+   },
+   "would_disable_other": {
+      "message": "Θα θέλατε να απενεργοποιήσετε τον άλλο αποκλειστή διαφημίσεων;"
+   },
+   "would_rate": {
+      "message": "Θα θέλατε να μας αξιολογήσετε;"
+   },
+   "would_stop": {
+      "message": "Θα θέλατε να σταματήσει ή να συνεχίσει;"
+   },
+   "yearly": {
+      "message": "Ετήσια"
+   },
+   "yearly_donation": {
+      "message": "Ετήσια δωρεά"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "Αποκλείσατε $ads$ διαφημίσεις, $popups$ αναδυόμενα παράθυρα και αποθηκεύσατε $saved$",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "Έχετε $count$ αδιάβαστες ειδοποιήσεις",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "Αναγάγατε σε $donations$ μικροδωρεές το $cause$",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Ξεμπλοκάρατε $count$ $elems$ σε αυτήν τη σελίδα",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Θέμα"
+   },
+   "themes_title": {
+      "message": "Προσαρμόστε την εμφάνιση"
+   },
+   "themes_badge_settings": {
+      "message": "Ρυθμίσεις σήματος"
+   },
+   "themes_badge_disabled": {
+      "message": "Μην εμφανίζετε το σήμα"
+   },
+   "themes_badge_page": {
+      "message": "Εμφάνιση του αριθμού των αποκλεισμένων στοιχείων στην τρέχουσα σελίδα"
+   },
+   "themes_badge_today": {
+      "message": "Εμφάνιση του σημερινού αριθμού αποκλεισμένων στοιχείων"
+   }
+}

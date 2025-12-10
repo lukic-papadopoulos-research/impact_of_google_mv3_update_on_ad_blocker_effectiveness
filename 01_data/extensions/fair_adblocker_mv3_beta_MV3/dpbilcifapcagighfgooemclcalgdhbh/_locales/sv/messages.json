@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Lägg till webbplats"
+   },
+   "added_sites": {
+      "message": "Tillagda webbplatser"
+   },
+   "advanced": {
+      "message": "Avancerad"
+   },
+   "advertisement": {
+      "message": "Annons"
+   },
+   "advertising": {
+      "message": "Annonsmarknad"
+   },
+   "adware": {
+      "message": "Adware"
+   },
+   "adware_text": {
+      "message": "Blockera skadliga program som injicerar annonser i din webbläsare, kapar dina klick eller startsida, och spårar din aktivitet."
+   },
+   "allow_fair_ads": {
+      "message": "Tillåt rättvisa annonser"
+   },
+   "allow_fair_ads_description": {
+      "message": "Genom att tillåta några annonser hjälper du de deltagande webbplatserna som förlitar sig på intäkter från annonsering och stödjer en fri och rättvis webb."
+   },
+   "allowed_sites": {
+      "message": "Tillåtna webbplatser"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Blockera irriterande annonser, popup-fönster, skadlig kod och spårning (även på Facebook och Youtube), surfa snabbare och skydda din integritet."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Tillgänglig på"
+   },
+   "back_to_home": {
+      "message": "Tillbaka till startsidan"
+   },
+   "bagels": {
+      "message": "Det är som två bagels"
+   },
+   "basic": {
+      "message": "Grundläggande"
+   },
+   "block_element": {
+      "message": "Blockera"
+   },
+   "block_elements_on_this_page": {
+      "message": "Blockera element på denna sida"
+   },
+   "block_popups": {
+      "message": "Blockera popup-fönster på denna webbplats"
+   },
+   "blocking_resumed": {
+      "message": "Blockering återupptas på $host$",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Blockeringsinställningar"
+   },
+   "blocking_statistic": {
+      "message": "Blockeringsstatistik"
+   },
+   "blocking_statistics_text": {
+      "message": "Här har du historisk data om hur många annonser som blockerats under en viss period."
+   },
+   "blocks_on_this_page": {
+      "message": "Blockerade element på denna sida"
+   },
+   "blocks_today": {
+      "message": "Blockerade idag"
+   },
+   "board_text_1": {
+      "message": "Stands-teamet är tacksamt att du installerat tillägget. För att göra din upplevelse av produkten så bekväm som möjligt, vänligen granska"
+   },
+   "board_text_2": {
+      "message": "och justera dem om det behövs."
+   },
+   "bouquet": {
+      "message": "Det är som en bukett och en ask choklad"
+   },
+   "burger": {
+      "message": "Det är som en burgare"
+   },
+   "burger_menu": {
+      "message": "Det är som en burgare-menyn"
+   },
+   "bypass": {
+      "message": "Bypass"
+   },
+   "close": {
+      "message": "Stäng"
+   },
+   "continue": {
+      "message": "Fortsätt"
+   },
+   "cup_of_coffee": {
+      "message": "Det är som en kopp kaffe"
+   },
+   "custom_amount": {
+      "message": "Anpassat belopp"
+   },
+   "custom_amount_text": {
+      "message": "Det är upp till dig att välja priset"
+   },
+   "describe_the_issue": {
+      "message": "Beskriv problemet"
+   },
+   "disable_other": {
+      "message": "Inaktivera andra annonsblockerare"
+   },
+   "dismiss": {
+      "message": "Avvisa"
+   },
+   "donate": {
+      "message": "Donera"
+   },
+   "donation_screen_text": {
+      "message": "För att bibehålla fri tillgång för alla Stands Fair-användare, samtidigt som produkten ständigt förbättras, ber vi om ditt stöd. Alla pengar kommer att användas till att förbättra produkten."
+   },
+   "donation_settings_text": {
+      "message": "Stands är och kommer alltid att vara en gratis produkt. Donationer är endast för välgörande ändamål och påverkar inte funktionaliteten eller prestandan hos individuella enheter. Om du vill stödja vårt team och se till att tillägget bara blir bättre och visas på nya plattformar, välj det belopp du vill donera."
+   },
+   "donation_settings_title": {
+      "message": "Donera till Stands Fair AdBlocker"
+   },   
+   "element": {
+      "message": "element"
+   },
+   "elements": {
+      "message": "element"
+   },
+   "elements_blocked": {
+      "message": "$count$ element blockerade",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "E-post"
+   },
+   "email_cant_be_empty": {
+      "message": "E-post kan inte vara tom"
+   },
+   "facebook_ads": {
+      "message": "Facebook-annonser"
+   },
+   "facebook_ads_text": {
+      "message": "Annons som visas i din nyhetsmatris och bredvid den. Blockeras inte som standard eftersom det är så Facebook finansierar den gratis tjänst den tillhandahåller."
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock av STANDS"
+   },
+   "fairness_settings": {
+      "message": "Inställningar för rättvisa"
+   },
+   "fairness_settings_text": {
+      "message": "Maximalt antal annonser tillåtna på en sida"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "feedback_screen_text": {
+      "message": "Vi skulle vilja höra dina tankar, förslag, oro eller problem med något så att vi kan förbättra!"
+   },
+   "guided_setup": {
+      "message": "Börja med en guidad installation:"
+   },
+   "guided_setup_go": {
+      "message": "LÅT OSS GÅ"
+   },
+   "guided_setup_later": {
+      "message": "SENARE"
+   },
+   "has_closed_popups": {
+      "message": "Fair AdBlocker har stängt $count$ popup-fönster", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "totalt"
+   },
+   "include_current_url": {
+      "message": "Inkludera aktuell URL i rapporten" 
+   },
+   "is_mandatory": {
+      "message": "$name$ är obligatoriskt",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Blockerade element"
+   },
+   "keep_off": {
+      "message": "Håll det avstängt"
+   },
+   "minutes_saved": {
+      "message": "minuter sparade"
+   },
+   "monthly": {
+      "message": "Månatlig"
+   },
+   "monthly_donation": {
+      "message": "Månadsvis donation"
+   },
+   "more_info_on_statistics": {
+      "message": "Mer information på 'Statistik'-skärmen"
+   },
+   "no_blocked_on_this_page": {
+      "message": "Det fanns inga blockerade element på den här sidan"
+   },
+   "on_this_page": {
+      "message": "på den här sidan"
+   },
+   "other_blocks": {
+      "message": "Din andra annonsblockerare blockerar fortfarande annonser"
+   },
+   "other_disabled": {
+      "message": "Perfekt, andra annonsblockerare har inaktiverats!"
+   },
+   "other_prevents": {
+      "message": "Din andra annonsblockerare hindrar förbigåendet"
+   },
+   "off": {
+      "message": "avstängd"
+   },
+   "pay_with": {
+      "message": "Betala med"
+   },
+   "pay_with_credit_card": {
+      "message": "Betala med kreditkort"
+   },
+   "pizza": {
+      "message": "Det är som en pizza"
+   },
+   "popups": {
+      "message": "Popup-fönster"
+   },
+   "popup_allowed_add_sites": {
+      "message": "Lägg till webbplatser med tillåtna popup-fönster med hjälp av formuläret nedan."
+   },
+   "popup_allowed_sites": {
+      "message": "Webbplatser med tillåtna popup-fönster"
+   },
+   "popups_text": {
+      "message": "Som standard blockeras popup-fönster på alla webbplatser, du kan tillåta popup-fönster på specifika webbplatser"
+   },
+   "privacy_policy": {
+      "message": "Integritetspolicy"
+   },
+   "rate_fairadblocker": {
+      "message": "Betygsätt Fair Adblocker för att hjälpa oss att växa och samla in mer"
+   },
+   "refresh": {
+      "message": "Uppdatera"
+   },
+   "refresh_take_effect": {
+      "message": "Uppdatera sidan för att ändringen ska träda i kraft"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Rapportera problem på den här sidan"
+   },
+   "report_issue_text": {
+      "message": "Vi beklagar att något inte stämmer. Berätta för oss om det och vi kommer att åtgärda det."
+   },
+   "resume_blocking": {
+      "message": "Återuppta blockering på denna webbplats"
+   },
+   "seconds_saved": {
+      "message": "sekunder sparade"
+   },
+   "search_ads": {
+      "message": "Sökannonser"
+   },
+   "search_ads_text": {
+      "message": "Annonser som visas bredvid dina sökresultat. Inte blockerade som standard eftersom det är så Google, Microsoft och andra finansierar den fria tjänst de tillhandahåller."
+   },
+   "send": {
+      "message": "Skicka"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Inställningar"
+   },
+   "sponsored": {
+      "message": "Sponsrade länkar"
+   },
+   "sponsored_text": {
+      "message": "Många webbplatser visar artikelrekommendationer som är relevanta för den du läser, några av dem är sponsrade och kan betraktas som annonser."
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "STANDS är tillbaka på"
+   },
+   "stands_is_paused": {
+      "message": "STANDS är pausad på alla webbplatser"
+   },
+   "stands_turned_off": {
+      "message": "STANDS är avstängd"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "STANDS är avstängd, vill du aktivera den?"
+   },
+   "statistic": {
+      "message": "Statistik"
+   },
+   "stop_closing": {
+      "message": "Sluta stänga popup-fönster"
+   },
+   "sushi": {
+      "message": "Det är som en sushi-middag för en person"
+   },
+   "terms_of_use": {
+      "message": "Användarvillkor"
+   },
+   "the_site_was_whitelisted": {
+      "message": "Webbplatsen $host$ blev vitlistad",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Denna webbplats blockerar eller visar ett meddelande till användare av ad-blockerare"
+   },
+   "total": {
+      "message": "Totalt"
+   },
+   "tracking": {
+      "message": "Spårning"
+   },
+   "tracking_text": {
+      "message": "Skydda din integritet från tusentals webb-spårningsskript och tredjeparter"
+   },
+   "turn_on": {
+      "message": "Sätt på"
+   },
+   "turn_on_blocking": {
+      "message": "Sätt på blockering"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Sätt på rättvis annonsblockering"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Stäng av blockering överallt"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Avblockera element på den här sidan"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Ångra mina blockerade element på den här sidan"
+   },
+   "uninstall": {
+      "message": "Avinstallera"
+   },
+   "version": {
+      "message": "Version"
+   },
+   "web_mail": {
+      "message": "Webbmail-annonser"
+   },
+   "web_mail_text": {
+      "message": "Textannonser som visas längst upp i din e-postlista. Inte blockerade som standard eftersom det är så Google, Yahoo och andra finansierar den fria tjänst de tillhandahåller."
+   },
+   "whitelist": {
+      "message": "Vitlista"
+   },
+   "whitelist_this_site": {
+      "message": "Lägg till den här webbplatsen på vitlistan"
+   },
+   "whitelisted_sites": {
+      "message": "Webbplatser på vitlistan"
+   },
+   "whitelisted_text": {
+      "message": "Här kan du hantera din vitlista. När en webbplats är vitlistad är Stands helt avstängd på den webbplatsen, ingen blockering av något slag och ingen placering av annonser som sponsrar din sak."
+   },
+   "winebottle": {
+      "message": "Det är som en flaska god vin"
+   },
+   "would_bypass": {
+      "message": "Vill du kringgå det eller lägga till den här webbplatsen på vitlistan?"
+   },
+   "would_disable_other": {
+      "message": "Vill du inaktivera din andra annonsblockerare?"
+   },
+   "would_rate": {
+      "message": "Vill du betygsätta oss?"
+   },
+   "would_stop": {
+      "message": "Vill du att det ska sluta eller fortsätta?"
+   },
+   "yearly": {
+      "message": "Årlig"
+   },
+   "yearly_donation": {
+      "message": "Årlig donation"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "Du blockerade $ads$ annonser, $popups$ popup-fönster och sparade $saved$",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "Du har $count$ olästa meddelanden",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "Du har samlat in $donations$ mikrodonationer till $cause$",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Du har avblockerat $count$ $elems$ på den här sidan",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Tema"
+   },
+   "themes_title": {
+      "message": "Anpassa utseende"
+   },
+   "themes_badge_settings": {
+      "message": "Badge inställningar"
+   },
+   "themes_badge_disabled": {
+      "message": "Visa inte märket"
+   },
+   "themes_badge_page": {
+      "message": "Visa antalet blockerade objekt på Aktuell sida"
+   },
+   "themes_badge_today": {
+      "message": "Visa dagens antal blockerade objekt"
+   }
+}

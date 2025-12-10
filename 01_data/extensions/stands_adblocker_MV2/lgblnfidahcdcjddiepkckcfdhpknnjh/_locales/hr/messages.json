@@ -1,0 +1,558 @@
+{
+  "add_site": {
+    "message": "Dodaj stranicu"
+  },
+  "added_sites": {
+    "message": "Dodane stranice"
+  },
+  "advanced": {
+    "message": "Napredno"
+  },
+  "advertisement": {
+    "message": "Oglas"
+  },
+  "advertising": {
+    "message": "Oglašavanje"
+  },
+  "adware": {
+    "message": "Oglašivački softver"
+  },
+  "adware_text": {
+    "message": "Blokiraj zlonamjerne programe koji ubacuju oglase u vaš preglednik, otimaju vaše klikove ili početnu stranicu i prate vašu aktivnost"
+  },
+  "allow_fair_ads": {
+    "message": "Dopusti fer oglase"
+  },
+  "allow_fair_ads_description": {
+    "message": "Dopuštanje nekoliko oglasa pomaže podržati web stranice koje ovise o prihodima od oglašavanja i podržava slobodan i pošten web."
+  },
+  "allowed_sites": {
+    "message": "Dopuštene stranice"
+  },
+  "appDesc": {
+    "description": "Description of Application",
+    "message": "Blokiraj dosadne oglase, iskačuće prozore, malware i praćenje (čak i na Facebooku i YouTubeu), brže pregledavanje i zaštita vaše privatnosti."
+  },
+  "appName": {
+    "description": "Name of Application",
+    "message": "Stands AdBlocker"
+  },
+  "back_to_home": {
+    "message": "Natrag na početni zaslon"
+  },
+  "bagels": {
+    "message": "To je kao dva bagela"
+  },
+  "basic": {
+    "message": "Osnovno"
+  },
+  "block_element": {
+    "message": "Blokiraj"
+  },
+  "block_elements_on_this_page": {
+    "message": "Blokiraj elemente na ovoj stranici"
+  },
+  "block_popups": {
+    "message": "Blokiraj iskačuće prozore na ovoj stranici"
+  },
+  "blocking_resumed": {
+    "message": "Blokiranje nastavljeno na $host$",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "blocking_settings": {
+    "message": "Postavke blokiranja"
+  },
+  "blocking_statistic": {
+    "message": "Statistika blokiranja"
+  },
+  "blocking_statistics_text": {
+    "message": "Ovdje imate povijesne podatke o tome koliko je oglasa blokirano u određenom razdoblju."
+  },
+  "blocks_on_this_page": {
+    "message": "Blokovi na ovoj stranici"
+  },
+  "blocks_today": {
+    "message": "Blokovi danas"
+  },
+  "board_text_1": {
+    "message": "Tim Standsa vam je zahvalan na instaliranju proširenja. Kako bi vaše iskustvo s proizvodom bilo što ugodnije, molimo vas da pregledate"
+  },
+  "board_text_2": {
+    "message": "i prilagoditi ih po potrebi."
+  },
+  "bouquet": {
+    "message": "To je kao buket cvijeća i kutija čokolade."
+  },
+  "burger": {
+    "message": "To je kao hamburger."
+  },
+  "burger_menu": {
+    "message": "To je kao izbornik hamburgera."
+  },
+  "bypass": {
+    "message": "Preskoči"
+  },
+  "close": {
+    "message": "Zatvori"
+  },
+  "continue": {
+    "message": "Nastavi"
+  },
+  "cup_of_coffee": {
+    "message": "To je kao šalica kave."
+  },
+  "custom_amount": {
+    "message": "Prilagođeni iznos"
+  },
+  "custom_amount_text": {
+    "message": "Na vama je da odaberete cijenu."
+  },
+  "describe_the_issue": {
+    "message": "Opis problema"
+  },
+  "disable_other": {
+    "message": "Onemogući drugi ad blocker"
+  },
+  "dismiss": {
+    "message": "Odbaci"
+  },
+  "donate": {
+    "message": "Doniraj"
+  },
+  "donation_screen_text": {
+    "message": "Kako bi održali besplatan pristup za apsolutno sve korisnike Stands Fair-a, dok stalno unapređujemo proizvod, molimo vas za podršku. Sva sredstva će biti uložena u unaprjeđenje proizvoda."
+  },
+  "donation_settings_text": {
+    "message": "Stands je i uvijek će biti besplatan proizvod. Donacije su isključivo u dobrotvorne svrhe i nemaju utjecaj na funkcionalnost ili performanse pojedinih uređaja. Ako želite podržati naš tim i osigurati da se proširenje samo poboljšava i pojavljuje na novim platformama, odaberite iznos koji biste željeli donirati."
+  },
+  "donation_settings_title": {
+    "message": "Donirajte za Stands AdBlocker"
+  },
+  "element": {
+    "message": "element"
+  },
+  "elements": {
+    "message": "elementi"
+  },
+  "elements_blocked": {
+    "message": "blokirano $count$ elemenata",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "email": {
+    "message": "E-pošta"
+  },
+  "email_cant_be_empty": {
+    "message": "E-pošta ne može biti prazna"
+  },
+  "facebook_ads": {
+    "message": "Oglasi na Facebooku"
+  },
+  "facebook_ads_text": {
+    "message": "Oglasi koji se pojavljuju u vašem news feedu i pokraj njega. Nisu blokirani prema zadanim postavkama jer je to način na koji Facebook financira besplatnu uslugu koju pruža."
+  },
+  "adblocker_by_stands": {
+    "message": "AdBlocker od STANDS-a"
+  },
+  "fairness_settings": {
+    "message": "Postavke pravednosti"
+  },
+  "fairness_settings_text": {
+    "message": "Maksimalan broj oglasa dopušten na stranici"
+  },
+  "feedback": {
+    "message": "Povratna informacija"
+  },
+  "feedback_screen_text": {
+    "message": "Željeli bismo čuti vaše misli, prijedloge, zabrinutosti ili probleme s bilo čime kako bismo se mogli poboljšati!"
+  },
+  "guided_setup": {
+    "message": "Započnite s vođenim postavljanjem:"
+  },
+  "guided_setup_go": {
+    "message": "KRENIMO"
+  },
+  "guided_setup_later": {
+    "message": "KASNIJE"
+  },
+  "has_closed_popups": {
+    "message": "Stands AdBlocker je zatvorio $count$ iskačućih prozora",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "in_total": {
+    "message": "ukupno"
+  },
+  "include_current_url": {
+    "message": "Uključite trenutni URL u izvješće"
+  },
+  "is_mandatory": {
+    "message": "$name$ je obvezno",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "items_blocked": {
+    "message": "Blokirani elementi"
+  },
+  "keep_off": {
+    "message": "Isključite ga"
+  },
+  "minutes_saved": {
+    "message": "ušteđeno minuta"
+  },
+  "monthly": {
+    "message": "Mjesečno"
+  },
+  "monthly_donation": {
+    "message": "Mjesečna donacija"
+  },
+  "more_info_on_statistics": {
+    "message": "Više informacija na zaslonu 'Statistika'"
+  },
+  "no_blocked_on_this_page": {
+    "message": "Na ovoj stranici nema blokiranih elemenata"
+  },
+  "on_this_page": {
+    "message": "na ovoj stranici"
+  },
+  "other_blocks": {
+    "message": "Vaš drugi bloker oglasa i dalje blokira oglase"
+  },
+  "other_disabled": {
+    "message": "Odlično, drugi blokeri oglasa su uspješno isključeni!"
+  },
+  "other_prevents": {
+    "message": "Vaš drugi bloker oglasa sprečava obilazak"
+  },
+  "off": {
+    "message": "isključeno"
+  },
+  "pay_with": {
+    "message": "Plati sa"
+  },
+  "pay_with_credit_card": {
+    "message": "Plati kreditnom karticom"
+  },
+  "pizza": {
+    "message": "To je kao pizza"
+  },
+  "popups": {
+    "message": "Iskačući prozori"
+  },
+  "popup_allowed_add_sites": {
+    "message": "Dodajte web-lokacije s dopuštenim iskačućim prozorima koristeći obrazac u nastavku."
+  },
+  "popup_allowed_sites": {
+    "message": "Web-lokacije s dopuštenim iskačućim prozorima"
+  },
+  "popups_text": {
+    "message": "Iskačući prozori su po defaultu blokirani na svim web-lokacijama, ali možete im dopustiti na određenim web-lokacijama."
+  },
+  "privacy_policy": {
+    "message": "Pravila privatnosti"
+  },
+  "rate_stands_adblocker": {
+    "message": "Ocijenite Stands AdBlocker da nam pomognete rasti i prikupiti više sredstava"
+  },
+  "refresh": {
+    "message": "Osvježi"
+  },
+  "refresh_take_effect": {
+    "message": "Osvježi stranicu da bi se promjena primijenila"
+  },
+  "report_an_issue": {
+    "message": "Report an issue"
+  },
+  "report_issue_on_this_page": {
+    "message": "Prijavite problem na ovoj stranici"
+  },
+  "report_issue_text": {
+    "message": "Žao nam je što nešto nije u redu. Recite nam o tome i popravit ćemo to."
+  },
+  "resume_blocking": {
+    "message": "Nastavi blokirati na ovoj web-lokaciji"
+  },
+  "seconds_saved": {
+    "message": "ušteđeno sekundi"
+  },
+  "search_ads": {
+    "message": "Pretraži oglase"
+  },
+  "search_ads_text": {
+    "message": "Oglasi koji se pojavljuju pokraj vaših rezultata pretraživanja. Nisu blokirani po zadanom jer tako Google, Microsoft i drugi financiraju besplatnu uslugu koju pružaju."
+  },
+  "send": {
+    "message": "Pošalji"
+  },
+  "send_feedback": {
+    "message": "Send feedback"
+  },
+  "settings": {
+    "message": "Postavke"
+  },
+  "sponsored": {
+    "message": "Sponzorirane veze"
+  },
+  "sponsored_text": {
+    "message": "Mnoge stranice prikazuju preporuke članaka relevantnih za ono što čitate, neki od njih su sponzorirani i mogu se smatrati oglasima"
+  },
+  "stands": {
+    "message": "STANDS"
+  },
+  "stands_back_on": {
+    "message": "STANDS je ponovno uključen"
+  },
+  "stands_is_paused": {
+    "message": "STANDS je pauziran na svim stranicama"
+  },
+  "stands_turned_off": {
+    "message": "STANDS je isključen"
+  },
+  "stands_turned_off_would_turn": {
+    "message": "STANDS je isključen, želite li ga uključiti?"
+  },
+  "statistic": {
+    "message": "Statistika"
+  },
+  "stop_closing": {
+    "message": "Prestani zatvarati iskačuće prozore"
+  },
+  "sushi": {
+    "message": "To je kao večera sa sushi-jem za jednu osobu"
+  },
+  "terms_of_use": {
+    "message": "Uvjeti korištenja"
+  },
+  "the_site_was_whitelisted": {
+    "message": "Web stranica $host$ je dodana na bijelu listu",
+    "placeholders": {
+      "host": {
+        "content": "$1",
+        "example": "-"
+      }
+    }
+  },
+  "this_site_shows": {
+    "message": "Ova stranica blokira ili prikazuje poruku korisnicima koji koriste blokiranje oglasa"
+  },
+  "total": {
+    "message": "Ukupno"
+  },
+  "tracking": {
+    "message": "Pracenje"
+  },
+  "tracking_text": {
+    "message": "Zaštitite svoju privatnost od tisuća web skripti za praćenje i trećih strana"
+  },
+  "turn_on": {
+    "message": "Uključi"
+  },
+  "turn_on_blocking": {
+    "message": "Uključi blokiranje"
+  },
+  "turn_on_fair_adblocking": {
+    "message": "Uključi fer blokiranje oglasa"
+  },
+  "turn_off_blocking_everywhere": {
+    "message": "Isključi blokiranje svugdje"
+  },
+  "unblock_elements_on_this_page": {
+    "message": "Odblokiraj elemente na ovoj stranici"
+  },
+  "undo_my_blocked_on_this_page": {
+    "message": "Poništi blokirane elemente na ovoj stranici"
+  },
+  "uninstall": {
+    "message": "Deinstaliraj"
+  },
+  "version": {
+    "message": "Verzija"
+  },
+  "web_mail": {
+    "message": "Oglasi u web pošti"
+  },
+  "web_mail_text": {
+    "message": "Tekstualni oglasi koji se pojavljuju na vrhu vašeg popisa pošte. Nisu blokirani po zadanom jer tako Google, Yahoo i drugi financiraju besplatnu uslugu koju pružaju."
+  },
+  "whitelist": {
+    "message": "Bijela lista"
+  },
+  "whitelist_this_site": {
+    "message": "Dodaj ovu stranicu na bijelu listu"
+  },
+  "whitelisted_sites": {
+    "message": "Stranice na bijeloj listi"
+  },
+  "whitelisted_text": {
+    "message": "Ovdje možete upravljati svojom bijelom listom. Kada je stranica na bijeloj listi, Stands je potpuno onemogućen na toj stranici, nema blokiranja ni vrste oglasa koji podržavaju vašu stvar."
+  },
+  "winebottle": {
+    "message": "To je kao boca dobra vina"
+  },
+  "would_bypass": {
+    "message": "Želite li zaobići ili dodati ovu stranicu na bijelu listu?"
+  },
+  "would_disable_other": {
+    "message": "Želite li onemogućiti drugi blokator oglasa?"
+  },
+  "would_rate": {
+    "message": "Želite li nas ocijeniti?"
+  },
+  "would_stop": {
+    "message": "Želite li da se zaustavi ili nastavi?"
+  },
+  "yearly": {
+    "message": "Godišnje"
+  },
+  "yearly_donation": {
+    "message": "Godišnja donacija"
+  },
+  "you_blocked_ads_popups_and_saved": {
+    "message": "Blokirali ste $ads$ oglasa, $popups$ iskačućih prozora i uštedjeli $saved$",
+    "placeholders": {
+      "ads": {
+        "content": "$1",
+        "example": "0"
+      },
+      "popups": {
+        "content": "$2",
+        "example": "0"
+      },
+      "saved": {
+        "content": "$3",
+        "example": "0"
+      }
+    }
+  },
+  "you_raised_donations": {
+    "message": "Sakupili ste $donations$ mikrodonacija za $cause$",
+    "placeholders": {
+      "donations": {
+        "content": "$1",
+        "example": "0"
+      },
+      "cause": {
+        "content": "$2",
+        "example": "cause"
+      }
+    }
+  },
+  "you_unblocked_on_this_page": {
+    "message": "Odblokirali ste $count$ $elems$ na ovoj stranici",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "0"
+      },
+      "elems": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "youtube_whitelisted": {
+    "message": "$youtube$ is whitelisted",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "youtube_whitelisted_text": {
+    "message": "To ensure uninterrupted video viewing, $youtube$ has been whitelisted despite its all ad blocker restrictions.",
+    "placeholders": {
+      "youtube": {
+        "content": "$1",
+        "example": ""
+      }
+    }
+  },
+  "themes": {
+    "message": "Teme"
+  },
+  "themes_title": {
+    "message": "Prilagodba izgleda"
+  },
+  "themes_badge_settings": {
+    "message": "Postavke ikona"
+  },
+  "themes_badge_disabled": {
+    "message": "Ne prikazuj značku"
+  },
+  "themes_badge_page": {
+    "message": "Prikaži broj zaključanih stavki na trenutnoj stranici"
+  },
+  "themes_badge_today": {
+    "message": "Prikaži današnji broj zaključanih stavki"
+  },
+  "donation_card_text": {
+    "message": "Kako bismo $stands$ besplatno i poboljšali njegovu kvalitetu, tražimo vašu podršku.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_header": {
+    "message": "Dostupno za $android$ i druge preglednike",
+    "placeholders": {
+      "android": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "available_on_text": {
+    "message": "Preuzmite $stands_browser$ i uživajte u surfanju internetom bez oglasa na $android$. Proširenje možete instalirati i u druge preglednike.",
+    "placeholders": {
+      "stands_browser": {
+        "content": "$1",
+        "example": "0"
+      },
+      "android": {
+        "content": "$2",
+        "example": "0"
+      }
+    }
+  },
+  "onboarding_donation_header": {
+    "message": "Kako nas podržati?"
+  },
+  "onboarding_donation_text": {
+    "message": "$stands$ je i bit će besplatan proizvod. Možete donirati bilo koji iznos kako biste bili sigurni da proširenje postaje bolje i pojavljuje se na više platformi.",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  },
+  "donation_notification_text": {
+    "message": "Pomozite nam da zadržimo $stands$ besplatno i poboljšamo njegovu kvalitetu",
+    "placeholders": {
+      "stands": {
+        "content": "$1",
+        "example": "0"
+      }
+    }
+  }
+}

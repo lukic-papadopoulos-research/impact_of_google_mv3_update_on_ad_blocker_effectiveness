@@ -1,0 +1,501 @@
+{
+   "add_site": {
+      "message": "Добавяне на сайт"
+   },
+   "added_sites": {
+      "message": "Добавени сайтове"
+   },
+   "advanced": {
+      "message": "Напреднали"
+   },
+   "advertisement": {
+      "message": "Реклама"
+   },
+   "advertising": {
+      "message": "Рекламиране"
+   },
+   "adware": {
+      "message": "Рекламен софтуер"
+   },
+   "adware_text": {
+      "message": "Блокиране на злонамерени програми, които вмъкват реклами в браузъра ви, открадват вашите кликвания или началната страница и проследяват вашата дейност."
+   },
+   "allow_fair_ads": {
+      "message": "Разрешаване на честни реклами"
+   },
+   "allow_fair_ads_description": {
+      "message": "Изборът да разрешите няколко реклами помага на уебсайтовете, които се основават на приходите от рекламата, и подкрепя свободния и справедлив уеб."
+   },
+   "allowed_sites": {
+      "message": "Разрешени сайтове"
+   },
+   "appDesc": {
+      "description": "Description of Application",
+      "message": "Блокиране на дразнещи реклами, изскачащи прозорци, злонамерен софтуер и проследяване (дори на Facebook и Youtube), по-бързо разглеждане и защита на вашата поверителност."
+   },
+   "appName": {
+      "description": "Name of Application",
+      "message": "Fair AdBlocker MV3 (Beta)"
+   },
+   "available_on": {
+      "message": "Наличен на"
+   },
+   "back_to_home": {
+      "message": "Обратно към началния екран"
+   },
+   "bagels": {
+      "message": "Това е като две багела"
+   },
+   "basic": {
+      "message": "Основни"
+   },
+   "block_element": {
+      "message": "Блокиране"
+   },
+   "block_elements_on_this_page": {
+      "message": "Блокиране на елементи на тази страница"
+   },
+   "block_popups": {
+      "message": "Блокиране на изскачащи прозорци на този сайт"
+   },
+   "blocking_resumed": {
+      "message": "Блокирането бе възобновено на $host$",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "blocking_settings": {
+      "message": "Настройки за блокиране"
+   },
+   "blocking_statistic": {
+      "message": "Статистика на блокиране"
+   },
+   "blocking_statistics_text": {
+      "message": "Тук имате исторически данни за това колко реклами са били блокирани през определен период."
+   },
+   "blocks_on_this_page": {
+      "message": "Блокове на тази страница"
+   },
+   "blocks_today": {
+      "message": "Блокове днес"
+   },
+   "board_text_1": {
+      "message": "Екипът на Stands ви благодари, че инсталирахте разширението. За да направите преживяването с продукта възможно най-удобно, моля прегледайте"
+   },
+   "board_text_2": {
+      "message": "и ги настроите, ако е необходимо."
+   },
+   "bouquet": {
+      "message": "Това е като букет и кутия шоколад."
+   },
+   "burger": {
+      "message": "Това е като хамбургер."
+   },
+   "burger_menu": {
+      "message": "Това е като меню с хамбургери."
+   },
+   "bypass": {
+      "message": "Пропускане"
+   },
+   "close": {
+      "message": "Затваряне"
+   },
+   "continue": {
+      "message": "Продължи"
+   },
+   "cup_of_coffee": {
+      "message": "Това е като чаша кафе."
+   },
+   "custom_amount": {
+      "message": "Избор на персонализирано количество"
+   },
+   "custom_amount_text": {
+      "message": "Вие избирате цената."
+   },
+   "describe_the_issue": {
+      "message": "Опишете проблема."
+   },
+   "disable_other": {
+      "message": "Изключване на други блокери на реклами."
+   },
+   "dismiss": {
+      "message": "Затваряне"
+   },
+   "donate": {
+      "message": "Дарение"
+   },
+   "donation_screen_text": {
+      "message": "За да поддържаме свободен достъп за всички потребители на Stands Fair, докато постоянно подобряваме продукта, ви молим за вашата подкрепа. Всички пари ще бъдат изразходвани за подобряване на продукта."
+   },
+   "donation_settings_text": {
+      "message": "Stands е и ще бъде безплатен продукт. Даренията са изцяло за благотворителни цели и нямат влияние върху функционалността или производителността на отделните устройства. Ако желаете да подкрепите нашия екип и да се уверите, че разширението може да стане по-добро и да се появи на нови платформи, изберете сумата, която искате да дарите."
+   },
+   "donation_settings_title": {
+      "message": "Дарение за Stands Fair AdBlocker"
+   },   
+   "element": {
+      "message": "елемент"
+   },
+   "elements": {
+      "message": "елементи"
+   },
+   "elements_blocked": {
+      "message": "$count$ блокирани елемента",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "email": {
+      "message": "Имейл"
+   },
+   "email_cant_be_empty": {
+      "message": "Имейлът не може да бъде празен."
+   },
+   "facebook_ads": {
+      "message": "Facebook реклами"
+   },
+   "facebook_ads_text": {
+      "message": "Реклами, които се появяват във вашата лента с новини и до нея. По подразбиране не са блокирани, защото така Facebook финансира безплатната услуга, която предоставя."
+   },
+   "fair_by_stands": {
+      "message": "Fair AdBlock от STANDS"
+   },
+   "fairness_settings": {
+      "message": "Настройки за справедливост"
+   },
+   "fairness_settings_text": {
+      "message": "Максимален брой реклами на страница"
+   },
+   "feedback": {
+      "message": "Обратна връзка"
+   },
+   "feedback_screen_text": {
+      "message": "Ще се радваме да чуем вашите мисли, предложения, притеснения или проблеми с нещо, за да можем да подобрим продукта!"
+   },
+   "guided_setup": {
+      "message": "Започнете с ръководство за настройка:"
+   },
+   "guided_setup_go": {
+      "message": "СТАРТИРАЙ"
+   },
+   "guided_setup_later": {
+      "message": "ПО-КЪСНО"
+   },
+   "has_closed_popups": {
+      "message": "Fair AdBlocker е блокирал $count$ изскачащи прозорци", 
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "in_total": {
+      "message": "общо"
+   },
+   "include_current_url": {
+      "message": "Включване на текущия URL в доклада" 
+   },
+   "is_mandatory": {
+      "message": "$name$ е задължително.",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "-"
+         }
+      }
+   },
+   "items_blocked": {
+      "message": "Елементи, блокирани"
+   },
+   "keep_off": {
+      "message": "Задръжте го изключен"
+   },
+   "minutes_saved": {
+      "message": "спестени минути"
+   },
+   "monthly": {
+      "message": "Месечно"
+   },
+   "monthly_donation": {
+      "message": "Месечен дарителски внос"
+   },
+   "more_info_on_statistics": {
+      "message": "Повече информация на екрана 'Статистика'"
+   },
+   "no_blocked_on_this_page": {
+      "message": "Не бяха блокирани елементи на тази страница"
+   },
+   "on_this_page": {
+      "message": "на тази страница"
+   },
+   "other_blocks": {
+      "message": "Другият ви блокер на реклами все още блокира реклами"
+   },
+   "other_disabled": {
+      "message": "Перфектно, другите блокери на реклами бяха успешно деактивирани!"
+   },
+   "other_prevents": {
+      "message": "Другият ви блокер на реклами предотвратява обхода"
+   },
+   "off": {
+      "message": "изключен"
+   },
+   "pay_with": {
+      "message": "Платете с"
+   },
+   "pay_with_credit_card": {
+      "message": "Платете с кредитна карта"
+   },
+   "pizza": {
+      "message": "Това е като пица"
+   },
+   "popups": {
+      "message": "Изкачащи прозорци"
+   },
+   "popup_allowed_add_sites": {
+      "message": "Добавете сайтове с разрешени изкачащи прозорци, използвайки формата по-долу."
+   },
+   "popup_allowed_sites": {
+      "message": "Разрешени сайтове за изкачащи прозорци"
+   },
+   "popups_text": {
+      "message": "По подразбиране, изкачащите прозорци се блокират на всички сайтове, можете да разрешите изкачащи прозорци на конкретни сайтове."
+   },
+   "privacy_policy": {
+      "message": "Декларация за поверителност"
+   },
+   "rate_fairadblocker": {
+      "message": "Оценете Fair Adblocker, за да ни помогнете да растем и да повишаваме подкрепата"
+   },
+   "refresh": {
+      "message": "Опреснете"
+   },
+   "refresh_take_effect": {
+      "message": "Опреснете страницата, за да влезе в сила тази промяна"
+   },
+   "report_an_issue": {
+      "message": "Report an issue"
+   },
+   "report_issue_on_this_page": {
+      "message": "Докладвайте проблем на тази страница"
+   },
+   "report_issue_text": {
+      "message": "Съжаляваме, че нещо не е наред. Моля, кажете ни за това и ще го оправим."
+   },
+   "resume_blocking": {
+      "message": "Възобновяване на блокирането на този сайт"
+   },
+   "seconds_saved": {
+      "message": "спестени секунди"
+   },
+   "search_ads": {
+      "message": "Търсещи реклами"
+   },
+   "search_ads_text": {
+      "message": "Рекламите, които се появяват до резултатите от търсенето ви. По подразбиране не се блокират, защото така Google, Microsoft и други финансират безплатните услуги, които предоставят."
+   },
+   "send": {
+      "message": "Изпращане"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "sponsored": {
+      "message": "Спонсорирани връзки"
+   },
+   "sponsored_text": {
+      "message": "Много сайтове показват препоръки за статии, свързани с тази, която четете, някои от тях са спонсорирани и могат да се считат за реклами"
+   },
+   "stands": {
+      "message": "STANDS"
+   },
+   "stands_back_on": {
+      "message": "STANDS е включен"
+   },
+   "stands_is_paused": {
+      "message": "STANDS е спрян на всички сайтове"
+   },
+   "stands_turned_off": {
+      "message": "STANDS е изключен"
+   },
+   "stands_turned_off_would_turn": {
+      "message": "STANDS е изключен, искате ли да го включите?"
+   },
+   "statistic": {
+      "message": "Статистика"
+   },
+   "stop_closing": {
+      "message": "Спрете затварянето на изскачащи прозорци"
+   },
+   "sushi": {
+      "message": "Това е като вечеря със суши за един"
+   },
+   "terms_of_use": {
+      "message": "Условия за ползване"
+   },
+   "the_site_was_whitelisted": {
+      "message": "Сайтът $host$ е добавен в белите списъци",
+      "placeholders": {
+         "host": {
+           "content": "$1",
+           "example": "-"
+         }
+      }
+   },
+   "this_site_shows": {
+      "message": "Този сайт блокира или показва съобщение на потребителите на блокери на реклами"
+   },
+   "total": {
+      "message": "Общо"
+   },
+   "tracking": {
+      "message": "Препращане"
+   },
+   "tracking_text": {
+      "message": "Защитете личните си данни от хиляди скриптове за проследяване и трети страни"
+   },
+   "turn_on": {
+      "message": "Включване"
+   },
+   "turn_on_blocking": {
+      "message": "Включете блокирането"
+   },
+   "turn_on_fair_adblocking": {
+      "message": "Включете честното блокиране на реклами"
+   },
+   "turn_off_blocking_everywhere": {
+      "message": "Изключване на блокирането навсякъде"
+   },
+   "unblock_elements_on_this_page": {
+      "message": "Отблокиране на елементи на тази страница"
+   },
+   "undo_my_blocked_on_this_page": {
+      "message": "Възстановяване на блокирани елементи на тази страница"
+   },
+   "uninstall": {
+      "message": "Деинсталиране"
+   },
+   "version": {
+      "message": "Версия"
+   },
+   "web_mail": {
+      "message": "Реклами в уеб пощата"
+   },
+   "web_mail_text": {
+      "message": "Текстови реклами, които се появяват в горната част на списъка с вашия имейл. Не се блокират по подразбиране, защото така Google, Yahoo и други финансират безплатната услуга, която предоставят"
+   },
+   "whitelist": {
+      "message": "Бели списъци"
+   },
+   "whitelist_this_site": {
+      "message": "Добавете този сайт в белите списъци"
+   },
+   "whitelisted_sites": {
+      "message": "Управление на белите списъци"
+   },
+   "whitelisted_text": {
+      "message": "Когато сайтът е включен в белия списък, Stands е напълно изключен на този сайт, никакво блокиране и никакво разместване на реклами, които спонсорират вашата кауза."
+   },
+   "winebottle": {
+      "message": "Това е като бутилка добро вино"
+   },
+   "would_bypass": {
+      "message": "Искате ли да го пропуснете или да добавите този сайт в белия списък?"
+   },
+   "would_disable_other": {
+      "message": "Искате ли да изключите другият си блокер на реклами?"
+   },
+   "would_rate": {
+      "message": "Искате ли да ни оцените?"
+   },
+   "would_stop": {
+      "message": "Искате ли това да спре или да продължи?"
+   },
+   "yearly": {
+      "message": "Годишно"
+   },
+   "yearly_donation": {
+      "message": "Годишно дарение"
+   },
+   "you_blocked_ads_popups_and_saved": {
+      "message": "Блокирахте $ads$ реклами, $popups$ изскачащи прозорци и спести $saved$",
+      "placeholders": {
+         "ads": {
+           "content": "$1",
+           "example": "0"
+         },
+         "popups": {
+            "content": "$2",
+            "example": "0"
+         },
+         "saved": {
+            "content": "$3",
+            "example": "0"
+         }
+       }
+   },
+   "you_have_unread_notifications": {
+      "message": "Имате $count$ непрочетени уведомления",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "you_raised_donations": {
+      "message": "Събрахте $donations$ микро-дарения за $cause$",
+      "placeholders": {
+         "donations": {
+           "content": "$1",
+           "example": "0"
+         },
+         "cause": {
+            "content": "$2",
+            "example": "cause"
+         }
+       }
+   },
+   "you_unblocked_on_this_page": {
+      "message": "Разблокирахте $count$ $elems$ на тази страница",
+      "placeholders": {
+         "count": {
+           "content": "$1",
+           "example": "0"
+         },
+         "elems": {
+            "content": "$2",
+            "example": "0"
+         }
+      }
+   },
+
+   "themes": {
+      "message": "Теми"
+   },
+   "themes_title": {
+      "message": "Персонализиране на външния вид"
+   },
+   "themes_badge_settings": {
+      "message": "Настройки на значките"
+   },
+   "themes_badge_disabled": {
+      "message": "Не показвай значката"
+   },
+   "themes_badge_page": {
+      "message": "Показване на броя на блокираните елементи на текущата страница"
+   },
+   "themes_badge_today": {
+      "message": "Показване на днешния брой блокирани елементи"
+   }
+}
