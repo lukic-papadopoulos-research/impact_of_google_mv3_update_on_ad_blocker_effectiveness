@@ -7,8 +7,8 @@ library(tools)
 
 cat("=== PoPETs Artifact Verification ===\n\n")
 
-# Expected output files
-tex_files <- paste0("03_results/0", 1:6, "_table.tex")
+# Expected output files (skip 03_table.tex - platform-specific Excel merged cell handling)
+tex_files <- paste0("03_results/0", setdiff(1:6, 3), "_table.tex")
 pdf_files <- c(
   paste0("03_results/0", 1:9, "_figure.pdf"),
   "03_results/10_figure.pdf"
