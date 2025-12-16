@@ -1,7 +1,6 @@
 # Privacy vs. Profit: The Impact of Google's Manifest Version 3 (MV3) Update on Ad Blocker Effectiveness
 
 [![Paper](https://img.shields.io/badge/arXiv-2503.01000-b31b1b.svg)](https://arxiv.org/abs/2503.01000)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17769752.svg)](https://doi.org/10.5281/zenodo.17769752)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Reproducibility](https://github.com/karlolukic/impact-of-google-mv3-on-ad-blocker-effectivenesss/actions/workflows/reproduce.yml/badge.svg)](https://github.com/karlolukic/impact-of-google-mv3-on-ad-blocker-effectivenesss/actions/workflows/reproduce.yml)
 
