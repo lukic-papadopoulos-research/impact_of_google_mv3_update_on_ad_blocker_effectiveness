@@ -2,7 +2,6 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2503.01000-b31b1b.svg)](https://arxiv.org/abs/2503.01000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Reproducibility](https://github.com/karlolukic/impact-of-google-mv3-on-ad-blocker-effectivenesss/actions/workflows/reproduce.yml/badge.svg)](https://github.com/karlolukic/impact-of-google-mv3-on-ad-blocker-effectivenesss/actions/workflows/reproduce.yml)
 
 **Authors:**
 [Karlo Lukic](https://orcid.org/0000-0003-2745-6473) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2745--6473-A6CE39.svg)](https://orcid.org/0000-0003-2745-6473) and
