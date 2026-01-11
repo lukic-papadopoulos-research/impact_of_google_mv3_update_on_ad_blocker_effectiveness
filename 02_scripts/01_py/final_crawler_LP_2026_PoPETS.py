@@ -76,27 +76,40 @@ import hashlib
 
 ############################### INPUT START:
 # Paths to Chome version 
-driver_path = r'XXX'
-binary_path = r'XXX'
+# Replace 'XXX' with your local paths. Example structure:
+#
+# C:/Users/YourName/Research/
+# ├── chromedriver-win64/
+# │   └── chromedriver.exe
+# ├── chrome-win64/
+# │   └── chrome.exe
+# ├── downloads/                    # Where crawled data will be saved
+# └── extensions/
+#     ├── 01_super-agent/neooppigbkahgfdhbpbhcccgpimeaafi/
+#     ├── 02_azerion/nndadbimjipilgfojofhpjjkhgflkih/
+#     └── ...
+
+driver_path = r'XXX/chromedriver-win64/chromedriver.exe'
+binary_path = r'XXX/chrome-win64/chrome.exe'
 
 # Path to folder with 
-downloads_path = r'XXX'
+downloads_path = r'XXX/downloads'
 
 # Specify the paths to your Chrome extensions
 # Default extensions:
-extension_path1 = r'XXX' # Input the path to Super-Agent
-extension_path2 = r'XXX' # Input the path to Azerion
-extension_path3 = r'XXX' # Input the path to http-recorder
+extension_path1 = r'XXX/extensions/01_super-agent/neooppigbkahgfdhbpbhcccgpimeaafi' # Input the path to Super-Agent
+extension_path2 = r'XXX/extensions/02_azerion/nndadbimjipilgfojofhpjjkhgflkih' # Input the path to Azerion
+extension_path3 = r'XXX/extensions/03_http-recorder/ckjelkgpooomhchnnmbofckmnncifinb' # Input the path to http-recorder
 
 # Ad Blockers:
-extension_path4 = r'XXX' # Input the path to Adblock_ Plus 3.25.1_MV2
-extension_path5 = r'XXX' # Input the path to Adblock Plus 4.5.1_MV3
-extension_path6 = r'XXX' # Input the path to Adguard MV2
-extension_path7 = r'XXX' # Input the path to Adguard MV3
-extension_path8 = r'XXX' # Input the path to Stands MV2
-extension_path9 = r'XXX' # Input the path to Fair MV3
-extension_path10 = r'XXX' # Input the path to Ublock Origin MV2
-extension_path11 = r'XXX' # Input the path to Ublock Origin Lite MV3
+extension_path4 = r'XXX/extensions/adblock_plus_free_ad_blocker_3.25.1_MV2/cfhdojbkjhnklbpkdaibdccddilifddb' # Input the path to Adblock_ Plus 3.25.1_MV2
+extension_path5 = r'XXX/extensions/adblock_plus_free_ad_blocker_4.5.1_MV3/cfhdojbkjhnklbpkdaibdccddilifddb' # Input the path to Adblock Plus 4.5.1_MV3
+extension_path6 = r'XXX/extensions/adguard_adblocker_MV2/bgnkhhnnamicmpeenaelnjfhikgbkllg' # Input the path to Adguard MV2
+extension_path7 = r'XXX/extensions/adguard_adblocker_mv3_beta_MV3/apjcbfpjihpedihablmalmbbhjpklbdf' # Input the path to Adguard MV3
+extension_path8 = r'XXX/extensions/stands_adblocker_MV2/lgblnfidahcdcjddiepkckcfdhpknnjh' # Input the path to Stands MV2
+extension_path9 = r'XXX/extensions/fair_adblocker_mv3_beta_MV3/dpbilcifapcagighfgooemclcalgdhbh' # Input the path to Fair MV3
+extension_path10 = r'XXX/extensions/ublock_origin_MV2/cjpalhdlnbpafiamejdnhcphjbkeiagm' # Input the path to Ublock Origin MV2
+extension_path11 = r'XXX/extensions/ublock_origin_lite_MV3/ddkjiahejlhfcafbddmgiahcphecmpfh' # Input the path to Ublock Origin Lite MV3
 
 # Website List
 # website_path= r"D:\Lazaros\Privacy\99_Websites/my_list.csv" - for demo purposes, a list of one single website is used below ("nba.com")
