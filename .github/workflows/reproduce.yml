@@ -18,5 +18,8 @@ jobs:
     - name: Build Docker image
       run: docker build -t mv3-artifact .
 
+    - name: Run analysis
+      run: docker run --rm mv3-artifact Rscript 02_scripts/02_R/reproducible_analysis.R
+
     - name: Verify pre-generated outputs
       run: docker run --rm mv3-artifact Rscript verify_outputs.R
