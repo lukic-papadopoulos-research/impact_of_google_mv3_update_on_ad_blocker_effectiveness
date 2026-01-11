@@ -214,6 +214,7 @@ The scripts are included for **transparency and methodology documentation**. The
 
 The R analysis is **fully reproducible** and generates all paper figures and tables from the provided datasets.
 Please make sure the 03_results directory contains 01-figure.pdf and 02_figure.pdf to fully render all graphs.
+
 ---
 
 ## Notes for Reviewers
