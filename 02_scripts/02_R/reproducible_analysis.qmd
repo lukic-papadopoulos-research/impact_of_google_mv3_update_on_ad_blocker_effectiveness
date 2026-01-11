@@ -143,9 +143,11 @@ nrow(blocker_effectiveness_df) == n_sites * n_instances
 
 ```{r}
 #| label: chunk-4
-pdftools::pdf_render_page("../../03_results/01_figure.pdf", dpi = 300) |>
-  magick::image_read() |>
-  plot()
+if (file.exists("../../03_results/01_figure.pdf")) {
+  pdftools::pdf_render_page("../../03_results/01_figure.pdf", dpi = 300) |>
+    magick::image_read() |>
+    plot()
+}
 
 ```
 
@@ -211,9 +213,11 @@ cat(glue::glue(
 
 ```{r}
 #| label: chunk-7
-pdftools::pdf_render_page("../../03_results/02_figure.pdf", dpi = 300) |>
-  magick::image_read() |>
-  plot()
+if (file.exists("../../03_results/02_figure.pdf")) {
+  pdftools::pdf_render_page("../../03_results/02_figure.pdf", dpi = 300) |>
+    magick::image_read() |>
+    plot()
+}
 
 ```
 
