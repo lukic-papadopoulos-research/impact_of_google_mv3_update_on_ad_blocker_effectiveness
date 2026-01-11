@@ -56,6 +56,7 @@ The artifact contains all materials needed to reproduce the analysis presented i
 **Option B: Native R**
 - R 4.4+ ([download](https://cran.r-project.org/))
 - renv (R package manager, included in repository)
+- gfortran (required for compiling some R packages)
 
 All R package dependencies are pinned in `renv.lock` with exact versions.
 
