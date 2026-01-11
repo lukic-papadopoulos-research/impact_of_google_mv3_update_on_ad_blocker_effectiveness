@@ -90,9 +90,11 @@ nrow(blocker_effectiveness_df) == n_sites * n_instances
 
 # Figure 1:  Illustration of The Manifest (manifest.json) File for an Extension ------
 
-pdftools::pdf_render_page("./03_results/01_figure.pdf", dpi = 300) |>
-  magick::image_read() |>
-  plot()
+if (file.exists("./03_results/01_figure.pdf")) {
+  pdftools::pdf_render_page("./03_results/01_figure.pdf", dpi = 300) |>
+    magick::image_read() |>
+    plot()
+}
 
 # Table 1:  Overview of MV3 and MV2 Ad Blockers Used in the Browser-Based Experiment ------
 
@@ -143,9 +145,11 @@ cat(glue::glue(
 
 # Figure 2: Illustration of the Browser Experiment and Data Collection Process ------
 
-pdftools::pdf_render_page("./03_results/02_figure.pdf", dpi = 300) |>
-  magick::image_read() |>
-  plot()
+if (file.exists("./03_results/02_figure.pdf")) {
+  pdftools::pdf_render_page("./03_results/02_figure.pdf", dpi = 300) |>
+    magick::image_read() |>
+    plot()
+}
 
 # Figure 3: Distribution of the Number of Blocked Ads (Panel A) and Trackers (Panel B) per Website and Browser Instance ------
 
