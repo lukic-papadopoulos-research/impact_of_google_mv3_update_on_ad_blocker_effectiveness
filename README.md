@@ -63,7 +63,8 @@ flowchart LR
 ### Prerequisites
 - R 4.4+ ([download](https://cran.r-project.org/))
 - RStudio (recommended) or terminal
-
+- gfortran (required for compiling some R packages)
+    
 ### Steps
 
 ```bash
